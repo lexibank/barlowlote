@@ -1,0 +1,23 @@
+{
+    "title": "Barlow Lote",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": ""
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

@@ -1,0 +1,592 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_2plsubjectprefix2pl,2pl subject prefix (2PL),1213,YOU
+2_ediblepossessiveclassifierpossed,edible possessive classifier (POSS.ED),,
+3_transitivesuffixtr,transitive suffix (TR),,
+4_treewoodfirewoodstick,"tree; wood, firewood, stick",2141,TREE OR WOOD
+5_baseofatreetreetrunk,base of a tree; tree trunk,344,TREE TRUNK
+6_leafofatree,leaf of a tree,628,LEAF
+7_fruitofatree,fruit of a tree,1507,FRUIT
+8_branchofatree,branch of a tree,1531,BRANCH
+9_seedofatree,seed of a tree,714,SEED
+10_rootofatree,root of a tree,670,ROOT
+11_barkofatree,bark of a tree,1204,BARK
+12_pieceofwood,piece of wood,1803,WOOD
+13_childrenplural,children (plural),2099,CHILD
+14_canoe,canoe,1970,CANOE
+15_dry,dry,1398,DRY
+16_thoroughlycompletely,"thoroughly, completely",,
+17_wormearthworm,"worm, earthworm",1219,WORM
+18_suckeregofabananaplant,"sucker (e.g., of a banana plant)",546,SUCKER
+19_topicmarkertop,topic marker (TOP),,
+20_fourcountinginfoursusedasanadnominalnumeral,four (counting in fours; used as an adnominal numeral),1500,FOUR
+21_twenty20,twenty (20),1710,TWENTY
+22_twohundred200,two hundred (200),2676,TWO HUNDRED
+23_hundredonehundred100,"hundred, one hundred (100)",1634,HUNDRED
+24_forty40,forty (40),1716,FORTY
+25_fifty50,fifty (50),1717,FIFTY
+26_ten10,ten (10),1515,TEN
+27_legfoot,"leg, foot",2098,FOOT OR LEG
+28_foot,foot,1301,FOOT
+29_ashasheswhiteash,"ash, ashes (white ash)",646,ASH
+30_tosit,to sit,1416,SIT
+31_chair,chair,1476,CHAIR
+32_drumtypehanddrumtpkundu,drum type (hand drum; TP: kundu),908,DRUM
+33_tocome,to come,1446,COME
+34_wrongcrazydrunken,"wrong, crazy, drunken",1899,MAD
+35_round,round,1395,ROUND
+36_mansmothersbrotherunclemanssisterssonnephewtpkandere,"man’s mother’s brother (uncle), man’s sister’s son (nephew) (TP: kandere)",2692,MATERNAL UNCLE (MOTHER'S BROTHER)
+37_1sgsubjectprefix1sg,1sg subject prefix (1SG),1209,I
+38_girl,girl,1646,GIRL
+39_shoulder,shoulder,1482,SHOULDER
+40_skirtgrassskirtforwomen,"skirt, grass skirt for women",1600,SKIRT
+41_paintusedforteethblackening,paint used for teeth blackening,,
+42_tallgingertpgorgor,tall ginger (TP: gorgor),,
+43_bottombelow,bottom; below,690,BOTTOM
+44_husband,husband,1200,HUSBAND
+45_name,name,1405,NAME
+46_otheranotherone,"other, another; one",197,OTHER
+47_transitivesuffixtr,transitive suffix (TR),,
+48_bitter,bitter,887,BITTER
+49_blood,blood,946,BLOOD
+50_breath,breath,870,BREATH
+51_one1,one (1),1493,ONE
+52_torub,to rub,1449,RUB
+53_pandanus,pandanus,469,PANDANUS
+54_nonegativeresponsewordnotnegatorneg,no (negative response word); not (negator) (NEG),2279,NO OR NOT
+55_tolooktosee,"to look, to see",1819,LOOK
+56_mother1sg,mother (1sg),1216,MOTHER
+57_toknow,to know,3626,KNOW
+58_daycountable,day (countable),1260,DAY (24 HOURS)
+59_waterriver,"water, river",2798,RIVER OR WATER
+60_lake,lake,624,LAKE
+61_clam,clam,,
+62_thigh,thigh,471,UPPER LEG (THIGH)
+63_liver,liver,1224,LIVER
+64_toblowofthewindtoclimbtoascendtogouptogrow,"to blow (of the wind); to climb, to ascend, to go up; to grow",,
+65_mouth,mouth,674,MOUTH
+66_toyawn,to yawn,1028,YAWN
+67_lip,lip,478,LIP
+68_muchmanyalot,"much, many, a lot",1198,MANY
+69_sick,sick,1847,SICK
+70_callingyellingshouting,"calling, yelling, shouting",,
+71_menplural,men (plural),1554,MAN
+72_wetsmellystinky,"wet; smelly, stinky",1726,WET
+73_table,table,1775,TABLE
+74_thick,thick,1244,THICK
+75_spider,spider,843,SPIDER
+76_daughter,daughter,1357,DAUGHTER
+77_frog,frog,503,FROG
+78_grass,grass,606,GRASS
+79_flowerofabananaplant,flower (of a banana plant),239,FLOWER
+80_totalktospeaktosay,"to talk, to speak, to say",2708,TALK
+81_talkspeechtptoktok,"talk, speech (TP: toktok)",1115,SPEECH
+82_todance,to dance,1879,DANCE
+83_causativeprefixcaus,causative prefix (CAUS),,
+84_womenfemalesplural,"women, females (plural)",962,WOMAN
+85_womanfemalewife,"woman, female; wife",1551,FEMALE
+86_oldwoman,old woman,907,OLD WOMAN
+87_toblowafiretoraisesomething,to blow (a fire); to raise (something),,
+88_reciprocalsuffixrecpeachotheroneanother,"reciprocal suffix (RECP) (each other, one another)",,
+89_somefew,"some, few",1241,SOME
+90_tobreakinpieces,to break in pieces,3020,BREAK (BREAKING)
+91_toturn,to turn,1588,TURN
+92_four4,four (4),1500,FOUR
+93_topointouttochoosetoselect,"to point out; to choose, to select",,
+94_pointerfingerindexfingerforefinger,"pointer finger, index finger, forefinger",577,FOREFINGER
+95_mountaintempleofthehead,mountain; temple (of the head),639,MOUNTAIN
+96_tongue,tongue,1205,TONGUE
+97_toplay,to play,1413,PLAY
+98_tochoosetopick,"to choose, to pick",1750,CHOOSE
+99_yearcustomarydance,year; customary dance,1226,YEAR
+100_toshow,to show,1039,SHOW
+101_todaynow,"today, now",2097,NOW OR TODAY
+102_new,new,1231,NEW
+103_howmany,how many?,822,HOW MANY
+104_toblocktotie,"to block, to tie",2762,BLOCK (THE WAY)
+105_tail,tail,1220,TAIL
+106_leftnotright,left (not right),244,LEFT
+107_outtogoouttotakeouttoremove,"out; to go out, to take out, to remove",1107,GO OUT
+108_coldsickness,"cold, sickness",3819,COLD (FEELING COLD)
+109_baseofatree,base (of a tree),831,BASE
+110_toturnovertocapsize,"to turn over, to capsize",3537,TURN OVER
+111_bandicoot,bandicoot,3012,BANDICOOT
+112_tokilltobite,to kill; to bite,1417,KILL
+113_animalmeat,"animal, meat",2096,ANIMAL OR MEAT
+114_toblow,to blow,176,BLOW (WITH MOUTH)
+115_white,white,1335,WHITE
+116_3sgpronounhehimsheherit,"3sg pronoun (he, him, she, her, it)",262,HE OR SHE OR IT
+117_leafhairofthehead,leaf; hair (of the head),628,LEAF
+118_nose,nose,1221,NOSE
+119_towalk,to walk,1443,WALK
+120_tocome,to come,1446,COME
+121_transitivesuffixtr,transitive suffix (TR),,
+122_because,because,1157,BECAUSE
+123_1sgpronounime,"1sg pronoun (I, me)",1209,I
+124_mansbrotherinlaw,man’s brother-in-law,2314,BROTHER-IN-LAW
+125_1sgpossessivesuffixmy1sgposs,1sg possessive suffix (my) (1SG.POSS),2090,MY
+126_snake,snake,730,SNAKE
+127_bamboospwildbamboo,bamboo sp. (wild bamboo),1927,BAMBOO
+128_2sgpossessivesuffixthyyour2sgposs,"2sg possessive suffix (thy, your) (2SG.POSS)",732,YOUR (SINGULAR)
+129_1plexclpronounweus,"1pl.excl pronoun (we, us)",1212,WE
+130_1trexclpronounwethreeusthree,"1tr.excl pronoun (we three, us three)",,
+131_1duexclpronounwetwoustwo,"1du.excl pronoun (we two, us two)",2636,WE TWO (EXCLUSIVE)
+132_2plpronounyeyouyall,"2pl pronoun (ye, you, y’all)",1213,YOU
+133_2trpronounyethreeyouthreeyallthree,"2tr pronoun (ye three, you three, y’all three)",,
+134_2dupronounyetwoyoutwoyalltwo,"2du pronoun (ye two, you two, y’all two)",2111,YOU TWO
+135_todrink,to drink,1401,DRINK
+136_smellystinky,"smelly, stinky",42,STINKING
+137_painpainfultohurttobeinpain,"pain; painful; to hurt, to be in pain",2561,HURT (SENSE PAIN)
+138_speargeneric,spear (generic),945,SPEAR
+139_2sgpronounthoutheeyou,"2sg pronoun (thou, thee, you)",1215,THOU
+140_3plpronountheythem,"3pl pronoun (they, them)",817,THEY
+141_3trpronountheythreethemthree,"3tr pronoun (they three, them three)",,
+142_3dupronountheytwothemtwo,"3du pronoun (they two, them two)",2635,THEY TWO
+143_highlandsmountain,"highlands, mountain",639,MOUNTAIN
+144_1plinclpronounweus,"1pl.incl pronoun (we, us)",1212,WE
+145_1trinclpronounwethreeusthree,"1tr.incl pronoun (we three, us three)",,
+146_1duinclpronounwetwoustwo,"1du.incl pronoun (we two, us two)",2637,WE TWO (INCLUSIVE)
+147_who,who?,1235,WHO
+148_star,star,1430,STAR
+149_bamboosp,bamboo sp.,1927,BAMBOO
+150_toblowtocallforsomeonetoshout,"to blow; to call (for someone), to shout",,
+151_groundearthsoil,"ground, earth, soil",1228,EARTH (SOIL)
+152_mainland,mainland,166,MAINLAND
+153_1sgpossessivesuffixmy1sgposs,1sg possessive suffix (my) (1SG.POSS),2090,MY
+154_heart,heart,1223,HEART
+155_knife,knife,1352,KNIFE
+156_neck,neck,1333,NECK
+157_totietofasten,"to tie, to fasten",1917,TIE
+158_totieup,to tie up,2891,TIE UP (TETHER)
+159_indiancoraltreetpbalbal,Indian coral tree (TP: balbal),,
+160_shield,shield,1064,SHIELD
+161_spearforshootingfishspearwithmultipleprongs,"spear for shooting fish, spear with multiple prongs",841,FISHING SPEAR
+162_fardistant,"far, distant",1406,FAR
+163_theremedialdemonstrative,there (medial demonstrative),1937,THERE
+164_dog,dog,2009,DOG
+165_prepositionprepthatcomplementizercomp,preposition (PREP); that (complementizer) (COMP),,
+166_tosteal,to steal,713,STEAL
+167_hardnotsoft,hard (not soft),1884,HARD
+168_bone,bone,1394,BONE
+169_pig,pig,1337,PIG
+170_plantsp,plant sp.,,
+171_strengthmuscle,"strength, muscle",202,STRENGTH
+172_tosit,to sit,1416,SIT
+173_villageplace,"village, place",930,VILLAGE
+174_tothunder,to thunder,2378,THUNDER (VERB)
+175_tolightningtoflash,"to lightning, to flash",2377,FLASH (VERB)
+176_smalllittleperson,"small, little (person)",1246,SMALL
+177_toscrubtobrushtowipe,"to scrub, to brush, to wipe",1454,WIPE
+178_breadfruit,breadfruit,2371,BREADFRUIT
+179_hereproximaldemonstrativetobehere,here (proximal demonstrative); to be here,136,HERE
+180_yellow,yellow,1424,YELLOW
+181_boy,boy,1366,BOY
+182_bag,bag,2468,BAG
+183_son,son,1620,SON
+184_sweetpotatotpkaukau,sweet potato (TP: kaukau),159,SWEET POTATO
+185_hiding,hiding,2486,HIDE
+186_tohidesomething,to hide (something),602,HIDE (CONCEAL)
+187_thereyonderdistaldemonstrative,"there, yonder (distal demonstrative)",3411,OVER THERE
+188_incorrectwrongfalse,"incorrect, wrong, false",1390,WRONG
+189_pathroadtrail,"path, road, trail",2457,PATH OR ROAD
+190_digitfingertoe,"digit, finger, toe",2120,FINGER OR TOE
+191_walkingstick,walking stick,1296,WALKING STICK
+192_limetpkambang,lime (TP: kambang),2540,LIME (MATERIAL)
+193_crab,crab,2348,CRAB
+194_stillyetincompletivemarkerincmpl,"still, yet (incompletive marker (INCMPL)",2919,STILL (CONTINUING)
+195_thunder,thunder,1150,THUNDER
+196_therethithermedialdemonstrative,"there, thither (medial demonstrative)",1937,THERE
+197_togo,to go,695,GO
+198_where,where?,1237,WHERE
+199_herehitherproximaldemonstrative,"here, hither (proximal demonstrative)",136,HERE
+200_hereproximaldemonstrative,here (proximal demonstrative),136,HERE
+201_theremedialdemonstrative,there (medial demonstrative),1937,THERE
+202_thereyonderdistaldemonstrative,"there, yonder (distal demonstrative)",3411,OVER THERE
+203_flyhousefly,"fly, housefly",1504,FLY (INSECT)
+204_marchflyblowfly,"march fly, blowfly",,
+205_irrealismarkerirr,irrealis marker (IRR),,
+206_arecoidpalmsptplimbum,arecoid palm sp. (TP: limbum),,
+207_rotten,rotten,1728,ROTTEN
+208_tocatch,to catch,702,CATCH
+209_tobaketocookinanearthoventpmumuim,"to bake, to cook in an earth oven (TP: mumuim)",183,BAKE
+210_toflowofariver,to flow (of a river),2003,FLOW
+211_smooth,smooth,1234,SMOOTH
+212_tobuild,to build,1840,BUILD
+213_tocarve,to carve,228,CARVE
+214_inside,inside,1606,INSIDE
+215_tothink,to think,2271,THINK
+216_tothink,to think,2271,THINK
+217_generalpossessiveclassifierpossgen,general possessive classifier (POSS.GEN),,
+218_tofly,to fly,1441,FLY (MOVE THROUGH AIR)
+219_fourcountinginfoursonlyasanabsolutenumeralnotasanadnominalnumeral,"four (counting in fours; only as an absolute numeral, not as an adnominal numeral)",1500,FOUR
+220_sixteen16countinginfours,sixteen (16) (counting in fours),2454,SIXTEEN
+221_sixteen16countinginfours,sixteen (16) (counting in fours),2454,SIXTEEN
+222_twelve12countinginfours,twelve (12) (counting in fours),1707,TWELVE
+223_eight8countinginfours,eight (8) (counting in fours),1705,EIGHT
+224_twelve12countinginfours,twelve (12) (counting in fours),1707,TWELVE
+225_eight8countinginfours,eight (8) (counting in fours),1705,EIGHT
+226_nine9countinginfours,nine (9) (counting in fours),1483,NINE
+227_eleven11countinginfours,eleven (11) (counting in fours),1706,ELEVEN
+228_ten10countinginfours,ten (10) (counting in fours),1515,TEN
+229_five5countinginfours,five (5) (counting in fours),493,FIVE
+230_seven7countinginfours,seven (7) (counting in fours),1704,SEVEN
+231_six6countinginfours,six (6) (counting in fours),1703,SIX
+232_clean,clean,2235,CLEAN (SOMETHING)
+233_tocuttohacktochop,"to cut, to hack, to chop",3889,CUT OR HACK
+234_five5,five (5),493,FIVE
+235_oppositesexsiblingsisterofamanorbrotherofawoman,opposite-sex sibling (sister of a man or brother of a woman),,
+236_youngeroppositesexsibling,younger opposite-sex sibling,3040,DIFFERENT-SEX YOUNGER SIBLING
+237_olderoppositesexsibling,older opposite-sex sibling,3039,DIFFERENT-SEX OLDER SIBLING
+238_alreadycompletivemarkercmpl,already (completive marker) (CMPL),2576,ALREADY
+239_lastbornchild,lastborn (child),,
+240_toopenadoor,to open (a door),1156,OPEN
+241_taro,taro,351,TARO
+242_gingertpkawawar,ginger (TP: kawawar),2500,GINGER
+243_redanttpkarakum,red ant (TP: karakum),,
+244_coldcool,"cold, cool",1287,COLD
+245_towashtocleantowipe,"to wash, to clean, to wipe",1453,WASH
+246_yesterday,yesterday,1174,YESTERDAY
+247_tolistentohear,"to listen, to hear",3862,HEAR OR LISTEN
+248_tofalltofalldown,"to fall, to fall down",1280,FALL
+249_lotelanguage,Lote (language),,
+250_allwhole,all; whole,98,ALL
+251_ant,ant,587,ANT
+252_withtogetherwithcomitative,"with, together with (comitative)",1340,WITH
+253_uphigh,"up, high",1591,UP
+254_2sgpossessivesuffixthyyour2sgposs,"2sg possessive suffix (thy, your) (2SG.POSS)",732,YOUR (SINGULAR)
+255_ordisjunctivecoordinator,or (disjunctive coordinator),1014,OR
+256_tolietoliedowntosleep,"to lie, to lie down; to sleep",1411,LIE (REST)
+257_todream,to dream,1920,DREAM (SOMETHING)
+258_rat,rat,1490,RAT
+259_toburnpersonassubjecttocookwithfire,"to burn (person as subject), to cook (with fire)",141,BURN (SOMETHING)
+260_gutsintestines,"guts, intestines",1334,GUTS
+261_soft,soft,1856,SOFT
+262_cordylineplanttptanget,cordyline plant (TP: tanget),,
+263_clothtplaplap,cloth (TP: laplap),1616,CLOTH
+264_wildfowl,wild fowl,,
+265_tosleep,to sleep,1585,SLEEP
+266_baby,baby,1289,BABY
+267_toweave,to weave,133,WEAVE
+268_onlyjust,"only, just",1580,ONLY
+269_tofloattoswimofanimals,to float; to swim (of animals),1574,FLOAT
+270_eel,eel,,
+271_rightcorrecttrue,"right, correct, true",1725,CORRECT (RIGHT)
+272_crocodile,crocodile,1857,CROCODILE
+273_dust,dust,2,DUST
+274_eye,eye,1248,EYE
+275_tearteardrop,"tear, teardrop",1651,TEAR (OF EYE)
+276_sharp,sharp,1396,SHARP
+277_dullblunt,"dull, blunt",379,BLUNT
+278_tobeafraidtofear,"to be afraid, to fear",1419,FEAR (BE AFRAID)
+279_tolivetobealive,"to live, to be alive",1422,BE ALIVE
+280_chest,chest,1592,CHEST
+281_toshametobeashamedtofeelshamereflexive,"to shame; to be ashamed, to feel shame (reflexive)",1894,ASHAMED
+282_someoneapersonhumanbeing,"someone; (a) person, human being",2422,SOMEONE
+283_skirtbarkloinclothformentpmalo,"skirt, bark loincloth for men (TP: malo)",1600,SKIRT
+284_tostand,to stand,1442,STAND
+285_heavy,heavy,1210,HEAVY
+286_husbandssistersisterinlaw,husband’s sister (sister-in-law),,
+287_tolaugh,to laugh,1355,LAUGH
+288_1plexclpossessivesuffixour1plexclposs,1pl.excl possessive suffix (our) (1PL.EXCL.POSS),780,OUR
+289_totaketogettocarryinthehandtohold,"to take, to get, to carry (in the hand), to hold",1749,TAKE
+290_tobring,to bring,692,BRING
+291_thin,thin,2308,THIN
+292_howwhy,how?; why?,1239,HOW
+293_salt,salt,1274,SALT
+294_todietobedead,"to die, to be dead",1494,DIE
+295_tobehungry,to be hungry,1533,BE HUNGRY
+296_toitchtoscratchastransitive,to itch; to scratch (as transitive),3855,ITCH (CAUSE ITCHING OR FEEL ITCHY)
+297_hotwarm,"hot, warm",2272,HOT OR WARM
+298_night,night,1233,NIGHT
+299_clear,clear,989,CLEAR
+300_island,island,622,ISLAND
+301_cassava,cassava,925,CASSAVA
+302_meatflesh,"meat, flesh",2615,FLESH OR MEAT
+303_1plexclsubjectprefix1plexcl,1pl.excl subject prefix (1PL.EXCL),1130,WE (EXCLUSIVE)
+304_2plpossessivesuffixyouryalls2plposs,"2pl possessive suffix (your, y’all’s) (2PL.POSS)",2274,YOUR (PLURAL)
+305_three3,three (3),492,THREE
+306_tofallofrain,to fall (of rain),2234,FALL (OF SNOW AND RAIN)
+307_yam,yam,410,YAM
+308_sweet,sweet,717,SWEET
+309_fatgrease,"fat, grease",323,FAT (ORGANIC SUBSTANCE)
+310_bagwovenbagmadeofwovenvines,"bag, woven bag made of woven vines",2468,BAG
+311_againtogobacktoreturnreflexivemarkerselfselvesrefl,"again; to go back, to return; reflexive marker (-self, -selves) (REFL)",204,AGAIN
+312_shadowshade,"shadow, shade",1388,SHADE
+313_mucussnot,"mucus, snot",208,NASAL MUCUS (SNOT)
+314_blackdirty,black; dirty,163,BLACK
+315_pluralmarkerpl,plural marker (PL),,
+316_full,full,1429,FULL
+317_tovomit,to vomit,1278,VOMIT
+318_fog,fog,249,FOG
+319_3sgpossessivesuffixhisherits3sgposs,"3sg possessive suffix (his, her, its) (3SG.POSS)",2092,HIS OR HER
+320_generalpossessiveclassifier3sgpossgen3sg,general possessive classifier (3sg) (POSS.GEN.3SG),,
+321_nitlouseegg,"nit, louse egg",267,NIT
+322_two2,two (2),1498,TWO
+323_tolooktosee,"to look, to see",1819,LOOK
+324_wallaby,wallaby,165,WALLABY
+325_generalpossessiveclassifier3sgpossgen3sg,general possessive classifier (3sg) (POSS.GEN.3SG),,
+326_thatwhichrelativizerrel,"that, which (relativizer) (REL)",727,WHICH
+327_if,if,1459,IF
+328_3sgpossessivesuffixhisherits3sgposs,"3sg possessive suffix (his, her, its) (3SG.POSS)",2092,HIS OR HER
+329_thisproximaldemonstrativeclosetospeaker,this (proximal demonstrative) (close to speaker),1214,THIS
+330_thatmedialdemonstrativeclosetohearer,that (medial demonstrative) (close to hearer),78,THAT
+331_thatthatyonderdistaldemonstrativefarfrombothspeakerandhearer,"that, that yonder (distal demonstrative) (far from both speaker and hearer)",78,THAT
+332_bird,bird,937,BIRD
+333_before,before,1882,BEFORE
+334_oldthing,old (thing),1229,OLD
+335_man,man,1554,MAN
+336_oldman,old man,406,OLD MAN
+337_tohitwithastick,to hit (with a stick),1433,HIT
+338_tobathe,to bathe,138,BATHE
+339_inatonlocativeprepositionwithinstrumentalprepositionprep,"in, at, on (locative preposition), with (instrumental preposition) (PREP)",,
+340_nominalizingsuffix,nominalizing suffix,,
+341_soul,soul,811,SOUL
+342_where,where?,1237,WHERE
+343_conch,conch,,
+344_adjectivizingsuffix,adjectivizing suffix,,
+345_fruitberry,"fruit, berry",1507,FRUIT
+346_toeattoburnfireassubject,to eat; to burn (fire as subject),1336,EAT
+347_food,food,256,FOOD
+348_vinesplarge,vine sp. (large),343,VINE
+349_inatonpersonalnameprepositionpreppnthancomparative,"in, at, on (personal name preposition) (PREP.PN); than (comparative)",,
+350_yesterday,yesterday,1174,YESTERDAY
+351_when,when?,1238,WHEN
+352_tomorrow,tomorrow,1329,TOMORROW
+353_tosuckandchewsugarcane,to suck and chew (sugarcane),,
+354_tooth,tooth,1380,TOOTH
+355_when,when?,1238,WHEN
+356_2sgsubjectprefix2sg,2sg subject prefix (2SG),1215,THOU
+357_topabove,top; above,1753,TOP
+358_yes,yes,1268,YES
+359_betelnutarecanuttpbuai,"betel nut, areca nut (TP: buai)",217,BETELNUT
+360_nowemphaticmarkeremph,now; emphatic marker (EMPH),1376,NOW
+361_tobuy,to buy,1869,BUY
+362_lizard,lizard,632,LIZARD
+363_tosqueezewetclothes,to squeeze (wet clothes),1414,SQUEEZE
+364_spiritdream,"spirit, dream",53,SPIRIT
+365_paddle,paddle,234,PADDLE
+366_mansmothersbrotherschildcrosscousin,man’s mother’s brother’s child (cross-cousin),3162,CROSS-COUSIN
+367_shellegofcoconutbetelnut,"shell (e.g., of coconut, betel nut)",598,SHELL
+368_mosquito,mosquito,1509,MOSQUITO
+369_coconut,coconut,970,COCONUT
+370_needlemadefromthebonesofflyingfoxes,needle (made from the bones of flying foxes),1382,NEEDLE (FOR SEWING)
+371_speartype,spear type,,
+372_tohittobeattostrike,"to hit, to beat, to strike",2133,STRIKE OR BEAT
+373_knee,knee,1371,KNEE
+374_big,big,1202,BIG
+375_tofight,to fight,1423,FIGHT
+376_head,head,1256,HEAD
+377_hairofthehead,hair of the head,2648,HAIR (HEAD)
+378_wideopentoopen,"wide, open; to open",1243,WIDE
+379_chicken,chicken,1318,CHICKEN
+380_toswim,to swim,1439,SWIM
+381_backofthebody,back (of the body),1291,BACK
+382_vegetablesptpaibika,vegetable sp. (TP: aibika),,
+383_andcoordinatingconjunctionwhensimultaneousactionconj,and (coordinating conjunction); when (simultaneous action) (CONJ),1577,AND
+384_irrealismarkerirr,irrealis marker (IRR),,
+385_sandbeach,sand; beach,671,SAND
+386_house,house,1252,HOUSE
+387_floor,floor,1632,FLOOR
+388_roof,roof,769,ROOF
+389_elbowofthearm,elbow of the arm,981,ELBOW
+390_straight,straight,1404,STRAIGHT
+391_armhandbranch,"arm, hand; branch",2121,ARM OR HAND
+392_finger,finger,1303,FINGER
+393_fingernail,fingernail,1258,FINGERNAIL
+394_branchesplural,branches (plural),1531,BRANCH
+395_tosing,to sing,1261,SING
+396_flyingfoxbat,"flying fox, bat",235,FLYING FOX
+397_fernsp,fern sp.,3802,FERN
+398_tomashtosmashtopoundbananatosqueezegratedcoconut,"to mash, to smash, to pound (banana), to squeeze (grated coconut)",,
+399_rain,rain,658,RAIN (PRECIPITATION)
+400_toclose,to close,1046,SHUT
+401_toclose,to close,1046,SHUT
+402_door,door,1567,DOOR
+403_todotomake,"to do, to make",2575,DO OR MAKE
+404_arecoidpalmsptplimbum,arecoid palm sp. (TP: limbum),,
+405_hole,hole,1667,HOLE
+406_lightnotheavy,light (not heavy),1052,LIGHT (WEIGHT)
+407_empty,empty,1624,EMPTY
+408_how,how?,1239,HOW
+409_elbow,elbow,981,ELBOW
+410_butterfly,butterfly,1791,BUTTERFLY
+411_papaya,papaya,2445,PAPAYA
+412_bad,bad,1292,BAD
+413_tobacco,tobacco,974,TOBACCO
+414_todowhatwhy,to do what?; why?,,
+415_topush,to push,1452,PUSH
+416_alsotoo,"also, too",,
+417_hairbodyhairfeather,hair (body hair); feather,2381,FEATHER OR FUR OR HAIR
+418_smoke,smoke,778,SMOKE (EXHAUST)
+419_toswell,to swell,1573,SWELL
+420_ripe,ripe,178,RIPE
+421_1plinclpossessivesuffixour1plinclposs,1pl.incl possessive suffix (our) (1PL.INCL.POSS),780,OUR
+422_tohold,to hold,1448,HOLD
+423_rattancanetpkanda,rattan cane (TP: kanda),2497,RATTAN
+424_spearusedinfestivalstraditionaldances,"spear used in festivals, traditional dances",,
+425_tocarveacanoe,to carve (a canoe),228,CARVE
+426_foreheadface,forehead; face,123,FOREHEAD
+427_green,green,1425,GREEN
+428_aroundabout,"around, about",,
+429_plususedwiththemorphemesonetwothreeandfourintheformationofsixseveneightandnine,"plus (used with the morphemes ‘one’, ‘two’, ‘three’, and ‘four’ in the formation of ‘six’, ‘seven’, ‘eight’, and ‘nine’)",,
+430_six6,six (6),1703,SIX
+431_nine9,nine (9),1483,NINE
+432_eight8,eight (8),1705,EIGHT
+433_seven7,seven (7),1704,SEVEN
+434_toburnintransitivetobeonfire,"to burn (intransitive), to be on fire",1428,BURNING
+435_crayfish,crayfish,467,CRAYFISH
+436_tosplit,to split,1437,SPLIT
+437_tolightoffiretoburntoignite,"to light (of fire), to burn, to ignite",737,LIGHT (IGNITE)
+438_red,red,156,RED
+439_3plpossessivesuffixtheir3plposs,3pl possessive suffix (their) (3PL.POSS),2400,THEIR
+440_tocuttoslice,"to cut, to slice",2156,CUT (WITH KNIFE)
+441_tochew,to chew,321,CHEW
+442_sky,sky,1732,SKY
+443_solidhard,"solid, hard",3003,SOLID
+444_tomorrow,tomorrow,1329,TOMORROW
+445_nearclose,"near, close",1942,NEAR
+446_seaocean,"sea, ocean",1474,SEA
+447_rough,rough,1923,ROUGH
+448_fish,fish,227,FISH
+449_ropevinespsmall,rope; vine sp. (small),1218,ROPE
+450_tohunt,to hunt,1435,HUNT
+451_bellystomach,"belly, stomach",2114,BELLY OR STOMACH
+452_wing,wing,1257,WING
+453_swamp,swamp,1145,SWAMP
+454_tosmellintransitivetobesmellytobestinky,"to smell (intransitive), to be smelly, to be stinky",1587,SMELL (STINK)
+455_oyster,oyster,2830,OYSTERS
+456_hornspikesonalizard,horn (spikes on a lizard),1393,HORN (ANATOMY)
+457_togratecoconut,to grate (coconut),3114,GRATE (SOMETHING)
+458_smooth,smooth,1234,SMOOTH
+459_long,long,1203,LONG
+460_tothrow,to throw,1456,THROW
+461_slipperyoily,"slippery, oily",3702,SLIPPERY
+462_tosmelltransitivetosniff,"to smell (transitive), to sniff",1586,SMELL (PERCEIVE)
+463_todig,to dig,1418,DIG
+464_axe,axe,677,AXE
+465_sling,sling,387,SLING
+466_toshootwithasling,to shoot (with a sling),3180,SHOOT (WITH SLINGSHOT)
+467_narrow,narrow,1267,NARROW
+468_tocatch,to catch,702,CATCH
+469_mirror,mirror,1171,MIRROR
+470_possum,possum,470,POSSUM
+471_tosew,to sew,1457,SEW
+472_daydaytime,"day, daytime",1225,DAY (NOT NIGHT)
+473_skinbody,skin; body,763,SKIN
+474_downlowtogodowntodescendtofall,"down, low; to go down, to descend, to fall",1326,DOWN
+475_betelpeppertpdaka,betel pepper (TP: daka),177,BETEL PEPPER VINE
+476_womansmothersbrotherunclemanssistersdaughterniece,"woman’s mother’s brother (uncle), man’s sister’s daughter (niece)",,
+477_tocount,to count,1420,COUNT
+478_urine,urine,1142,URINE
+479_breastbreasts,"breast, breasts",1402,BREAST
+480_tosucktosuckleabreasttonurse,"to suck, to suckle (a breast), to nurse",2472,"SUCKLE (BREASTFEED, NURSE)"
+481_big,big,1202,BIG
+482_year,year,1226,YEAR
+483_torun,to run,1519,RUN
+484_empty,empty,1624,EMPTY
+485_topeel,to peel,275,PEEL
+486_smalllittlealittle,"small, little; a little",1246,SMALL
+487_1plinclsubjectprefix1plincl,1pl.incl subject prefix (1PL.INCL),1131,WE (INCLUSIVE)
+488_motherparentssisterauntmothersbrotherswifeaunt,"mother, parent’s sister (aunt), mother’s brother’s wife (aunt)",1216,MOTHER
+489_parentsyoungersisteraunt,parent’s younger sister (aunt),,
+490_parentsoldersisteraunt,parent’s older sister (aunt),,
+491_chin,chin,1510,CHIN
+492_topull,to pull,1455,PULL
+493_tobreathe,to breathe,1407,BREATHE
+494_tocarryontheshoulder,to carry (on the shoulder),465,CARRY ON BACK
+495_thatch,thatch,279,THATCH
+496_topull,to pull,1455,PULL
+497_toput,to put,998,PUT
+498_tohide,to hide,2486,HIDE
+499_ear,ear,1247,EAR
+500_tothrowastonetohittopeltastransitive,"to throw (a stone); to hit, to pelt (as transitive)",1456,THROW
+501_rightnotleft,right (not left),1019,RIGHT
+502_male,male,1553,MALE
+503_tocrytoweep,"to cry, to weep",1839,CRY
+504_tosearchfortoseek,"to search for, to seek",1468,LOOK FOR
+505_cassowarytpmuruk,cassowary (TP: muruk),466,CASSOWARY
+506_what,what?,1236,WHAT
+507_3plsubjectprefix3pl,3pl subject prefix (3PL),817,THEY
+508_towantvolitiveverbifconjunction,to want (volitive verb); if (conjunction),1784,WANT
+509_tocuttofellatree,"to cut, to fell a tree",1432,CUT
+510_insidetogointogoinsidetoenter,"inside; to go in, to go inside, to enter",749,ENTER
+511_grandparentgrandchildhusbandsparentmotherinlawfatherinlaworgrandparentwifesgrandparentsonswifedaughterinlawmanssisterssonswife,"grandparent, grandchild, husband’s parent (mother-in-law, father-in-law) or grandparent, wife’s grandparent, son’s wife (daughter-in-law), man’s sister’s son’s wife",,
+512_grandmothergranddaughter,"grandmother, granddaughter",,
+513_grandfathergrandson,"grandfather, grandson",,
+514_greatgrandparentandthoseofoldergenerations,"great-grandparent, and those of older generations",,
+515_excrementfecesrefuseofbetelnut,"excrement, feces; refuse of betel nut",675,FAECES (EXCREMENT)
+516_moonmonth,moon; month,2463,MOON OR MONTH
+517_tostraighten,to straighten,,
+518_tolietoliedowntoreclinetorest,"to lie, to lie down, to recline, to rest",1411,LIE (REST)
+519_father,father,1217,FATHER
+520_firstbornchild,firstborn (child),,
+521_flat,flat,1633,FLAT
+522_samesexsiblingbrotherofamanorsisterofawoman,same-sex sibling (brother of a man or sister of a woman),,
+523_youngersamesexsibling,younger same-sex sibling,3038,SAME-SEX YOUNGER SIBLING
+524_oldersamesexsibling,older same-sex sibling,3037,SAME-SEX OLDER SIBLING
+525_oldersamesexsibling,older same-sex sibling,3037,SAME-SEX OLDER SIBLING
+526_tofixtotie,"to fix, to tie",3074,FIX
+527_totieup,to tie up,2891,TIE UP (TETHER)
+528_tolightafiretoignite,"to light a fire, to ignite",737,LIGHT (IGNITE)
+529_tocuttoslice,"to cut, to slice",2156,CUT (WITH KNIFE)
+530_veryextremely,"very, extremely",1311,VERY
+531_sugarcanesugar,"sugarcane, sugar",146,SUGAR CANE
+532_childmansbrotherschildnephewniece,"child; man’s brother’s child (nephew, niece)",2099,CHILD
+533_tobelocatedattostaytoreside,"to be (located at), to stay, to reside",,
+534_toshoottostabtopiercetostick,"to shoot, to stab, to pierce, to stick",1172,SHOOT
+535_daughter,daughter,1357,DAUGHTER
+536_daughter,daughter,1357,DAUGHTER
+537_son,son,1620,SON
+538_son,son,1620,SON
+539_toplantegcropsinthegarden,"to plant (e.g., crops in the garden)",1486,PLANT (SOMETHING)
+540_tothink,to think,2271,THINK
+541_nailclaw,"nail, claw",1896,FINGERNAIL OR TOENAIL
+542_oldperson,old (person),2112,OLD (AGED)
+543_menshousespirithousetphausboihaustambaran,"men’s house, spirit house (TP: haus boi, haus tambaran)",408,MEN'S HOUSE
+544_toboil,to boil,2493,BOIL
+545_smalllittlething,"small, little (thing)",1246,SMALL
+546_togive,to give,1447,GIVE
+547_tocrushnutsegwithastonetogrind,"to crush (nuts, e.g., with a stone); to grind",1520,CRUSH
+548_wind,wind,960,WIND
+549_childrenplural,children (plural),2099,CHILD
+550_eggseed,egg; seed,744,EGG
+551_fire,fire,221,FIRE
+552_smokeofthefire,smoke of the fire,778,SMOKE (EXHAUST)
+553_morning,morning,1339,MORNING
+554_wifesparentdaughtershusband,"wife’s parent, daughter’s husband",,
+555_wifesmother,wife’s mother,2257,MOTHER-IN-LAW (OF MAN)
+556_wifesfather,wife’s father,2255,FATHER-IN-LAW (OF MAN)
+557_1sgpossessivesuffixmy1sgposs,1sg possessive suffix (my) (1SG.POSS),2090,MY
+558_root,root,670,ROOT
+559_afternoon,afternoon,1807,AFTERNOON
+560_toopenabaskettouncover,"to open (a basket), to uncover",1156,OPEN
+561_skinhide,"skin, hide",763,SKIN
+562_cloud,cloud,1489,CLOUD
+563_tospit,to spit,1440,SPIT
+564_2sgpossessivesuffixthyyour2sgposs,"2sg possessive suffix (thy, your) (2SG.POSS)",732,YOUR (SINGULAR)
+565_stonerock,"stone, rock",857,STONE
+566_toworktobuild,"to work, to build",1086,WORK (ACTIVITY)
+567_fullsated,"full, sated",106,SATIATED
+568_alittle,a little,2924,A LITTLE
+569_manssistersdaughtershusbandhusbandofonessipu,man’s sister’s daughter’s husband (husband of one’s /sipu-/),,
+570_banana,banana,868,BANANA
+571_bananaflower,banana flower,,
+572_good,good,1035,GOOD
+573_forestwoods,"forest, woods",420,FOREST
+574_tocarryonthehead,to carry (on the head),414,CARRY ON HEAD
+575_louse,louse,1392,LOUSE
+576_tocut,to cut,1432,CUT
+577_what,what?,1236,WHAT
+578_something,something,,
+579_navelbellybutton,"navel, belly button",1838,NAVEL
+580_sun,sun,1343,SUN
+581_lightning,lightning,1654,LIGHTNING
+582_basketmadeofcoconutleaves,basket made of coconut leaves,1539,BASKET
+583_tobreaktorip,"to break, to rip",680,BREAK (DESTROY OR GET DESTROYED)
+584_ashashesblackashcharcoal,"ash, ashes (black ash), charcoal",1188,CHARCOAL
+585_crooked,crooked,297,CROOKED
+586_bluegreen,"blue, green",2382,BLUE OR GREEN
+587_tobreakwiththehand,to break (with the hand),680,BREAK (DESTROY OR GET DESTROYED)
+588_piece,piece,594,PIECE
+589_short,short,1645,SHORT
+590_piecesplural,pieces (plural),594,PIECE
+591_tocough,to cough,879,COUGH

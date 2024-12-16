@@ -1,0 +1,592 @@
+ID,Language_ID,English_Gloss,Form,Inflected_Forms,Comment,Source
+lote1237-1-001,lote1237-1,2pl subject prefix (2PL),a-,,verbal prefix; also used for 2sg taboo relations; same form as transitive suffix and edible possessive classifier,Barlow2024
+lote1237-1-002,lote1237-1,edible possessive classifier (POSS.ED),a-,"a-k (1sg), a-m (2sg), a-na (3sg), a-ra (1pl.incl)",used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used somewhat more widely than exclusively with food- and drink-related possessions; same form as transitive suffix and edible possessive classifier,Barlow2024
+lote1237-1-003,lote1237-1,transitive suffix (TR),-a,,verbal suffix; same form as 2pl subject prefix and edible possessive classifier; also /-ia/ and /-ɛ/,Barlow2024
+lote1237-1-004,lote1237-1,"tree; wood, firewood, stick",ae,,,Barlow2024
+lote1237-1-005,lote1237-1,base of a tree; tree trunk,ae hu-,ae hu-na (3sg),‘tree base-POSS’,Barlow2024
+lote1237-1-006,lote1237-1,leaf of a tree,ae i-,"ae i-na (3sg), ae i-ria (3pl)",‘tree leaf-POSS’ < ‘tree nose-POSS’?,Barlow2024
+lote1237-1-007,lote1237-1,fruit of a tree,ae ŋanaŋa-,"ae ŋanaŋa-na (3sg), ae ŋanaŋa-ria (3pl)",‘tree fruit-POSS’,Barlow2024
+lote1237-1-008,lote1237-1,branch of a tree,ae pɛr-,"ae pɛn-na (3sg), ae pɛr~pɛr-na (plural, 3sg)",‘tree arm-POSS’,Barlow2024
+lote1237-1-009,lote1237-1,seed of a tree,ae tutu-,"ae tutu-na (3sg), ae tutu-ria (3pl)",‘tree egg-POSS’,Barlow2024
+lote1237-1-010,lote1237-1,root of a tree,ae ula-,ae ula-ria (3pl),‘tree root-POSS’,Barlow2024
+lote1237-1-011,lote1237-1,bark of a tree,ae uli-,"uli-na (3sg), uli-ria (3pl)",‘tree skin-POSS’,Barlow2024
+lote1237-1-012,lote1237-1,piece of wood,ae xor-,"ae xon-na (3sg), ae xor~xor-na (plural, 3sg)",‘tree piece-POSS’,Barlow2024
+lote1237-1-013,lote1237-1,children (plural),aina,,also /tutu-/,Barlow2024
+lote1237-1-014,lote1237-1,canoe,aka,,,Barlow2024
+lote1237-1-015,lote1237-1,dry,al,,,Barlow2024
+lote1237-1-016,lote1237-1,"thoroughly, completely",ala,,,Barlow2024
+lote1237-1-017,lote1237-1,"worm, earthworm",alete,,,Barlow2024
+lote1237-1-018,lote1237-1,"sucker (e.g., of a banana plant)",alo-,"alo-na (3sg), alo-ria (3pl)",,Barlow2024
+lote1237-1-019,lote1237-1,topic marker (TOP),ana,,,Barlow2024
+lote1237-1-020,lote1237-1,four (counting in fours; used as an adnominal numeral),ana lɛisinɛ,,‘TOP group.of.four’; cf. /lɛisinɛ/ (used as an absolute numeral); /hɛnɛl/ ‘four’ (in general counting),Barlow2024
+lote1237-1-021,lote1237-1,twenty (20),ana non kina ɛllɛ,,‘TOP man bone-3SG [times] one’,Barlow2024
+lote1237-1-022,lote1237-1,two hundred (200),ana non kina iri analox,,‘TOP man bone-3SG [times] 3PL ten’,Barlow2024
+lote1237-1-023,lote1237-1,"hundred, one hundred (100)",ana non kina limɛ,,‘TOP man bone-3SG [times] five’,Barlow2024
+lote1237-1-024,lote1237-1,forty (40),ana non kina nai,,‘TOP man bone-3SG [times] two’,Barlow2024
+lote1237-1-025,lote1237-1,fifty (50),ana non kina nai pe analox,,‘TOP man bone-3SG [times] two and ten’,Barlow2024
+lote1237-1-026,lote1237-1,ten (10),analox,,possibly < TOP + /loxlox/ ‘all’; cf. /lɛisinɛ nai pe nai/ ‘ten (counting in fours)’,Barlow2024
+lote1237-1-027,lote1237-1,"leg, foot",ape-,"ape-k (1sg), ape-m (2sg), ape-na (3sg)",,Barlow2024
+lote1237-1-028,lote1237-1,foot,ape- hahana,"ape-k haha-na (1sg), ape-m haha-na (2sg), ape-na haha-na (3sg)",‘foot-POSS liver-3SG’,Barlow2024
+lote1237-1-029,lote1237-1,"ash, ashes (white ash)",apou,,cf. /xaxasoŋo/ ‘black ashes’,Barlow2024
+lote1237-1-030,lote1237-1,to sit,are,"are-ŋa (nominalization, ‘chair’)",also /kila/,Barlow2024
+lote1237-1-031,lote1237-1,chair,areŋa,,‘sit-NMLZ’,Barlow2024
+lote1237-1-032,lote1237-1,drum type (hand drum; TP: kundu),ario,,,Barlow2024
+lote1237-1-033,lote1237-1,to come,at,at~at (reduplication),,Barlow2024
+lote1237-1-034,lote1237-1,"wrong, crazy, drunken",auaua,,reduplication?,Barlow2024
+lote1237-1-035,lote1237-1,round,axouxou,,reduplication?,Barlow2024
+lote1237-1-036,lote1237-1,"man’s mother’s brother (uncle), man’s sister’s son (nephew) (TP: kandere)",axuŋ,"lɛ-k axuŋ (1sg), na axuŋ (3sg), nena axuŋ (3sg)",,Barlow2024
+lote1237-1-037,lote1237-1,1sg subject prefix (1SG),e-,,verbal prefix; same form as ‘girl’,Barlow2024
+lote1237-1-038,lote1237-1,girl,e,,same form as the 1sg subject prefix,Barlow2024
+lote1237-1-039,lote1237-1,shoulder,eke-,"eke-k (1sg), eke-m (2sg), eke-na (3sg)",,Barlow2024
+lote1237-1-040,lote1237-1,"skirt, grass skirt for women",ela,,"also [hela]; cf. /melo/ ‘skirt, bark loincloth for men (TP: malo)",Barlow2024
+lote1237-1-041,lote1237-1,paint used for teeth blackening,et,,,Barlow2024
+lote1237-1-042,lote1237-1,tall ginger (TP: gorgor),ex,,cf. /loitana/ ‘ginger’,Barlow2024
+lote1237-1-043,lote1237-1,bottom; below,ɛ-,ɛ-nɛ (3sg),"same form as ‘husband’, ‘name’, ‘other’, and transitive suffix; postnominal and with possessive marking can function with the meaning ‘below’",Barlow2024
+lote1237-1-044,lote1237-1,husband,ɛ-,"ɛ-k (1sg), ɛ-m (2sg), ɛ-nɛ (3sg)","same form as ‘bottom’, ‘name’, ‘other’, and transitive suffix",Barlow2024
+lote1237-1-045,lote1237-1,name,ɛ-,"ɛ-k (1sg), ɛ-m (2sg), ɛ-nɛ (3sg)","same form as ‘bottom’, ‘husband’, ‘other’, and transitive suffix",Barlow2024
+lote1237-1-046,lote1237-1,"other, another; one",ɛ,,"same form as ‘bottom’, ‘husband’, ‘name’, and transitive suffix",Barlow2024
+lote1237-1-047,lote1237-1,transitive suffix (TR),-ɛ,,"verbal suffix; also /-a/ and /-ia/; same form as ‘bottom’, ‘husband’, ‘name’, ‘other’",Barlow2024
+lote1237-1-048,lote1237-1,bitter,ɛhɛx,,,Barlow2024
+lote1237-1-049,lote1237-1,blood,ɛi-,"ɛi-k (1sg), ɛi-m (2sg), ɛi-na (3sg)",,Barlow2024
+lote1237-1-050,lote1237-1,breath,ɛiŋa-,"ɛiŋa-m (2sg), ɛiŋa-na (3sg)",also [hɛiŋa-],Barlow2024
+lote1237-1-051,lote1237-1,one (1),ɛllɛ,,,Barlow2024
+lote1237-1-052,lote1237-1,to rub,ɛmu,ɛmu-ɛ,"cf. /kira/ ‘to scrub, to brush, to wipe’",Barlow2024
+lote1237-1-053,lote1237-1,pandanus,ɛrɛ,,,Barlow2024
+lote1237-1-054,lote1237-1,no (negative response word); not (negator) (NEG),ɛro,,,Barlow2024
+lote1237-1-055,lote1237-1,"to look, to see",ɛs,ɛs-ia,also /nau/,Barlow2024
+lote1237-1-056,lote1237-1,mother (1sg),ɛta-,ɛta-k (1sg),allomorph of /ta-/ ‘mother’ used for 1sg possessor,Barlow2024
+lote1237-1-057,lote1237-1,to know,ɛtei,ɛtei-a,,Barlow2024
+lote1237-1-058,lote1237-1,day (countable),ɛtuɛ,,"cf. /sinaŋa/ ‘day, daytime’",Barlow2024
+lote1237-1-059,lote1237-1,"water, river",ɛx,,,Barlow2024
+lote1237-1-060,lote1237-1,lake,ɛx mata-,"ɛx mata-na (3sg), ɛx mata-ria (3pl)",‘water eye-POSS’,Barlow2024
+lote1237-1-061,lote1237-1,clam,hae,,same form as ‘thigh’,Barlow2024
+lote1237-1-062,lote1237-1,thigh,hae-,"hae-k (1sg), hae-m (2sg), hae-na (3sg)",same form as ‘clam’,Barlow2024
+lote1237-1-063,lote1237-1,liver,haha-,"haha-k (1sg), haha-m (2sg), haha-na (3sg)",reduplication?,Barlow2024
+lote1237-1-064,lote1237-1,"to blow (of the wind); to climb, to ascend, to go up; to grow",haka,,"also [aka]; cf. /hɛkɛ/ ‘to blow (a fire); to raise (something)’, with which it likely has a relationship; /hurus/ ‘to blow’, /iu/ ‘to blow; to call (for someone), to shout’",Barlow2024
+lote1237-1-065,lote1237-1,mouth,hal-,"hal-ik (1sg), hal-im (2sg), han-na (3sg)",also [al-],Barlow2024
+lote1237-1-066,lote1237-1,to yawn,hal- paŋpaŋa,"hal-im paŋpaŋa (2sg), han-na paŋpaŋa (3sg)",‘mouth-POSS wide’,Barlow2024
+lote1237-1-067,lote1237-1,lip,hal- ulina,"hal-ik uli-na (1sg), hal-im uli-na (2sg), han-na uli-na (3sg), har-ria uli-na (3pl)",‘mouth-POSS skin-3SG’,Barlow2024
+lote1237-1-068,lote1237-1,"much, many, a lot",halaŋ,,,Barlow2024
+lote1237-1-069,lote1237-1,sick,haleles,,,Barlow2024
+lote1237-1-070,lote1237-1,"calling, yelling, shouting",halŋa-,"halŋa-m (2sg), halŋa-na (3sg)",< /hal-/ ‘mouth’?,Barlow2024
+lote1237-1-071,lote1237-1,men (plural),hana,,,Barlow2024
+lote1237-1-072,lote1237-1,"wet; smelly, stinky",has,,,Barlow2024
+lote1237-1-073,lote1237-1,table,hataŋa,,possibly a nominalized form of something,Barlow2024
+lote1237-1-074,lote1237-1,thick,hatat,,,Barlow2024
+lote1237-1-075,lote1237-1,spider,hau,,possibly /hau/,Barlow2024
+lote1237-1-076,lote1237-1,daughter,heɛ-,"heɛ-k (1sg), he-ɛm (2sg), heɛ-nɛ (3sg)","also /tu- hɛiŋana/, /tu- neŋe hɛi/",Barlow2024
+lote1237-1-077,lote1237-1,frog,hehe,,reduplication?,Barlow2024
+lote1237-1-078,lote1237-1,grass,heilil,,,Barlow2024
+lote1237-1-079,lote1237-1,flower (of a banana plant),heiŋa-,"heiŋa-na (3sg), heiŋa-ria (3pl)",,Barlow2024
+lote1237-1-080,lote1237-1,"to talk, to speak, to say",hele,"hele-ŋa (nominalization, ‘talk, speech’)",,Barlow2024
+lote1237-1-081,lote1237-1,"talk, speech (TP: toktok)",heleŋa,,‘talk-NMLZ’,Barlow2024
+lote1237-1-082,lote1237-1,to dance,hes,,,Barlow2024
+lote1237-1-083,lote1237-1,causative prefix (CAUS),hɛ-,,verbal prefix,Barlow2024
+lote1237-1-084,lote1237-1,"women, females (plural)",hɛhɛi,,also [hɛiɛ]; reduplicative plural of /hɛi/ ‘woman’,Barlow2024
+lote1237-1-085,lote1237-1,"woman, female; wife",hɛi,"hɛi-ŋana (adjective); hɛ~hɛi (plural); lɛ-k hɛi (1sg, ‘my wife’), lɛ-m hɛi (2sg), nɛ hɛi (3sg), na hɛi (3sg)",,Barlow2024
+lote1237-1-086,lote1237-1,old woman,hɛi tuaunaŋana,,‘woman old-ADJ’,Barlow2024
+lote1237-1-087,lote1237-1,to blow (a fire); to raise (something),hɛkɛ,,"cf. /haka/ ‘to blow (of the wind); to climb, to ascend, to go up; to grow’, with which it likely has a relationship; /hurus/ ‘to blow’, /iu/ ‘to blow; to call (for someone), to shout’",Barlow2024
+lote1237-1-088,lote1237-1,"reciprocal suffix (RECP) (each other, one another)",-hɛl,,"verbal suffix; same form as ‘some, few’",Barlow2024
+lote1237-1-089,lote1237-1,"some, few",hɛl,,same form as reciprocal suffix,Barlow2024
+lote1237-1-090,lote1237-1,to break in pieces,hɛlɛ,,"possibly /hɛl-ɛ/; cf. /hɛl/ ‘some, few’; cf. /xolo/ ‘to break (with the hand)’, /xax/ ‘to break, to rip’",Barlow2024
+lote1237-1-091,lote1237-1,to turn,hɛliliu,hɛliliu-a,"possibly contains the causative prefix /hɛ-/; cf. /hul/ ‘to turn over, to capsize’",Barlow2024
+lote1237-1-092,lote1237-1,four (4),hɛnɛl,,cf. /lɛisinɛ/ ~ /ana lɛisinɛ/ ‘four (counting in fours)’,Barlow2024
+lote1237-1-093,lote1237-1,"to point out; to choose, to select",hɛnonou,hɛnonou-a,"possibly contains the causative prefix /hɛ-/; possibly derives from reduplication/infixation of /no-/ (cf. /hɛnou/ ‘pointer finger’); cf. /hɛsilɛi/ ‘to choose, to pick’",Barlow2024
+lote1237-1-094,lote1237-1,"pointer finger, index finger, forefinger",hɛnou,,,Barlow2024
+lote1237-1-095,lote1237-1,mountain; temple (of the head),hɛŋɛnɛ,,"cf. /it/ ‘highlands, mountain’",Barlow2024
+lote1237-1-096,lote1237-1,tongue,hɛŋɛtau,"a-k hɛŋɛtau (1sg), a-m hɛŋɛtau (2sg), a-na hɛŋɛtau (3sg)",also [ɛŋɛtau],Barlow2024
+lote1237-1-097,lote1237-1,to play,hɛsalaŋ,,possibly contains the causative prefix /hɛ-/,Barlow2024
+lote1237-1-098,lote1237-1,"to choose, to pick",hɛsilɛi,,"possibly contains the causative prefix /hɛ-/; cf. /hɛnonou/ ‘to point out; to choose, to select’",Barlow2024
+lote1237-1-099,lote1237-1,year; customary dance,hɛsiŋa,,possibly contains the causative prefix /hɛ-/; possibly related to /hes/ ‘to dance’,Barlow2024
+lote1237-1-100,lote1237-1,to show,hɛteia,,"possibly contains the causative prefix /hɛ-/; cf. /ɛtei/ ‘to know’ (i.e., ‘to make know’)",Barlow2024
+lote1237-1-101,lote1237-1,"today, now",hɛuɛu,,reduplication?,Barlow2024
+lote1237-1-102,lote1237-1,new,hɛuɛuŋana,,‘now-ADJ’,Barlow2024
+lote1237-1-103,lote1237-1,how many?,hia,,also [ia],Barlow2024
+lote1237-1-104,lote1237-1,"to block, to tie",hit,hit-ɛ,"cf. /kale/ ‘to tie, to fasten’, /kale hit/ ‘to tie up’, /tom/ ‘to fix, to tie’, /tom hit/ ‘to tie up’",Barlow2024
+lote1237-1-105,lote1237-1,tail,hoe-,"hoe-na (3sg), hoe-ria (3pl)",also [oe-],Barlow2024
+lote1237-1-106,lote1237-1,left (not right),hoihoi,,reduplication?,Barlow2024
+lote1237-1-107,lote1237-1,"out; to go out, to take out, to remove",hot,hot-ɛ,,Barlow2024
+lote1237-1-108,lote1237-1,"cold, sickness",houhou,,also [ouou]; reduplication?,Barlow2024
+lote1237-1-109,lote1237-1,base (of a tree),hu-,hu-na (3sg),,Barlow2024
+lote1237-1-110,lote1237-1,"to turn over, to capsize",hul,hul-ia,cf. /hɛliliu/ ‘to turn’,Barlow2024
+lote1237-1-111,lote1237-1,bandicoot,huloŋ,,,Barlow2024
+lote1237-1-112,lote1237-1,to kill; to bite,hun,hun-ɛ,,Barlow2024
+lote1237-1-113,lote1237-1,"animal, meat",huros,,also [uros],Barlow2024
+lote1237-1-114,lote1237-1,to blow,hurus,hurus-ia,"cf. /hɛkɛ/ ‘to blow (a fire); to raise (something)’, /haka/ ‘to blow (of the wind); to climb, to ascend, to go up; to grow’, /iu/ ‘to blow; to call (for someone), to shout’",Barlow2024
+lote1237-1-115,lote1237-1,white,husu,,,Barlow2024
+lote1237-1-116,lote1237-1,"3sg pronoun (he, him, she, her, it)",i,,"same form as ‘to walk’, ‘leaf; hair’, ‘nose’",Barlow2024
+lote1237-1-117,lote1237-1,leaf; hair (of the head),i-,"i-na (3sg), i-ria (3pl)","same form as ‘to walk’, ‘nose’, and the 3sg pronoun; possibly a metaphorical extension of /i-/ ‘nose’; cf. /pulpul-/ ‘hair (body hair); feather’",Barlow2024
+lote1237-1-118,lote1237-1,nose,i-,"i-k (1sg), i-m (2sg), i-na (3sg)","same form as ‘to walk’, ‘leaf; hair’, and the 3sg pronoun",Barlow2024
+lote1237-1-119,lote1237-1,to walk,i,,,Barlow2024
+lote1237-1-120,lote1237-1,to come,i at,,‘walk come’,Barlow2024
+lote1237-1-121,lote1237-1,transitive suffix (TR),-ia,,verbal suffix; also /-a/ and /-ɛ/,Barlow2024
+lote1237-1-122,lote1237-1,because,iaŋe,,,Barlow2024
+lote1237-1-123,lote1237-1,"1sg pronoun (I, me)",iau,,,Barlow2024
+lote1237-1-124,lote1237-1,man’s brother-in-law,iɛ-,"iɛ-k (1sg), iɛ-m (2sg), iɛ-nɛ (3sg)",,Barlow2024
+lote1237-1-125,lote1237-1,1sg possessive suffix (my) (1SG.POSS),-ik,,allomorph of /-k/ for liquid-final stems,Barlow2024
+lote1237-1-126,lote1237-1,snake,ilimo,,,Barlow2024
+lote1237-1-127,lote1237-1,bamboo sp. (wild bamboo),ilipa,,"cf. /iu/, a different sp.",Barlow2024
+lote1237-1-128,lote1237-1,"2sg possessive suffix (thy, your) (2SG.POSS)",-im,,allomorph of /-m/ for liquid-final stems,Barlow2024
+lote1237-1-129,lote1237-1,"1pl.excl pronoun (we, us)",imɛm,,,Barlow2024
+lote1237-1-130,lote1237-1,"1tr.excl pronoun (we three, us three)",imɛm mol,,‘1pl.excl three’,Barlow2024
+lote1237-1-131,lote1237-1,"1du.excl pronoun (we two, us two)",imɛm nai,,‘1pl.excl two’,Barlow2024
+lote1237-1-132,lote1237-1,"2pl pronoun (ye, you, y’all)",imo,,also used for 2sg taboo relations,Barlow2024
+lote1237-1-133,lote1237-1,"2tr pronoun (ye three, you three, y’all three)",imo mol,,‘2pl three’,Barlow2024
+lote1237-1-134,lote1237-1,"2du pronoun (ye two, you two, y’all two)",imo nai,,‘2pl two’,Barlow2024
+lote1237-1-135,lote1237-1,to drink,in,in-ia,,Barlow2024
+lote1237-1-136,lote1237-1,"smelly, stinky",ina,ina-ŋana,,Barlow2024
+lote1237-1-137,lote1237-1,"pain; painful; to hurt, to be in pain",inin,,,Barlow2024
+lote1237-1-138,lote1237-1,spear (generic),io,,"cf. specific spear types /kaliŋo/, /pakpaka/, /raliŋ/",Barlow2024
+lote1237-1-139,lote1237-1,"2sg pronoun (thou, thee, you)",ioŋ,,,Barlow2024
+lote1237-1-140,lote1237-1,"3pl pronoun (they, them)",iri,,also used for 3sg taboo relations,Barlow2024
+lote1237-1-141,lote1237-1,"3tr pronoun (they three, them three)",iri mol,,‘3pl three’,Barlow2024
+lote1237-1-142,lote1237-1,"3du pronoun (they two, them two)",iri nai,,‘3pl two’,Barlow2024
+lote1237-1-143,lote1237-1,"highlands, mountain",it,,cf. /hɛŋɛnɛ/ ‘mountain; temple (of the head)’,Barlow2024
+lote1237-1-144,lote1237-1,"1pl.incl pronoun (we, us)",ita,,,Barlow2024
+lote1237-1-145,lote1237-1,"1tr.incl pronoun (we three, us three)",ita mol,,‘1pl.incl three’,Barlow2024
+lote1237-1-146,lote1237-1,"1du.incl pronoun (we two, us two)",ita nai,,‘1pl.incl two’,Barlow2024
+lote1237-1-147,lote1237-1,who?,itei,,,Barlow2024
+lote1237-1-148,lote1237-1,star,itox,,,Barlow2024
+lote1237-1-149,lote1237-1,bamboo sp.,iu,,"same form as ‘to blow; to call (for someone), to shout’; cf. /ilipa/, a different sp.",Barlow2024
+lote1237-1-150,lote1237-1,"to blow; to call (for someone), to shout",iu,iu-a,"same form as ‘bamboo sp.’; cf. /hurus/ ‘to blow’, /hɛkɛ/ ‘to blow (a fire); to raise (something)’, /haka/ ‘to blow (of the wind); to climb, to ascend, to go up; to grow’",Barlow2024
+lote1237-1-151,lote1237-1,"ground, earth, soil",ix,,,Barlow2024
+lote1237-1-152,lote1237-1,mainland,ix una,,‘ground full’,Barlow2024
+lote1237-1-153,lote1237-1,1sg possessive suffix (my) (1SG.POSS),-k,,"allomorphs: /-ik/, /-uk/",Barlow2024
+lote1237-1-154,lote1237-1,heart,kakaho-,"kakaho-k (1sg), kakaho-m (2sg), kakaho-m (3sg)",,Barlow2024
+lote1237-1-155,lote1237-1,knife,kakop,,,Barlow2024
+lote1237-1-156,lote1237-1,neck,kal-,"kal-ik (1sg), kal-im (2sg), kan-na (3sg)",,Barlow2024
+lote1237-1-157,lote1237-1,"to tie, to fasten",kale,,"cf. /kale hit/ ‘to tie up’, /hit/ ‘to block, to tie’, /tom/ ‘to fix, to tie’, /tom hit/ ‘to tie up’",Barlow2024
+lote1237-1-158,lote1237-1,to tie up,kale hit,kale hit-ɛ,"‘tie block’; cf. /kale/ ‘to tie, to fasten’, /hit/ ‘to block, to tie’, /tom/ ‘to fix, to tie’, /tom hit/ ‘to tie up’",Barlow2024
+lote1237-1-159,lote1237-1,Indian coral tree (TP: balbal),kaleo,,,Barlow2024
+lote1237-1-160,lote1237-1,shield,kaleu,,,Barlow2024
+lote1237-1-161,lote1237-1,"spear for shooting fish, spear with multiple prongs",kaliŋo,,"cf. other types /pakpaka/, /raliŋ/, and generic /io/",Barlow2024
+lote1237-1-162,lote1237-1,"far, distant",kaŋkaŋa,,reduplication?,Barlow2024
+lote1237-1-163,lote1237-1,there (medial demonstrative),kau,,"close to hearer; often has an interrogative function; cf. /la/, /lamam/",Barlow2024
+lote1237-1-164,lote1237-1,dog,kaune,,possibly /kaone/,Barlow2024
+lote1237-1-165,lote1237-1,preposition (PREP); that (complementizer) (COMP),ke,,,Barlow2024
+lote1237-1-166,lote1237-1,to steal,kɛmɛ,kɛmɛ-ia,,Barlow2024
+lote1237-1-167,lote1237-1,hard (not soft),kɛrkɛrɛŋ,,reduplication?,Barlow2024
+lote1237-1-168,lote1237-1,bone,ki-,"ki-k (1sg), ki-m (2sg), ki-na (3sg)",,Barlow2024
+lote1237-1-169,lote1237-1,pig,kiɛ,,,Barlow2024
+lote1237-1-170,lote1237-1,plant sp.,kiki,,"reduplication?; same form as /kiki-/ ‘strength, muscle’",Barlow2024
+lote1237-1-171,lote1237-1,"strength, muscle",kiki,kiki-na (3sg),reduplication?; same form as /kiki/ ‘plant sp.’,Barlow2024
+lote1237-1-172,lote1237-1,to sit,kila,,possibly /kil-a/; also /are/,Barlow2024
+lote1237-1-173,lote1237-1,"village, place",kileŋ,,possibly related to /kil/ ‘to sit’,Barlow2024
+lote1237-1-174,lote1237-1,to thunder,kileŋ kuruŋ ŋa-,"kileŋ kuruŋ ŋa-na (3sg), kileŋ kuruŋa-ria (3pl)",‘place thunder NMLZ?-POSS’,Barlow2024
+lote1237-1-175,lote1237-1,"to lightning, to flash",kileŋ xalɛm ŋa-,"kileŋ xalɛm ŋa-na (3sg), kileŋ xalɛm ŋa-ria (3pl)",‘place lightning NMLZ?-POSS’,Barlow2024
+lote1237-1-176,lote1237-1,"small, little (person)",kino,,"cf. /tuna/ ‘small, little (thing)’, /sune/ ‘small, little; a little’",Barlow2024
+lote1237-1-177,lote1237-1,"to scrub, to brush, to wipe",kira,kir-ɛ,"cf. /ɛmu/ ‘to rub’, /lomɛ/ ‘to wash, to clean, to wipe’",Barlow2024
+lote1237-1-178,lote1237-1,breadfruit,koal,,,Barlow2024
+lote1237-1-179,lote1237-1,here (proximal demonstrative); to be here,koi,,"close to speaker; cf. /lai/, /lamai/",Barlow2024
+lote1237-1-180,lote1237-1,yellow,koikoi,,reduplication?,Barlow2024
+lote1237-1-181,lote1237-1,boy,kol,,,Barlow2024
+lote1237-1-182,lote1237-1,bag,kole,,,Barlow2024
+lote1237-1-183,lote1237-1,son,kolɛ-,"kolɛ-k (1sg), kolɛ-m (2sg), kolɛ-nɛ (3sg)","likely < /kol/ ‘boy’; also /tu- neŋe tamane/, /tu- tamaneŋana/",Barlow2024
+lote1237-1-184,lote1237-1,sweet potato (TP: kaukau),kolompe,,[kolombe],Barlow2024
+lote1237-1-185,lote1237-1,hiding,kome,,,Barlow2024
+lote1237-1-186,lote1237-1,to hide (something),komɛ,,< /kome/ ‘hiding’,Barlow2024
+lote1237-1-187,lote1237-1,"there, yonder (distal demonstrative)",kou,,far from both speaker and hearer; cf. /lamau/,Barlow2024
+lote1237-1-188,lote1237-1,"incorrect, wrong, false",koukou,,reduplication?,Barlow2024
+lote1237-1-189,lote1237-1,"path, road, trail",kue,,,Barlow2024
+lote1237-1-190,lote1237-1,"digit, finger, toe",kuka-,kuka-na (3sg),,Barlow2024
+lote1237-1-191,lote1237-1,walking stick,kula,,,Barlow2024
+lote1237-1-192,lote1237-1,lime (TP: kambang),kulum,,,Barlow2024
+lote1237-1-193,lote1237-1,crab,kume,,,Barlow2024
+lote1237-1-194,lote1237-1,"still, yet (incompletive marker (INCMPL)",kura,,postverbal,Barlow2024
+lote1237-1-195,lote1237-1,thunder,kuruŋ,"kuruŋ ŋa-na (3sg), kuruŋ ŋa-ria (3pl) (with nominalizer as host for possessive marking?)",,Barlow2024
+lote1237-1-196,lote1237-1,"there, thither (medial demonstrative)",la,,"close to hearer; same form as ‘to go’; cf. /lamam/, /kau/",Barlow2024
+lote1237-1-197,lote1237-1,to go,la,"la-ia (‘to bring’, transitive version of ‘to go’), la~la (reduplication)","same form as ‘there, thither’",Barlow2024
+lote1237-1-198,lote1237-1,where?,la ŋai,,‘there where?’; also /ŋai/,Barlow2024
+lote1237-1-199,lote1237-1,"here, hither (proximal demonstrative)",lai,,"close to speaker; cf. /lamai/, /koi/",Barlow2024
+lote1237-1-200,lote1237-1,here (proximal demonstrative),lamai,,"close to speaker; cf. /lai/, /koi/",Barlow2024
+lote1237-1-201,lote1237-1,there (medial demonstrative),lamam,,"close to hearer; cf. /la/, /kau/",Barlow2024
+lote1237-1-202,lote1237-1,"there, yonder (distal demonstrative)",lamau,,far from both speaker and hearer; cf. /kou/,Barlow2024
+lote1237-1-203,lote1237-1,"fly, housefly",laŋo,,,Barlow2024
+lote1237-1-204,lote1237-1,"march fly, blowfly",laŋo xɛrxɛra,,‘fly blue/green’,Barlow2024
+lote1237-1-205,lote1237-1,irrealis marker (IRR),lape,,preverbal; also /pe/,Barlow2024
+lote1237-1-206,lote1237-1,arecoid palm sp. (TP: limbum),lapia,,"cf. /pola/, a different species",Barlow2024
+lote1237-1-207,lote1237-1,rotten,lapusa,,,Barlow2024
+lote1237-1-208,lote1237-1,to catch,lau,lau-a,also /sihɛ/,Barlow2024
+lote1237-1-209,lote1237-1,"to bake, to cook in an earth oven (TP: mumuim)",lel,lel-ɛ,"cf. /mak/ ‘to burn (person as subject), to cook (with fire)’, /tun/ ‘to boil’",Barlow2024
+lote1237-1-210,lote1237-1,to flow (of a river),lele,,reduplication?,Barlow2024
+lote1237-1-211,lote1237-1,smooth,lelemo,,possibly related to /lele/ ‘to flow’; reduplication?; also /sasanix/,Barlow2024
+lote1237-1-212,lote1237-1,to build,lelɛ,,"possibly /lel-ɛ/; possibly the same form as /lel/ ‘to bake, to cook in an earth oven (TP: mumuim)’; cf. /umɛ/ ‘to work, to build’, /po/ ‘to do, to make’",Barlow2024
+lote1237-1-213,lote1237-1,to carve,les,les-ia,cf. /raluɛ/ ‘to carve (a canoe)’,Barlow2024
+lote1237-1-214,lote1237-1,inside,lete-,"lete-m (2sg), lete-na (3sg)","cf. /teu/ ‘inside; to go in, to go inside, to enter’",Barlow2024
+lote1237-1-215,lote1237-1,to think,lete- matana,lete-m mata-na (2sg),"‘inside-POSS eye-3SG’; also /lete- tuanin/, /tuanin/",Barlow2024
+lote1237-1-216,lote1237-1,to think,lete- tuanin,lete-na tuanin (3sg),"‘inside-POSS think’; also /lete- matana/, /tuanin/",Barlow2024
+lote1237-1-217,lote1237-1,general possessive classifier (POSS.GEN),lɛ-,"lɛ-k (1sg), lɛ-m (2sg), na (3sg), nɛ (3sg), nena (3sg)","used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used with possessions that are not food- or drink-related; allomorphs for 3sg possessors: /na/, /nena/",Barlow2024
+lote1237-1-218,lote1237-1,to fly,lɛhɛ,lɛ~lɛhɛ (reduplication),,Barlow2024
+lote1237-1-219,lote1237-1,"four (counting in fours; only as an absolute numeral, not as an adnominal numeral)",lɛisinɛ,,"used for counting coconuts, breadfruit, pieces of firewood, (not, e.g., stones, bananas, people); cf. /ana lɛisinɛ/, used as an adnominal numeral; /hɛnɛl/ ‘four’ (in general counting)",Barlow2024
+lote1237-1-220,lote1237-1,sixteen (16) (counting in fours),lɛisinɛ hɛnɛl,,‘group.of.four [times] four’; also /lɛisinɛ iri hɛnɛl/,Barlow2024
+lote1237-1-221,lote1237-1,sixteen (16) (counting in fours),lɛisinɛ iri hɛnɛl,,‘group.of.four 3PL four’; also /lɛisinɛ hɛnɛl/,Barlow2024
+lote1237-1-222,lote1237-1,twelve (12) (counting in fours),lɛisinɛ iri mol,,‘group.of.four 3PL three’; also /lɛisinɛ mol/,Barlow2024
+lote1237-1-223,lote1237-1,eight (8) (counting in fours),lɛisinɛ iri nai,,‘group.of.four 3PL two’; also /lɛisinɛ nai/; cf. /ratɛle mol/ ‘eight’,Barlow2024
+lote1237-1-224,lote1237-1,twelve (12) (counting in fours),lɛisinɛ mol,,‘group.of.four [times] three’; also /lɛisinɛ iri mol/,Barlow2024
+lote1237-1-225,lote1237-1,eight (8) (counting in fours),lɛisinɛ nai,,‘group.of.four [times] two’; also /lɛisinɛ iri nai/; cf. /ratɛle mol/ ‘eight’,Barlow2024
+lote1237-1-226,lote1237-1,nine (9) (counting in fours),lɛisinɛ nai pe ɛllɛ,,‘group.of.four [times] two and one’; cf. /ratɛle hɛnɛl/ ‘nine’,Barlow2024
+lote1237-1-227,lote1237-1,eleven (11) (counting in fours),lɛisinɛ nai pe mol,,‘group.of.four [times] two and three’,Barlow2024
+lote1237-1-228,lote1237-1,ten (10) (counting in fours),lɛisinɛ nai pe nai,,‘group.of.four [times] two and two’; cf. /analox/ ‘ten’,Barlow2024
+lote1237-1-229,lote1237-1,five (5) (counting in fours),lɛisinɛ pe ɛllɛ,,‘group.of.four and one’; cf. /limɛ/ ‘five’,Barlow2024
+lote1237-1-230,lote1237-1,seven (7) (counting in fours),lɛisinɛ pe mol,,‘group.of.four and three’; cf. /ratɛle nai/ ‘seven’,Barlow2024
+lote1237-1-231,lote1237-1,six (6) (counting in fours),lɛisinɛ pe nai,,‘group.of.four and two’; cf. /ratɛle ɛllɛ/ ‘six’,Barlow2024
+lote1237-1-232,lote1237-1,clean,lɛmlɛm,,reduplication?,Barlow2024
+lote1237-1-233,lote1237-1,"to cut, to hack, to chop",lik,lik-ia,"cf. /tel/ ‘to cut, to fell a tree’, /rir/ ‘to cut, to slice’, /tot/ ‘to cut, to slice’, /ut/ ‘to cut’",Barlow2024
+lote1237-1-234,lote1237-1,five (5),limɛ,,cf. /lɛisinɛ pe ɛllɛ/ ‘five (counting in fours)’,Barlow2024
+lote1237-1-235,lote1237-1,opposite-sex sibling (sister of a man or brother of a woman),liu-,"liu-k (1sg), liu-m (2sg), liu-na (3sg)",,Barlow2024
+lote1237-1-236,lote1237-1,younger opposite-sex sibling,liu- neŋe kino,liu-na neŋe kino (3sg),‘opposite-sex.sibling-POSS REL small’,Barlow2024
+lote1237-1-237,lote1237-1,older opposite-sex sibling,liu- neŋe soke,liu-na neŋe soke (3sg),‘opposite-sex.sibling-POSS REL big’,Barlow2024
+lote1237-1-238,lote1237-1,already (completive marker) (CMPL),lo,,postverbal,Barlow2024
+lote1237-1-239,lote1237-1,lastborn (child),loena,loena-ŋana (with adjectivizing suffix),possibly related to /(h)oe-na/ ‘tail-3sg’,Barlow2024
+lote1237-1-240,lote1237-1,to open (a door),lohɛ,,"also [loɛ]; possibly /lo-ɛ/; cf. /ulɛlɛ/ ‘to open (a basket), to uncover’",Barlow2024
+lote1237-1-241,lote1237-1,taro,loi,,,Barlow2024
+lote1237-1-242,lote1237-1,ginger (TP: kawawar),loitana,,cf. /ex/ ‘tall ginger’,Barlow2024
+lote1237-1-243,lote1237-1,red ant (TP: karakum),lolo,,reduplication?,Barlow2024
+lote1237-1-244,lote1237-1,"cold, cool",lololo,,reduplication?,Barlow2024
+lote1237-1-245,lote1237-1,"to wash, to clean, to wipe",lomɛ,,"possibly /lom-ɛ/; cf. /nun/ ‘to bathe’, /kira/ ‘to scrub, to brush, to wipe’",Barlow2024
+lote1237-1-246,lote1237-1,yesterday,lona,,also /ŋe lona/,Barlow2024
+lote1237-1-247,lote1237-1,"to listen, to hear",loŋo,loŋ-ɛ,,Barlow2024
+lote1237-1-248,lote1237-1,"to fall, to fall down",losio,,likely related to /sio/ ‘to go down’; cf. /mol/ ‘to fall (of rain)’,Barlow2024
+lote1237-1-249,lote1237-1,Lote (language),lote,,,Barlow2024
+lote1237-1-250,lote1237-1,all; whole,loxlox,,reduplication?,Barlow2024
+lote1237-1-251,lote1237-1,ant,lulue,,,Barlow2024
+lote1237-1-252,lote1237-1,"with, together with (comitative)",lulux,,usually followed by /ŋe/ ‘PREP.PN’,Barlow2024
+lote1237-1-253,lote1237-1,"up, high",lut,,,Barlow2024
+lote1237-1-254,lote1237-1,"2sg possessive suffix (thy, your) (2SG.POSS)",-m,,"allomorphs: /-im/, /-um/",Barlow2024
+lote1237-1-255,lote1237-1,or (disjunctive coordinator),ma,,"same form as ‘to lie, to sleep’",Barlow2024
+lote1237-1-256,lote1237-1,"to lie, to lie down; to sleep",ma,,same form as ‘or’; cf. /mamani/ ‘to sleep’,Barlow2024
+lote1237-1-257,lote1237-1,to dream,ma opɛ-,"ma opɛ-m (2sg), ma opɛ-nɛ (3sg)",‘sleep dream-POSS’,Barlow2024
+lote1237-1-258,lote1237-1,rat,mais,,,Barlow2024
+lote1237-1-259,lote1237-1,"to burn (person as subject), to cook (with fire)",mak,mak-ia,"cf. /rau/ ‘to burn (intransitive), to be on fire’, /ŋau/ ‘to eat; to burn (fire as subject)’, /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /toŋo/ ‘to light a fire, to ignite’; cf. /lel/ ‘to bake, to cook in an earth oven (TP: mumuim)’, /tun/ ‘to boil’",Barlow2024
+lote1237-1-260,lote1237-1,"guts, intestines",makal-,"makal-ik (1sg), makal-im (2sg), makan-na (3sg)",,Barlow2024
+lote1237-1-261,lote1237-1,soft,makuk,,,Barlow2024
+lote1237-1-262,lote1237-1,cordyline plant (TP: tanget),male,,,Barlow2024
+lote1237-1-263,lote1237-1,cloth (TP: laplap),maleŋa,,likely < /male/ ‘cordyline plant’,Barlow2024
+lote1237-1-264,lote1237-1,wild fowl,mali,,,Barlow2024
+lote1237-1-265,lote1237-1,to sleep,mamani,,likely < reduplication of /ma/ ‘to lie’,Barlow2024
+lote1237-1-266,lote1237-1,baby,mamau,,,Barlow2024
+lote1237-1-267,lote1237-1,to weave,man,man-ia,cf. /sima/ ‘to sew’,Barlow2024
+lote1237-1-268,lote1237-1,"only, just",mana,,same form as ‘to float’,Barlow2024
+lote1237-1-269,lote1237-1,to float; to swim (of animals),mana,man~mana (reduplication),"same form as ‘only, just’; cf. /pasu/ ‘to swim’",Barlow2024
+lote1237-1-270,lote1237-1,eel,mania,,,Barlow2024
+lote1237-1-271,lote1237-1,"right, correct, true",manmanna,,reduplication?,Barlow2024
+lote1237-1-272,lote1237-1,crocodile,marehit,,,Barlow2024
+lote1237-1-273,lote1237-1,dust,maruxrue,,,Barlow2024
+lote1237-1-274,lote1237-1,eye,mata-,"mata-k (1sg), mata-m (2sg), mata-na (3sg)",,Barlow2024
+lote1237-1-275,lote1237-1,"tear, teardrop",mata- ɛina,"mata-k ɛi-na (1sg), mata-m ɛi-na (2sg), mata-na ɛi-na (3sg)",‘eye-POSS blood-3SG’,Barlow2024
+lote1237-1-276,lote1237-1,sharp,matana,,‘eye-3SG’,Barlow2024
+lote1237-1-277,lote1237-1,"dull, blunt",matana ɛro,,‘eye-3SG NEG’,Barlow2024
+lote1237-1-278,lote1237-1,"to be afraid, to fear",matau,matau-a,,Barlow2024
+lote1237-1-279,lote1237-1,"to live, to be alive",maul,maul~ul (reduplication),,Barlow2024
+lote1237-1-280,lote1237-1,chest,mautu-,"mautu-k (1sg), mautu-m (2sg), mautu-na (3sg)",,Barlow2024
+lote1237-1-281,lote1237-1,"to shame; to be ashamed, to feel shame (reflexive)",me,"me-a, e-me-a iau (1sg), Ø-me-a i (3sg)",,Barlow2024
+lote1237-1-282,lote1237-1,"someone; (a) person, human being",melɛ,,,Barlow2024
+lote1237-1-283,lote1237-1,"skirt, bark loincloth for men (TP: malo)",melo,,"cf. /ela/ ‘skirt, grass skirt for women’",Barlow2024
+lote1237-1-284,lote1237-1,to stand,mes,,,Barlow2024
+lote1237-1-285,lote1237-1,heavy,mɛena,,or /mɛe-na/ ‘heaviness-3SG’?,Barlow2024
+lote1237-1-286,lote1237-1,husband’s sister (sister-in-law),mɛlɛi,"lɛ-k mɛlɛi (1sg), na mɛlɛi (3sg)",,Barlow2024
+lote1237-1-287,lote1237-1,to laugh,mɛlmɛl,,reduplication?,Barlow2024
+lote1237-1-288,lote1237-1,1pl.excl possessive suffix (our) (1PL.EXCL.POSS),-mɛm,,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns),Barlow2024
+lote1237-1-289,lote1237-1,"to take, to get, to carry (in the hand), to hold",mɛnɛ,,"possibly /mɛn-ɛ/; cf. /urɛ/ ‘to carry (on the head)’, /takis/ ‘to carry (on the shoulder)’, /raita/ ‘to hold’",Barlow2024
+lote1237-1-290,lote1237-1,to bring,mɛnɛ at,,‘take come’,Barlow2024
+lote1237-1-291,lote1237-1,thin,mɛnini,,,Barlow2024
+lote1237-1-292,lote1237-1,how?; why?,mɛre,,also /pomɛre/,Barlow2024
+lote1237-1-293,lote1237-1,salt,mɛsmɛs,,reduplication?,Barlow2024
+lote1237-1-294,lote1237-1,"to die, to be dead",mɛte,,,Barlow2024
+lote1237-1-295,lote1237-1,to be hungry,mɛte a-,"e-mɛte a-k (1sg), Ø-mɛte a-na (3sg)",‘die POSS.ED-POSS’,Barlow2024
+lote1237-1-296,lote1237-1,to itch; to scratch (as transitive),mɛxsisil,mɛxsisil-ia,a compound containing /sisil/ ‘urine’?,Barlow2024
+lote1237-1-297,lote1237-1,"hot, warm",milaŋ,,,Barlow2024
+lote1237-1-298,lote1237-1,night,miliko,,,Barlow2024
+lote1237-1-299,lote1237-1,clear,miliŋliŋ,,reduplication?,Barlow2024
+lote1237-1-300,lote1237-1,island,mimio,,,Barlow2024
+lote1237-1-301,lote1237-1,cassava,mioka,,,Barlow2024
+lote1237-1-302,lote1237-1,"meat, flesh",mira-,"mira-k (1sg), mira-m (2sg), mira-na (3sg)",,Barlow2024
+lote1237-1-303,lote1237-1,1pl.excl subject prefix (1PL.EXCL),mo-,,verbal prefix; same form as the 2pl possessive suffix,Barlow2024
+lote1237-1-304,lote1237-1,"2pl possessive suffix (your, y’all’s) (2PL.POSS)",-mo,,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns); same form as the 1pl.excl subject prefix,Barlow2024
+lote1237-1-305,lote1237-1,three (3),mol,,same form as ‘to fall (of rain)’,Barlow2024
+lote1237-1-306,lote1237-1,to fall (of rain),mol,,same form as ‘three’; cf. /losio/ ‘to fall down’,Barlow2024
+lote1237-1-307,lote1237-1,yam,momo,,,Barlow2024
+lote1237-1-308,lote1237-1,sweet,monmona,"monmona-ŋa- (nominalization, ‘fat, grease’)",reduplication?,Barlow2024
+lote1237-1-309,lote1237-1,"fat, grease",monmonaŋa-,"monmonaŋa-k (1sg), monmonaŋa-na (3sg)",‘sweet-NMLZ-POSS’,Barlow2024
+lote1237-1-310,lote1237-1,"bag, woven bag made of woven vines",monri,,"[mondri]; the bag is hard, not considered to be a ‘bilum’ (TP for ‘net bag, string bag’)",Barlow2024
+lote1237-1-311,lote1237-1,"again; to go back, to return; reflexive marker (-self, -selves) (REFL)",mulɛ,,"as reflexive marker, follows main verb and precedes object (= subject)",Barlow2024
+lote1237-1-312,lote1237-1,"shadow, shade",mulil,,,Barlow2024
+lote1237-1-313,lote1237-1,"mucus, snot",muluta,"lɛ-k muluta (1sg), lɛ-m muluta (2sg), na muluta (3sg)",cf. /ulut/ ‘spit’,Barlow2024
+lote1237-1-314,lote1237-1,black; dirty,muna,,,Barlow2024
+lote1237-1-315,lote1237-1,plural marker (PL),mur,,postnominal,Barlow2024
+lote1237-1-316,lote1237-1,full,muta,,,Barlow2024
+lote1237-1-317,lote1237-1,to vomit,mutmuta,,reduplication?,Barlow2024
+lote1237-1-318,lote1237-1,fog,muxmua,,,Barlow2024
+lote1237-1-319,lote1237-1,"3sg possessive suffix (his, her, its) (3SG.POSS)",-na,,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns); same form as the 3sg general possessive classifier,Barlow2024
+lote1237-1-320,lote1237-1,general possessive classifier (3sg) (POSS.GEN.3SG),na,,allomorph of /lɛ-/ for 3sg possessors; used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used with possessions that are not food- or drink-related; same form as the 3sg possessive suffix; also /nena/,Barlow2024
+lote1237-1-321,lote1237-1,"nit, louse egg",nai,nai nena (3sg),same form as ‘two’,Barlow2024
+lote1237-1-322,lote1237-1,two (2),nai,,same form as ‘nit’,Barlow2024
+lote1237-1-323,lote1237-1,"to look, to see",nau,nau-ɛ,also /ɛs/,Barlow2024
+lote1237-1-324,lote1237-1,wallaby,neko,,,Barlow2024
+lote1237-1-325,lote1237-1,general possessive classifier (3sg) (POSS.GEN.3SG),nena,,allomorph of /lɛ-/ for 3sg possessors; used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used with possessions that are not food- or drink-related; also /na/,Barlow2024
+lote1237-1-326,lote1237-1,"that, which (relativizer) (REL)",neŋe,,,Barlow2024
+lote1237-1-327,lote1237-1,if,neŋe teke,,‘REL want’; also /teke/,Barlow2024
+lote1237-1-328,lote1237-1,"3sg possessive suffix (his, her, its) (3SG.POSS)",-nɛ,,allomorph of /-na/ for /ɛ/-final stems; nominal suffix in direct possession constructions (for inalienably possessed nouns),Barlow2024
+lote1237-1-329,lote1237-1,this (proximal demonstrative) (close to speaker),nɛi,,,Barlow2024
+lote1237-1-330,lote1237-1,that (medial demonstrative) (close to hearer),nɛm,,,Barlow2024
+lote1237-1-331,lote1237-1,"that, that yonder (distal demonstrative) (far from both speaker and hearer)",nɛu,,,Barlow2024
+lote1237-1-332,lote1237-1,bird,niɛ,,,Barlow2024
+lote1237-1-333,lote1237-1,before,nike,,,Barlow2024
+lote1237-1-334,lote1237-1,old (thing),nikeŋana,,‘before-ADJ’; cf. /tuauna/ ‘old (person)’,Barlow2024
+lote1237-1-335,lote1237-1,man,non,,,Barlow2024
+lote1237-1-336,lote1237-1,old man,non tuaunaŋana,,‘man old-ADJ’,Barlow2024
+lote1237-1-337,lote1237-1,to hit (with a stick),nos,nos-ia,"cf. /pal/ ‘to hit, to beat, to strike’, /tamal/ ‘to throw (a stone); to hit, to pelt (as transitive)’",Barlow2024
+lote1237-1-338,lote1237-1,to bathe,nun,"hɛ-nun-ɛ (causative, ‘to make bathe, to bathe [someone]’)","cf. /lomɛ/ ‘to wash, to clean, to wipe’",Barlow2024
+lote1237-1-339,lote1237-1,"in, at, on (locative preposition), with (instrumental preposition) (PREP)",ŋa,,same form as ‘soul’ and the nominalizing suffix; cf. /ŋe/,Barlow2024
+lote1237-1-340,lote1237-1,nominalizing suffix,-ŋa,,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns); same form as ‘soul’ and the general preposition,Barlow2024
+lote1237-1-341,lote1237-1,soul,ŋa-,"ŋa-k (1sg), ŋa-m (2sg), ŋa-na (3sg)",same form as the general preposition and the nominalizing suffix,Barlow2024
+lote1237-1-342,lote1237-1,where?,ŋai,,also /la ŋai/,Barlow2024
+lote1237-1-343,lote1237-1,conch,ŋalum,,,Barlow2024
+lote1237-1-344,lote1237-1,adjectivizing suffix,-ŋana,,"suffix for descriptive words, which follow head nouns; probably < /-ŋa/ ‘NMLZ’ + /-na/ ‘3SG.POSS’",Barlow2024
+lote1237-1-345,lote1237-1,"fruit, berry",ŋanaŋa-,ŋanaŋa-na (3sg),reduplication?,Barlow2024
+lote1237-1-346,lote1237-1,to eat; to burn (fire as subject),ŋau,"ŋau-a, ŋau~ŋau (reduplication); ŋau-ŋa (nominalization, ‘food’)","often [ŋao]; cf. /mak/ ‘to burn (person as subject), to cook (with fire)’, /rau/ ‘to burn (intransitive), to be on fire’ /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /toŋo/ ‘to light a fire, to ignite’",Barlow2024
+lote1237-1-347,lote1237-1,food,ŋauŋa,,‘eat-NMLZ’,Barlow2024
+lote1237-1-348,lote1237-1,vine sp. (large),ŋautou,,possibly /ŋaotou/,Barlow2024
+lote1237-1-349,lote1237-1,"in, at, on (personal name preposition) (PREP.PN); than (comparative)",ŋe,,a locative preposition used with personal names; a temporal preposition used with all kinds of objects; cf. /ŋa/,Barlow2024
+lote1237-1-350,lote1237-1,yesterday,ŋe lona,,‘PREP yesterday’,Barlow2024
+lote1237-1-351,lote1237-1,when?,ŋe ŋiŋiɛ,,‘PREP when?’; also /ŋiŋiɛ/,Barlow2024
+lote1237-1-352,lote1237-1,tomorrow,ŋe rou,,‘PREP tomorrow’,Barlow2024
+lote1237-1-353,lote1237-1,to suck and chew (sugarcane),ŋɛs,ŋɛs-ia,cf. /rira/ ‘to chew’,Barlow2024
+lote1237-1-354,lote1237-1,tooth,ŋiŋi-,"ŋiŋi-k (1sg), ŋiŋi-m (2sg), ŋiŋi-na (3sg)",reduplication?,Barlow2024
+lote1237-1-355,lote1237-1,when?,ŋiŋiɛ,,also /ŋe ŋiŋiɛ/,Barlow2024
+lote1237-1-356,lote1237-1,2sg subject prefix (2SG),o-,,verbal prefix; same form as ‘top’,Barlow2024
+lote1237-1-357,lote1237-1,top; above,o-,o-na (3sg),same form as the 2sg subject prefix; postnominal and with possessive marking can function with the meaning ‘above’,Barlow2024
+lote1237-1-358,lote1237-1,yes,oe,,,Barlow2024
+lote1237-1-359,lote1237-1,"betel nut, areca nut (TP: buai)",oio,,,Barlow2024
+lote1237-1-360,lote1237-1,now; emphatic marker (EMPH),ol,,same form as ‘to buy’,Barlow2024
+lote1237-1-361,lote1237-1,to buy,ol,ol-ia,same form as ‘now’,Barlow2024
+lote1237-1-362,lote1237-1,lizard,ole,,,Barlow2024
+lote1237-1-363,lote1237-1,to squeeze (wet clothes),olɛ,,"possibly /ol-ɛ/; cf. /pip/ ‘to mash, to smash, to pound (banana), to squeeze (grated coconut)’",Barlow2024
+lote1237-1-364,lote1237-1,"spirit, dream",opɛ-,"opɛ-m (2sg), opɛ-nɛ (3sg)",,Barlow2024
+lote1237-1-365,lote1237-1,paddle,oteŋa,,,Barlow2024
+lote1237-1-366,lote1237-1,man’s mother’s brother’s child (cross-cousin),paɛn,"lɛ-k paɛn (1sg), lɛ-m paɛn (2sg), na paɛn (3sg), nena paɛn (3sg)",,Barlow2024
+lote1237-1-367,lote1237-1,"shell (e.g., of coconut, betel nut)",pai-,"pai-na (3sg), pai-ria (3pl)",,Barlow2024
+lote1237-1-368,lote1237-1,mosquito,painin,,possibly related to /inin/ ‘pain’,Barlow2024
+lote1237-1-369,lote1237-1,coconut,paita,,possibly related to /pai-/ ‘shell’,Barlow2024
+lote1237-1-370,lote1237-1,needle (made from the bones of flying foxes),pakeka,,,Barlow2024
+lote1237-1-371,lote1237-1,spear type,pakpaka,,"cf. other types /kaliŋo/, /raliŋ/, and generic /io/",Barlow2024
+lote1237-1-372,lote1237-1,"to hit, to beat, to strike",pal,pal-ia,"cf. /nos/ ‘to hit (with a stick)’, /tamal/ ‘to throw (a stone); to hit, to pelt (as transitive)’",Barlow2024
+lote1237-1-373,lote1237-1,knee,pala-,"pala-k (1sg), pala-m (2sg) pala-na (3sg)",,Barlow2024
+lote1237-1-374,lote1237-1,big,palau,palau-ŋana,also /soke/,Barlow2024
+lote1237-1-375,lote1237-1,to fight,palhɛl,,reciprocal form of /pal/ ‘to hit’,Barlow2024
+lote1237-1-376,lote1237-1,head,palpal-,"palpal-uk (1sg), palpal-um (2sg), palpan-na (3sg)",,Barlow2024
+lote1237-1-377,lote1237-1,hair of the head,palpal- ina,"palpal-uk i-na (1sg), palpal-um i-na (2sg), palpan-na i-na (3sg)",‘head-POSS leaf-3SG’,Barlow2024
+lote1237-1-378,lote1237-1,"wide, open; to open",paŋpaŋa,,possibly /paŋpaŋ-a/; reduplication?,Barlow2024
+lote1237-1-379,lote1237-1,chicken,pareo,,,Barlow2024
+lote1237-1-380,lote1237-1,to swim,pasu,,cf. /mana/ ‘to float; to swim (of animals)’,Barlow2024
+lote1237-1-381,lote1237-1,back (of the body),pataŋa-,"pataŋa-k (1sg), pataŋa-m (2sg), pataŋa-na (3sg)",,Barlow2024
+lote1237-1-382,lote1237-1,vegetable sp. (TP: aibika),pau,,,Barlow2024
+lote1237-1-383,lote1237-1,and (coordinating conjunction); when (simultaneous action) (CONJ),pe,,same form as the abbreviated irrealis marker,Barlow2024
+lote1237-1-384,lote1237-1,irrealis marker (IRR),pe,,preverbal; abbreviated form of /lape/; same form as ‘and’,Barlow2024
+lote1237-1-385,lote1237-1,sand; beach,peipei,,reduplication?,Barlow2024
+lote1237-1-386,lote1237-1,house,pɛle,,,Barlow2024
+lote1237-1-387,lote1237-1,floor,pɛle lete-,pɛle lete-na (3sg),‘house inside-POSS’,Barlow2024
+lote1237-1-388,lote1237-1,roof,pɛle o-,"pɛle o-na (3sg), pɛle o-ria (3pl)",‘house top-POSS’,Barlow2024
+lote1237-1-389,lote1237-1,elbow of the arm,pɛn- ana poŋe,pɛn-na ana poŋe (3sg),‘arm-POSS POSS.ED?-3SG elbow’,Barlow2024
+lote1237-1-390,lote1237-1,straight,pɛŋpɛŋ,,reduplication?,Barlow2024
+lote1237-1-391,lote1237-1,"arm, hand; branch",pɛr-,"pɛr-ik (1sg), pɛr-im (2sg), pɛn-na (3sg); pɛr~pɛr-na (plural, 3sg)",,Barlow2024
+lote1237-1-392,lote1237-1,finger,pɛr- kukana,"pɛr-ik kuka-na (1sg), pɛr-im kuka-na (2sg), pɛn-na kuka-na (3sg)",‘hand-POSS digit-3SG’,Barlow2024
+lote1237-1-393,lote1237-1,fingernail,pɛr- tuaulina,"pɛr-ik tuauli-na (1sg), pɛr-im tuauli-na (2sg), pɛn-na tuauli-na (3sg)",‘hand-POSS nail-3SG’,Barlow2024
+lote1237-1-394,lote1237-1,branches (plural),pɛrpɛr-,pɛrpɛr-na (3sg),"reduplicative plural of /pɛr-/ ‘arm, hand; branch’",Barlow2024
+lote1237-1-395,lote1237-1,to sing,pɛu,,,Barlow2024
+lote1237-1-396,lote1237-1,"flying fox, bat",piaŋa,,,Barlow2024
+lote1237-1-397,lote1237-1,fern sp.,pilɛm,,,Barlow2024
+lote1237-1-398,lote1237-1,"to mash, to smash, to pound (banana), to squeeze (grated coconut)",pip,pip-ia,cf. /olɛ/ ‘to squeeze (wet clothes)’,Barlow2024
+lote1237-1-399,lote1237-1,rain,pitte,,,Barlow2024
+lote1237-1-400,lote1237-1,to close,piu,"piu-ŋa (nominalization, ‘door’)",also /piu hɛlɛ/,Barlow2024
+lote1237-1-401,lote1237-1,to close,piu hɛlɛ,,possibly ‘close break.in.pieces’,Barlow2024
+lote1237-1-402,lote1237-1,door,piuŋa,,‘close-NMLZ’,Barlow2024
+lote1237-1-403,lote1237-1,"to do, to make",po,,"cf. /lelɛ/ ‘to build’, /umɛ/ ‘to work, to build’",Barlow2024
+lote1237-1-404,lote1237-1,arecoid palm sp. (TP: limbum),pola,,"cf. /lapia/, a different species",Barlow2024
+lote1237-1-405,lote1237-1,hole,polo,,,Barlow2024
+lote1237-1-406,lote1237-1,light (not heavy),polpoleŋa,,reduplication?,Barlow2024
+lote1237-1-407,lote1237-1,empty,polpolo,,reduplicated form of /polo/ ‘hole’?; also /soso/,Barlow2024
+lote1237-1-408,lote1237-1,how?; why?,pomɛre,,also /mɛre/,Barlow2024
+lote1237-1-409,lote1237-1,elbow,poŋe,,,Barlow2024
+lote1237-1-410,lote1237-1,butterfly,popo,,reduplication?; same form as ‘papaya’,Barlow2024
+lote1237-1-411,lote1237-1,papaya,popo,,borrowed from Tok Pisin; same form as ‘butterfly’,Barlow2024
+lote1237-1-412,lote1237-1,bad,poreke,,,Barlow2024
+lote1237-1-413,lote1237-1,tobacco,pos,,,Barlow2024
+lote1237-1-414,lote1237-1,to do what?; why?,potar,po-ta~tar (reduplication for emphasis or durative marking?),< /po/ ‘to do’ + /utar/ ‘what?’,Barlow2024
+lote1237-1-415,lote1237-1,to push,puɛ,,,Barlow2024
+lote1237-1-416,lote1237-1,"also, too",pule,,,Barlow2024
+lote1237-1-417,lote1237-1,hair (body hair); feather,pulpul-,"pulpun-na (3sg), pulpur-ria (3pl)",cf. /in-/ ‘leaf; hair (of the head)’,Barlow2024
+lote1237-1-418,lote1237-1,smoke,puluŋa-,"puluŋa-na (3sg), puluŋa-ria (3pl)",,Barlow2024
+lote1237-1-419,lote1237-1,to swell,puna,,,Barlow2024
+lote1237-1-420,lote1237-1,ripe,punpun,,,Barlow2024
+lote1237-1-421,lote1237-1,1pl.incl possessive suffix (our) (1PL.INCL.POSS),-ra,,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns),Barlow2024
+lote1237-1-422,lote1237-1,to hold,raita,rait-ɛ,"cf. /mɛnɛ/ ‘to take, to get, to carry (in the hand), to hold’",Barlow2024
+lote1237-1-423,lote1237-1,rattan cane (TP: kanda),rale,,,Barlow2024
+lote1237-1-424,lote1237-1,"spear used in festivals, traditional dances",raliŋ,,"cf. other types /kaliŋo/, /pakpaka/, and generic /io/",Barlow2024
+lote1237-1-425,lote1237-1,to carve (a canoe),raluɛ,,possibly /ralu-ɛ/; cf. /les/ ‘to carve’,Barlow2024
+lote1237-1-426,lote1237-1,forehead; face,rama-,"rama-l (1sg), rama-m (2sg), rama-na (3sg)",,Barlow2024
+lote1237-1-427,lote1237-1,green,raŋraŋ,,reduplication?,Barlow2024
+lote1237-1-428,lote1237-1,"around, about",rara,,reduplication?,Barlow2024
+lote1237-1-429,lote1237-1,"plus (used with the morphemes ‘one’, ‘two’, ‘three’, and ‘four’ in the formation of ‘six’, ‘seven’, ‘eight’, and ‘nine’)",ratɛle,,"used with the morphemes ‘one’, ‘two’, ‘three’, and ‘four’ in the formation of ‘six’, ‘seven’, ‘eight’, and ‘nine’",Barlow2024
+lote1237-1-430,lote1237-1,six (6),ratɛle ɛllɛ,,‘[five] plus one’; cf. /lɛisinɛ pe nai/ ‘six (counting in fours)’,Barlow2024
+lote1237-1-431,lote1237-1,nine (9),ratɛle hɛnɛl,,‘[five] plus four’; cf. /lɛisinɛ nai pe ɛllɛ/ ‘nine (counting in fours)’,Barlow2024
+lote1237-1-432,lote1237-1,eight (8),ratɛle mol,,‘[five] plus three’; cf. /lɛisinɛ nai/ ~ /lɛisinɛ iri nai/ ‘eight (counting in fours)’,Barlow2024
+lote1237-1-433,lote1237-1,seven (7),ratɛle nai,,‘[five] plus two’; cf. /lɛisinɛ pe mol/ ‘seven (counting in fours)’,Barlow2024
+lote1237-1-434,lote1237-1,"to burn (intransitive), to be on fire",rau,,"cf. /mak/ ‘to burn (person as subject), to cook (with fire)’, /ŋau/ ‘to eat; to burn (fire as subject)’, /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /toŋo/ ‘to light a fire, to ignite’",Barlow2024
+lote1237-1-435,lote1237-1,crayfish,rerɛ,,,Barlow2024
+lote1237-1-436,lote1237-1,to split,rex,rex-ia,,Barlow2024
+lote1237-1-437,lote1237-1,"to light (of fire), to burn, to ignite",rɛmɛn,,"cf. /toŋo/ ‘to light a fire, to ignite’, /mak/ ‘to burn (person as subject), to cook (with fire)’, /rau/ ‘to burn (intransitive), to be on fire’, /ŋau/ ‘to eat; to burn (fire as subject)’",Barlow2024
+lote1237-1-438,lote1237-1,red,rɛmɛnmɛn,,reduplication?,Barlow2024
+lote1237-1-439,lote1237-1,3pl possessive suffix (their) (3PL.POSS),-ria,,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns),Barlow2024
+lote1237-1-440,lote1237-1,"to cut, to slice",rir,rir-ia,"cf. /tot/ ‘to cut, to slice’, /lik/ ‘to cut, to hack, to chop’, /tel/ ‘to cut, to fell a tree’, /ut/ ‘to cut’",Barlow2024
+lote1237-1-441,lote1237-1,to chew,rira,rir-ɛ,cf. /ŋɛs/ ‘to suck and chew (sugarcane)’,Barlow2024
+lote1237-1-442,lote1237-1,sky,ririua,,,Barlow2024
+lote1237-1-443,lote1237-1,"solid, hard",rol,,,Barlow2024
+lote1237-1-444,lote1237-1,tomorrow,rou,,also /ŋe rou/,Barlow2024
+lote1237-1-445,lote1237-1,"near, close",roxroi,,,Barlow2024
+lote1237-1-446,lote1237-1,"sea, ocean",ruax,,,Barlow2024
+lote1237-1-447,lote1237-1,rough,rukrɛk,,,Barlow2024
+lote1237-1-448,lote1237-1,fish,ruo,,,Barlow2024
+lote1237-1-449,lote1237-1,rope; vine sp. (small),rur,,,Barlow2024
+lote1237-1-450,lote1237-1,to hunt,rurum,,reduplication?,Barlow2024
+lote1237-1-451,lote1237-1,"belly, stomach",sa-,"sa-k (1sg), sa-m (2sg), sa-na (3sg)",,Barlow2024
+lote1237-1-452,lote1237-1,wing,saha-,"saha-na (3sg), saha-ria (3pl)",,Barlow2024
+lote1237-1-453,lote1237-1,swamp,saka,,same form as ‘to smell’,Barlow2024
+lote1237-1-454,lote1237-1,"to smell (intransitive), to be smelly, to be stinky",saka,,"same form as ‘swamp’; cf. /sɛkɛ/ ‘to smell, to sniff (transitive)’, with which it likely has a relationship",Barlow2024
+lote1237-1-455,lote1237-1,oyster,sakɛn,,,Barlow2024
+lote1237-1-456,lote1237-1,horn (spikes on a lizard),saŋkar,,[saŋgar],Barlow2024
+lote1237-1-457,lote1237-1,to grate (coconut),sasal,sasal-ia,reduplication?,Barlow2024
+lote1237-1-458,lote1237-1,smooth,sasanix,,reduplication?; also /lelemo/,Barlow2024
+lote1237-1-459,lote1237-1,long,sase,,,Barlow2024
+lote1237-1-460,lote1237-1,to throw,sau,sau-a,"cf. /tamal/ ‘to throw (a stone); to hit, to pelt (as transitive)’",Barlow2024
+lote1237-1-461,lote1237-1,"slippery, oily",sesereŋa,,reduplication?,Barlow2024
+lote1237-1-462,lote1237-1,"to smell (transitive), to sniff",sɛkɛ,,"possibly /sɛk-ɛ/; cf. /saka/ ‘to smell (intransitive), to be smelly, to be stinky’, with which it likely has a relationship",Barlow2024
+lote1237-1-463,lote1237-1,to dig,sɛl,sɛl-ia,,Barlow2024
+lote1237-1-464,lote1237-1,axe,sɛlɛmpo,,[sɛlɛmbo],Barlow2024
+lote1237-1-465,lote1237-1,sling,sɛpɛ,,,Barlow2024
+lote1237-1-466,lote1237-1,to shoot (with a sling),sɛpɛia,,"transitive verbal form of /sɛpɛ/ ‘sling’; cf. /tu/ ‘to shoot, to stab, to pierce, to stick’",Barlow2024
+lote1237-1-467,lote1237-1,narrow,sɛrir,,,Barlow2024
+lote1237-1-468,lote1237-1,to catch,sihɛ,,possibly /sih-ɛ/; also /lau/,Barlow2024
+lote1237-1-469,lote1237-1,mirror,siloŋa,,possibly a nominalized form of something,Barlow2024
+lote1237-1-470,lote1237-1,possum,silox,,,Barlow2024
+lote1237-1-471,lote1237-1,to sew,sima,sim-ɛ,cf. /man/ ‘to weave’,Barlow2024
+lote1237-1-472,lote1237-1,"day, daytime",sinaŋa,,possibly a nominalized form of something; cf. /ɛtuɛ/ ‘day (countable)’,Barlow2024
+lote1237-1-473,lote1237-1,skin; body,siŋi-,"siŋi-k (1sg), siŋi-na (3sg), siŋi-ria (3pl)",also /uli-/ ‘skin’,Barlow2024
+lote1237-1-474,lote1237-1,"down, low; to go down, to descend, to fall",sio,,cf. /losio/ ‘to fall down’,Barlow2024
+lote1237-1-475,lote1237-1,betel pepper (TP: daka),sipe,,,Barlow2024
+lote1237-1-476,lote1237-1,"woman’s mother’s brother (uncle), man’s sister’s daughter (niece)",sipu-,"sipu-k (1sg), sipu-m (2sg), sipu-na (3sg)",,Barlow2024
+lote1237-1-477,lote1237-1,to count,sisɛlɛ,,possibly /sisɛl-ɛ/,Barlow2024
+lote1237-1-478,lote1237-1,urine,sisil,"sisil ŋa-k (1sg), sisil ŋa-m (2sg), sisil ŋa-na (3sg)",reduplication?,Barlow2024
+lote1237-1-479,lote1237-1,"breast, breasts",siu-,"siu-k (1sg), siu-m (2sg), siu-na (3sg)",same form as ‘to suckle’,Barlow2024
+lote1237-1-480,lote1237-1,"to suck, to suckle (a breast), to nurse",siu,"hɛ-siu-a (causative, ‘to make suckle; to nurse [a child]’)",same form as ‘breast’ (zero derivation from the noun),Barlow2024
+lote1237-1-481,lote1237-1,big,soke,,also /palau/,Barlow2024
+lote1237-1-482,lote1237-1,year,soksoko,,reduplication?,Barlow2024
+lote1237-1-483,lote1237-1,to run,soŋ,,,Barlow2024
+lote1237-1-484,lote1237-1,empty,soso,,reduplication?; also /polpolo/,Barlow2024
+lote1237-1-485,lote1237-1,to peel,sox,sox-ia,,Barlow2024
+lote1237-1-486,lote1237-1,"small, little; a little",sune,,"cf. /unne/ ‘a little’, /tuna/, ‘small, little (thing)’, /kino/ ‘small, little (person)’",Barlow2024
+lote1237-1-487,lote1237-1,1pl.incl subject prefix (1PL.INCL),ta-,,verbal prefix; same form as ‘mother’,Barlow2024
+lote1237-1-488,lote1237-1,"mother, parent’s sister (aunt), mother’s brother’s wife (aunt)",ta-,"ɛ-ta-k (1sg), ta-m (2sg), ta-na (3sg)",same form as the 1pl.incl subject prefix,Barlow2024
+lote1237-1-489,lote1237-1,parent’s younger sister (aunt),ta- kino,ɛ-ta-k kino (1sg),‘mother-POSS small’,Barlow2024
+lote1237-1-490,lote1237-1,parent’s older sister (aunt),ta- palau,ɛ-ta-k palau (1sg),‘mother-POSS big’,Barlow2024
+lote1237-1-491,lote1237-1,chin,tae-,"tae-k (1sg), tae-m (2sg), tae-na (3sg)",,Barlow2024
+lote1237-1-492,lote1237-1,to pull,tak,,also /takuɛ/,Barlow2024
+lote1237-1-493,lote1237-1,to breathe,tak ɛiŋa-,"tak ɛiŋa-m (2sg), tak ɛiŋa-na (3sg)",‘pull breath-POSS’,Barlow2024
+lote1237-1-494,lote1237-1,to carry (on the shoulder),takis,takis-ia,"cf. /urɛ/ ‘to carry (on the head)’, /mɛnɛ/ ‘to take, to get, to carry (in the hand), to hold’",Barlow2024
+lote1237-1-495,lote1237-1,thatch,tako,,,Barlow2024
+lote1237-1-496,lote1237-1,to pull,takuɛ,,possibly /taku-ɛ/; compound of /tak/ ‘to pull’ + /u/ ‘?’,Barlow2024
+lote1237-1-497,lote1237-1,to put,tal,,,Barlow2024
+lote1237-1-498,lote1237-1,to hide,tal kome,tal kom-ɛ (transitive),‘put hiding’,Barlow2024
+lote1237-1-499,lote1237-1,ear,talŋa-,"talŋa-k (1sg), talŋa-m (2sg), talŋa-na (3sg)",,Barlow2024
+lote1237-1-500,lote1237-1,"to throw (a stone); to hit, to pelt (as transitive)",tamal,tamal-ia,"cf. /sau/ ‘to throw’; cf. /pal/ ‘to hit, to beat, to strike’, /nos/ ‘to hit (with a stick)’",Barlow2024
+lote1237-1-501,lote1237-1,right (not left),tamalmal,,reduplication of /tamal/ ‘to throw’,Barlow2024
+lote1237-1-502,lote1237-1,male,tamane,,,Barlow2024
+lote1237-1-503,lote1237-1,"to cry, to weep",taŋ,taŋ-ia,,Barlow2024
+lote1237-1-504,lote1237-1,"to search for, to seek",taŋo,,,Barlow2024
+lote1237-1-505,lote1237-1,cassowary (TP: muruk),tapo,,,Barlow2024
+lote1237-1-506,lote1237-1,what?,tar,,abbreviated form of /utar/,Barlow2024
+lote1237-1-507,lote1237-1,3pl subject prefix (3PL),te-,,verbal prefix; also used for 3sg taboo relations,Barlow2024
+lote1237-1-508,lote1237-1,to want (volitive verb); if (conjunction),teke,,also /neŋe teke/ ‘if’,Barlow2024
+lote1237-1-509,lote1237-1,"to cut, to fell a tree",tel,tel-ɛ,"cf. /lik/ ‘to cut, to hack, to chop’, /rir/ ‘to cut, to slice’, /tot/ ‘to cut, to slice’, /ut/ ‘to cut’",Barlow2024
+lote1237-1-510,lote1237-1,"inside; to go in, to go inside, to enter",teu,teu-a,cf. /lete-/ ‘inside’,Barlow2024
+lote1237-1-511,lote1237-1,"grandparent, grandchild, husband’s parent (mother-in-law, father-in-law) or grandparent, wife’s grandparent, son’s wife (daughter-in-law), man’s sister’s son’s wife",tɛ,"lɛ-k tɛ (1sg), lɛ-m tɛ (2sg), nɛ tɛ (3sg)",,Barlow2024
+lote1237-1-512,lote1237-1,"grandmother, granddaughter",tɛ neŋe hɛi,tɛ-k neŋe hɛi (1sg),‘grandparent/child-POSS REL female’,Barlow2024
+lote1237-1-513,lote1237-1,"grandfather, grandson",tɛ neŋe tamane,tɛ-k neŋe tamane (1sg),‘grandparent/child-POSS REL male’,Barlow2024
+lote1237-1-514,lote1237-1,"great-grandparent, and those of older generations",tɛ palau,"lɛ-k tɛ palau (1sg), lɛ-k tɛ palau-ŋana (1sg)",‘grandparent big’,Barlow2024
+lote1237-1-515,lote1237-1,"excrement, feces; refuse of betel nut",tɛe-,"tɛe-k (1sg), tɛe-m (2sg), tɛe-na (3sg)",,Barlow2024
+lote1237-1-516,lote1237-1,moon; month,tɛio,,,Barlow2024
+lote1237-1-517,lote1237-1,to straighten,tɛkɛ,,possibly /tɛk-ɛ/,Barlow2024
+lote1237-1-518,lote1237-1,"to lie, to lie down, to recline, to rest",tɛkɛ ki-,tɛkɛ ki-na (3sg),‘straighten bone-POSS’,Barlow2024
+lote1237-1-519,lote1237-1,father,tɛmɛ-,"tɛmɛ-k (1sg), tɛmɛ-m (2sg), tɛmɛ-nɛ (3sg)",,Barlow2024
+lote1237-1-520,lote1237-1,firstborn (child),tɛŋɛnɛ,tɛŋɛnɛ-ana (with topic marker?),possibly related to /hɛŋɛnɛ/ ‘mountain; temple (of the head)’,Barlow2024
+lote1237-1-521,lote1237-1,flat,tɛptɛpeŋ,,,Barlow2024
+lote1237-1-522,lote1237-1,same-sex sibling (brother of a man or sister of a woman),ti-,"ti-k (1sg), ti-m (2sg), ti-na (3sg)",,Barlow2024
+lote1237-1-523,lote1237-1,younger same-sex sibling,ti- neŋe kino,ti-na neŋe kino (3sg),‘same.sex.sibling-POSS REL small’,Barlow2024
+lote1237-1-524,lote1237-1,older same-sex sibling,ti- neŋe palau,ti-na neŋe palau (3sg),‘same.sex.sibling-POSS REL big’,Barlow2024
+lote1237-1-525,lote1237-1,older same-sex sibling,ti- neŋe soke,ti-na neŋe soke (3sg),‘same.sex.sibling-POSS REL big’,Barlow2024
+lote1237-1-526,lote1237-1,"to fix, to tie",tom,,"cf. /tom hit/ ‘to tie up’, /hit/ ‘to block, to tie’, /kale/ ‘to tie, to fasten’, /kale hit/ ‘to tie up’",Barlow2024
+lote1237-1-527,lote1237-1,to tie up,tom hit,tom hit-ɛ,"‘tie fix’; cf. /tom/ ‘to fix, to tie’; /hit/ ‘to block, to tie’, /kale/ ‘to tie, to fasten’, /kale hit/ ‘to tie up’",Barlow2024
+lote1237-1-528,lote1237-1,"to light a fire, to ignite",toŋo,,"cf. /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /mak/ ‘to burn (person as subject), to cook (with fire)’, /rau/ ‘to burn (intransitive), to be on fire’, /ŋau/ ‘to eat; to burn (fire as subject)’",Barlow2024
+lote1237-1-529,lote1237-1,"to cut, to slice",tot,tot-ɛ,"cf. /rir/ ‘to cut, to slice’, /lik/ ‘to cut, to hack, to chop’, /tel/ ‘to cut, to fell a tree’, /ut/ ‘to cut’",Barlow2024
+lote1237-1-530,lote1237-1,"very, extremely",toto,,reduplication?,Barlow2024
+lote1237-1-531,lote1237-1,"sugarcane, sugar",tou,,,Barlow2024
+lote1237-1-532,lote1237-1,"child; man’s brother’s child (nephew, niece)",tu-,"tu-k (3sg), tu-m (3sg), tu-na (3sg); tu~tu-na (plural, 3sg)","same form as ‘to be, to stay’, ‘to shoot, to stab, to pierce, to stick’",Barlow2024
+lote1237-1-533,lote1237-1,"to be (located at), to stay, to reside",tu,,"same form as ‘to shoot, to stab, to pierce, to stick’, ‘child’",Barlow2024
+lote1237-1-534,lote1237-1,"to shoot, to stab, to pierce, to stick",tu,tu-ɛ,"same form as ‘to be, to stay’, ‘child’; cf. /sɛpɛia/ ‘to shoot (with a sling)’",Barlow2024
+lote1237-1-535,lote1237-1,daughter,tu- hɛiŋana,tu-na hɛi-ŋana,"also /tu- neŋe hɛi/, /heɛ-/",Barlow2024
+lote1237-1-536,lote1237-1,daughter,tu- neŋe hɛi,tu-na neŋe hɛi,"also /tu- hɛiŋana/, /heɛ-/",Barlow2024
+lote1237-1-537,lote1237-1,son,tu- neŋe tamane,"tu-k neŋe tamane (1sg), tu-na neŋe tamane (3sg)","‘child-POSS REL male’; also /tu- tamaneŋana/, /kolɛ-/",Barlow2024
+lote1237-1-538,lote1237-1,son,tu- tamaneŋana,tu-na tamane-ŋana (3sg),"‘child-POSS male-ADJ’; also /tu- neŋe tamane/, /kolɛ-/",Barlow2024
+lote1237-1-539,lote1237-1,"to plant (e.g., crops in the garden)",tua,tu-ɛ,,Barlow2024
+lote1237-1-540,lote1237-1,to think,tuanin,,"also /lete- tuanin/, /lete- matana/",Barlow2024
+lote1237-1-541,lote1237-1,"nail, claw",tuauli-,tuauli-na (3sg),,Barlow2024
+lote1237-1-542,lote1237-1,old (person),tuauna,tuauna-ŋana,cf. /nikeŋana/ ‘old (thing)’,Barlow2024
+lote1237-1-543,lote1237-1,"men’s house, spirit house (TP: haus boi, haus tambaran)",tuɛlɛ,,,Barlow2024
+lote1237-1-544,lote1237-1,to boil,tun,tun-a,"cf. /lel/ ‘to bake, to cook in an earth oven (TP: mumuim)’, /mak/ ‘to burn (person as subject), to cook (with fire)’",Barlow2024
+lote1237-1-545,lote1237-1,"small, little (thing)",tuna,,"same form as ‘child-3SG’; cf. /kino/ ‘small, little (person)’, /sune/ ‘small, little; a little’",Barlow2024
+lote1237-1-546,lote1237-1,to give,tuŋ,tuŋ-ɛ,,Barlow2024
+lote1237-1-547,lote1237-1,"to crush (nuts, e.g., with a stone); to grind",tutɛ,,possibly /tut-ɛ/,Barlow2024
+lote1237-1-548,lote1237-1,wind,tuttula,,,Barlow2024
+lote1237-1-549,lote1237-1,children (plural),tutu-,tutu-na (3sg),"reduplicative plural of /tu-/ ‘child’; same form as ‘egg; seed’, with which it likely has a relationship; also /aina/",Barlow2024
+lote1237-1-550,lote1237-1,egg; seed,tutu-,"tutu-na (3sg), tutu-ria (3pl)","same form as ‘children (plural)’, with which it likely has a relationship",Barlow2024
+lote1237-1-551,lote1237-1,fire,uan,,,Barlow2024
+lote1237-1-552,lote1237-1,smoke of the fire,uan puluŋa-,"uan puluŋa-na (3sg), uan puluŋa-ria (3pl)",‘fire smoke-POSS’,Barlow2024
+lote1237-1-553,lote1237-1,morning,uax,,,Barlow2024
+lote1237-1-554,lote1237-1,"wife’s parent, daughter’s husband",uɛ-,"uɛ-k, (1sg), uɛ-m (3sg), uɛ-nɛ (3sg)",,Barlow2024
+lote1237-1-555,lote1237-1,wife’s mother,uɛ- neŋe hɛi,uɛ-k neŋe hɛi (1sg),‘wifes.parent-POSS REL female’,Barlow2024
+lote1237-1-556,lote1237-1,wife’s father,uɛ- neŋe tamane,uɛ-k neŋe tamane (1sg),‘wifes.parent-POSS REL male’,Barlow2024
+lote1237-1-557,lote1237-1,1sg possessive suffix (my) (1SG.POSS),-uk,,"allomorph of /-k/, only attested with /palpal-/ ‘head’",Barlow2024
+lote1237-1-558,lote1237-1,root,ula-,"ula-na (3sg), ula-ria (3pl)",,Barlow2024
+lote1237-1-559,lote1237-1,afternoon,ulei,,,Barlow2024
+lote1237-1-560,lote1237-1,"to open (a basket), to uncover",ulɛlɛ,,reduplication?; possibly /ulɛl-ɛ/; cf. /loɛ/ ‘to open (a door)’,Barlow2024
+lote1237-1-561,lote1237-1,"skin, hide",uli-,"uli-k (1sg), uli-m (2sg), uli-na (3sg)","also /siŋi-/ ‘skin, body’",Barlow2024
+lote1237-1-562,lote1237-1,cloud,ulu,,,Barlow2024
+lote1237-1-563,lote1237-1,to spit,ulut,ulut-ɛ (‘to spit something [out]’),"cf. /muluta/ ‘mucus, snot’",Barlow2024
+lote1237-1-564,lote1237-1,"2sg possessive suffix (thy, your) (2SG.POSS)",-um,,"allomorph of /-m/, only attested with /palpal-/ ‘head’",Barlow2024
+lote1237-1-565,lote1237-1,"stone, rock",um,,same form as an allomorph of the 2sg.possessive suffix,Barlow2024
+lote1237-1-566,lote1237-1,"to work, to build",umɛ,umɛ-a,"cf. /lelɛ/ ‘to build’, /po/ ‘to do, to make’",Barlow2024
+lote1237-1-567,lote1237-1,"full, sated",una,,,Barlow2024
+lote1237-1-568,lote1237-1,a little,unne,,"cf. /sune/ ‘small, little; a little’",Barlow2024
+lote1237-1-569,lote1237-1,man’s sister’s daughter’s husband (husband of one’s /sipu-/),uol,lɛ-k uol (1sg),,Barlow2024
+lote1237-1-570,lote1237-1,banana,ur,,also [hur],Barlow2024
+lote1237-1-571,lote1237-1,banana flower,ur heiŋa-,"ur heiŋa-na (3sg), ur heiŋa-ria (3pl)",‘banana flower-POSS’,Barlow2024
+lote1237-1-572,lote1237-1,good,urana,,,Barlow2024
+lote1237-1-573,lote1237-1,"forest, woods",uraurau,,possibly /uraorao/,Barlow2024
+lote1237-1-574,lote1237-1,to carry (on the head),urɛ,,"possibly /ur-ɛ/; cf. /takis/ ‘to carry (on the shoulder)’, /mɛnɛ/ ‘to take, to get, to carry (in the hand), to hold’",Barlow2024
+lote1237-1-575,lote1237-1,louse,ut,,same form as ‘to cut’,Barlow2024
+lote1237-1-576,lote1237-1,to cut,ut,ut-ɛ,"same form as ‘louse’; cf. /rir/ ‘to cut, to slice’, /tot/ ‘to cut, to slice’, /lik/ ‘to cut, to hack, to chop’, /tel/ ‘to cut, to fell a tree’",Barlow2024
+lote1237-1-577,lote1237-1,what?,utar,,cf. /utɛ/ ‘something’; also /tar/,Barlow2024
+lote1237-1-578,lote1237-1,something,utɛ,,cf. /utar/ ‘what?’,Barlow2024
+lote1237-1-579,lote1237-1,"navel, belly button",uto-,"uto-k (1sg), uto-m (2sg), uto-na (3sg)",,Barlow2024
+lote1237-1-580,lote1237-1,sun,xaia,,,Barlow2024
+lote1237-1-581,lote1237-1,lightning,xalɛm,"xalɛm-ŋa-na (3sg), xalɛm-ŋa-ria (3pl) (with ‘NMLZ’?) (with nominalizer as host for possessive marking?)",,Barlow2024
+lote1237-1-582,lote1237-1,basket made of coconut leaves,xasaŋ,,,Barlow2024
+lote1237-1-583,lote1237-1,"to break, to rip",xax,xax-ia,"cf. /xolo/ ‘to break (with the hand)’, /hɛlɛ/ ‘to break in pieces’",Barlow2024
+lote1237-1-584,lote1237-1,"ash, ashes (black ash), charcoal",xaxasoŋo,,reduplication?; cf. /apou/ ‘white ashes’,Barlow2024
+lote1237-1-585,lote1237-1,crooked,xaxau,,reduplication?,Barlow2024
+lote1237-1-586,lote1237-1,"blue, green",xɛrxɛra,,reduplication?,Barlow2024
+lote1237-1-587,lote1237-1,to break (with the hand),xolo,xolo-a,"cf. /hɛlɛ/ ‘to break in pieces’, /xax/ ‘to break, to rip’",Barlow2024
+lote1237-1-588,lote1237-1,piece,xor-,"xon-na (3sg), xorxor-na (plural, 3sg)",,Barlow2024
+lote1237-1-589,lote1237-1,short,xoro,,,Barlow2024
+lote1237-1-590,lote1237-1,pieces (plural),xorxor-,xorxor-na (3sg),reduplicative plural of /xor-/ ‘piece’,Barlow2024
+lote1237-1-591,lote1237-1,to cough,xoso,,also /i at/,Barlow2024

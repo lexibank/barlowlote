@@ -1,81 +1,42 @@
 from pathlib import Path
-import pylexibank
 
-# Customize your basic data.
-# if you need to store other data in columns than the lexibank defaults, then over-ride
-# the table type (pylexibank.[Language|Lexeme|Concept|Cognate|]) and add the required columns e.g.
-#
-#import attr
-#
-#@attr.s
-#class Concept(pylexibank.Concept):
-#    MyAttribute1 = attr.ib(default=None)
+import attr
+import pylexibank
+from clldutils.misc import slug
+
+
+@attr.s
+class CustomLexeme(pylexibank.Lexeme):
+    InflectedForms = attr.ib(default=None)
+    Comment = attr.ib(default=None)
 
 
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "barlowlote"
-
-    # register custom data types here (or language_class, lexeme_class, cognate_class):
-    #concept_class = Concept
-
-    # define the way in which forms should be handled
+    lexeme_class = CustomLexeme
     form_spec = pylexibank.FormSpec(
-        brackets={"(": ")"},  # characters that function as brackets
-        separators=";/,",  # characters that split forms e.g. "a, b".
-        missing_data=('?', '-'),  # characters that denote missing data.
-        strip_inside_brackets=True   # do you want data removed in brackets or not?
+        brackets={"(": ")"}, separators=";/,", missing_data=("?", "-"), strip_inside_brackets=True
     )
 
     def cmd_download(self, args):
-        """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
-        to download a temporary TSV file and convert to persistent CSV:
-
-        >>> with self.raw_dir.temp_download("http://www.example.com/e.tsv", "example.tsv") as data:
-        ...     self.raw_dir.write_csv('template.csv', self.raw_dir.read_csv(data, delimiter='\t'))
-        """
+        pass
 
     def cmd_makecldf(self, args):
-        """
-        Convert the raw data to a CLDF dataset.
+        data = self.raw_dir.read_csv("Barlow_Lote_20241216.csv", dicts=True)
 
-        A `pylexibank.cldf.LexibankWriter` instance is available as `args.writer`. Use the methods
-        of this object to add data.
-        """
-        data = self.raw_dir.read_csv('template.csv', dicts=True)
-
-        # short cut to add concepts and languages, provided your name spaces
-        # match lexibank's expected format.
-        args.writer.add_concepts()
         args.writer.add_languages()
+        concept_lookup = args.writer.add_concepts(
+            id_factory=lambda x: f"{x.number}_{slug(x.english)}", lookup_factory="Name"
+        )
+        args.writer.add_sources()
 
-        # if not, then here is a more detailed way to do it:
-        #for concept in self.concepts:
-        #    args.writer.add_concept(
-        #        ID=concept['ID'],
-        #        Name=concept['ENGLISH'],
-        #        Concepticon_ID=concept['CONCEPTICON_ID']
-        #    )
-        #for language in self.languages:
-        #    args.writer.add_language(
-        #        ID=language['ID'],
-        #        Glottocode=language['Glottocode']
-        #    )
-
-        # add data
         for row in pylexibank.progressbar(data):
-            # .. if you have segmentable data, replace `add_form` with `add_form_with_segments`
-            # .. TODO @Mattis, when should we use add_forms_from_value() instead?
-            lex = args.writer.add_form(
-                Language_ID=row['Language_ID'],
-                Parameter_ID=row['Parameter_ID'],
-                Value=row['Word'],
-                Form=row['Word'],
-                Source=[row['Source']],
-            )
-            # add cognates -- make sure Cognateset_ID is global!
-            args.writer.add_cognate(
-                lexeme=lex,
-                Cognateset_ID=row['Cognateset_ID']
+            _ = args.writer.add_forms_from_value(
+                Language_ID=row["Language_ID"],
+                Parameter_ID=concept_lookup[row["English_Gloss"]],
+                Value=row["Form"],
+                InflectedForms=row["Inflected_Forms"],
+                Comment=row["Comment"],
+                Source=[row["Source"]],
             )

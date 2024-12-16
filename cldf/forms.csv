@@ -1,0 +1,592 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,InflectedForms
+lote1237-1-1_2plsubjectprefix2pl-1,,lote1237-1,1_2plsubjectprefix2pl,a-,a-,a +,verbal prefix; also used for 2sg taboo relations; same form as transitive suffix and edible possessive classifier,Barlow2024,,,^ a - $,default,
+lote1237-1-2_ediblepossessiveclassifierpossed-1,,lote1237-1,2_ediblepossessiveclassifierpossed,a-,a-,a +,used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used somewhat more widely than exclusively with food- and drink-related possessions; same form as transitive suffix and edible possessive classifier,Barlow2024,,,^ a - $,default,"a-k (1sg), a-m (2sg), a-na (3sg), a-ra (1pl.incl)"
+lote1237-1-121_transitivesuffixtr-1,,lote1237-1,121_transitivesuffixtr,-a,-a,+ a,verbal suffix; same form as 2pl subject prefix and edible possessive classifier; also /-ia/ and /-ɛ/,Barlow2024,,,^ - a $,default,
+lote1237-1-4_treewoodfirewoodstick-1,,lote1237-1,4_treewoodfirewoodstick,ae,ae,a e,,Barlow2024,,,^ a e $,default,
+lote1237-1-5_baseofatreetreetrunk-1,,lote1237-1,5_baseofatreetreetrunk,ae hu-,ae hu-,a e + h u +,‘tree base-POSS’,Barlow2024,,,^ a e + h u - $,default,ae hu-na (3sg)
+lote1237-1-6_leafofatree-1,,lote1237-1,6_leafofatree,ae i-,ae i-,a e + i +,‘tree leaf-POSS’ < ‘tree nose-POSS’?,Barlow2024,,,^ a e + i - $,default,"ae i-na (3sg), ae i-ria (3pl)"
+lote1237-1-7_fruitofatree-1,,lote1237-1,7_fruitofatree,ae ŋanaŋa-,ae ŋanaŋa-,a e + ŋ a n a ŋ a +,‘tree fruit-POSS’,Barlow2024,,,^ a e + ŋ a n a ŋ a - $,default,"ae ŋanaŋa-na (3sg), ae ŋanaŋa-ria (3pl)"
+lote1237-1-8_branchofatree-1,,lote1237-1,8_branchofatree,ae pɛr-,ae pɛr-,a e + p ɛ r +,‘tree arm-POSS’,Barlow2024,,,^ a e + p ɛ r - $,default,"ae pɛn-na (3sg), ae pɛr~pɛr-na (plural, 3sg)"
+lote1237-1-9_seedofatree-1,,lote1237-1,9_seedofatree,ae tutu-,ae tutu-,a e + t u t u +,‘tree egg-POSS’,Barlow2024,,,^ a e + t u t u - $,default,"ae tutu-na (3sg), ae tutu-ria (3pl)"
+lote1237-1-10_rootofatree-1,,lote1237-1,10_rootofatree,ae ula-,ae ula-,a e + u l a +,‘tree root-POSS’,Barlow2024,,,^ a e + u l a - $,default,ae ula-ria (3pl)
+lote1237-1-11_barkofatree-1,,lote1237-1,11_barkofatree,ae uli-,ae uli-,a e + u l i +,‘tree skin-POSS’,Barlow2024,,,^ a e + u l i - $,default,"uli-na (3sg), uli-ria (3pl)"
+lote1237-1-12_pieceofwood-1,,lote1237-1,12_pieceofwood,ae xor-,ae xor-,a e + x o r +,‘tree piece-POSS’,Barlow2024,,,^ a e + x o r - $,default,"ae xon-na (3sg), ae xor~xor-na (plural, 3sg)"
+lote1237-1-549_childrenplural-1,,lote1237-1,549_childrenplural,aina,aina,a i n a,also /tutu-/,Barlow2024,,,^ a i n a $,default,
+lote1237-1-14_canoe-1,,lote1237-1,14_canoe,aka,aka,a k a,,Barlow2024,,,^ a k a $,default,
+lote1237-1-15_dry-1,,lote1237-1,15_dry,al,al,a l,,Barlow2024,,,^ a l $,default,
+lote1237-1-16_thoroughlycompletely-1,,lote1237-1,16_thoroughlycompletely,ala,ala,a l a,,Barlow2024,,,^ a l a $,default,
+lote1237-1-17_wormearthworm-1,,lote1237-1,17_wormearthworm,alete,alete,a l e t e,,Barlow2024,,,^ a l e t e $,default,
+lote1237-1-18_suckeregofabananaplant-1,,lote1237-1,18_suckeregofabananaplant,alo-,alo-,a l o +,,Barlow2024,,,^ a l o - $,default,"alo-na (3sg), alo-ria (3pl)"
+lote1237-1-19_topicmarkertop-1,,lote1237-1,19_topicmarkertop,ana,ana,a n a,,Barlow2024,,,^ a n a $,default,
+lote1237-1-20_fourcountinginfoursusedasanadnominalnumeral-1,,lote1237-1,20_fourcountinginfoursusedasanadnominalnumeral,ana lɛisinɛ,ana lɛisinɛ,a n a + l ɛ i s i n ɛ,‘TOP group.of.four’; cf. /lɛisinɛ/ (used as an absolute numeral); /hɛnɛl/ ‘four’ (in general counting),Barlow2024,,,^ a n a + l ɛ i s i n ɛ $,default,
+lote1237-1-21_twenty20-1,,lote1237-1,21_twenty20,ana non kina ɛllɛ,ana non kina ɛllɛ,a n a + n o n + k i n a + ɛ lː ɛ,‘TOP man bone-3SG [times] one’,Barlow2024,,,^ a n a + n o n + k i n a + ɛ ll ɛ $,default,
+lote1237-1-22_twohundred200-1,,lote1237-1,22_twohundred200,ana non kina iri analox,ana non kina iri analox,a n a + n o n + k i n a + i r i + a n a l o x,‘TOP man bone-3SG [times] 3PL ten’,Barlow2024,,,^ a n a + n o n + k i n a + i r i + a n a l o x $,default,
+lote1237-1-23_hundredonehundred100-1,,lote1237-1,23_hundredonehundred100,ana non kina limɛ,ana non kina limɛ,a n a + n o n + k i n a + l i m ɛ,‘TOP man bone-3SG [times] five’,Barlow2024,,,^ a n a + n o n + k i n a + l i m ɛ $,default,
+lote1237-1-24_forty40-1,,lote1237-1,24_forty40,ana non kina nai,ana non kina nai,a n a + n o n + k i n a + n a i,‘TOP man bone-3SG [times] two’,Barlow2024,,,^ a n a + n o n + k i n a + n a i $,default,
+lote1237-1-25_fifty50-1,,lote1237-1,25_fifty50,ana non kina nai pe analox,ana non kina nai pe analox,a n a + n o n + k i n a + n a i + p e + a n a l o x,‘TOP man bone-3SG [times] two and ten’,Barlow2024,,,^ a n a + n o n + k i n a + n a i + p e + a n a l o x $,default,
+lote1237-1-26_ten10-1,,lote1237-1,26_ten10,analox,analox,a n a l o x,possibly < TOP + /loxlox/ ‘all’; cf. /lɛisinɛ nai pe nai/ ‘ten (counting in fours)’,Barlow2024,,,^ a n a l o x $,default,
+lote1237-1-27_legfoot-1,,lote1237-1,27_legfoot,ape-,ape-,a p e +,,Barlow2024,,,^ a p e - $,default,"ape-k (1sg), ape-m (2sg), ape-na (3sg)"
+lote1237-1-28_foot-1,,lote1237-1,28_foot,ape- hahana,ape- hahana,a p e + + h a h a n a,‘foot-POSS liver-3SG’,Barlow2024,,,^ a p e - + h a h a n a $,default,"ape-k haha-na (1sg), ape-m haha-na (2sg), ape-na haha-na (3sg)"
+lote1237-1-29_ashasheswhiteash-1,,lote1237-1,29_ashasheswhiteash,apou,apou,a p o u,cf. /xaxasoŋo/ ‘black ashes’,Barlow2024,,,^ a p o u $,default,
+lote1237-1-172_tosit-1,,lote1237-1,172_tosit,are,are,a r e,also /kila/,Barlow2024,,,^ a r e $,default,"are-ŋa (nominalization, ‘chair’)"
+lote1237-1-31_chair-1,,lote1237-1,31_chair,areŋa,areŋa,a r e ŋ a,‘sit-NMLZ’,Barlow2024,,,^ a r e ŋ a $,default,
+lote1237-1-32_drumtypehanddrumtpkundu-1,,lote1237-1,32_drumtypehanddrumtpkundu,ario,ario,a r i o,,Barlow2024,,,^ a r i o $,default,
+lote1237-1-120_tocome-1,,lote1237-1,120_tocome,at,at,a t,,Barlow2024,,,^ a t $,default,at~at (reduplication)
+lote1237-1-34_wrongcrazydrunken-1,,lote1237-1,34_wrongcrazydrunken,auaua,auaua,a u a u a,reduplication?,Barlow2024,,,^ a u a u a $,default,
+lote1237-1-35_round-1,,lote1237-1,35_round,axouxou,axouxou,a x o u x o u,reduplication?,Barlow2024,,,^ a x o u x o u $,default,
+lote1237-1-36_mansmothersbrotherunclemanssisterssonnephewtpkandere-1,,lote1237-1,36_mansmothersbrotherunclemanssisterssonnephewtpkandere,axuŋ,axuŋ,a x u ŋ,,Barlow2024,,,^ a x u ŋ $,default,"lɛ-k axuŋ (1sg), na axuŋ (3sg), nena axuŋ (3sg)"
+lote1237-1-37_1sgsubjectprefix1sg-1,,lote1237-1,37_1sgsubjectprefix1sg,e-,e-,e +,verbal prefix; same form as ‘girl’,Barlow2024,,,^ e - $,default,
+lote1237-1-38_girl-1,,lote1237-1,38_girl,e,e,e,same form as the 1sg subject prefix,Barlow2024,,,^ e $,default,
+lote1237-1-39_shoulder-1,,lote1237-1,39_shoulder,eke-,eke-,e k e +,,Barlow2024,,,^ e k e - $,default,"eke-k (1sg), eke-m (2sg), eke-na (3sg)"
+lote1237-1-40_skirtgrassskirtforwomen-1,,lote1237-1,40_skirtgrassskirtforwomen,ela,ela,e l a,"also [hela]; cf. /melo/ ‘skirt, bark loincloth for men (TP: malo)",Barlow2024,,,^ e l a $,default,
+lote1237-1-41_paintusedforteethblackening-1,,lote1237-1,41_paintusedforteethblackening,et,et,e t,,Barlow2024,,,^ e t $,default,
+lote1237-1-42_tallgingertpgorgor-1,,lote1237-1,42_tallgingertpgorgor,ex,ex,e x,cf. /loitana/ ‘ginger’,Barlow2024,,,^ e x $,default,
+lote1237-1-43_bottombelow-1,,lote1237-1,43_bottombelow,ɛ-,ɛ-,ɛ +,"same form as ‘husband’, ‘name’, ‘other’, and transitive suffix; postnominal and with possessive marking can function with the meaning ‘below’",Barlow2024,,,^ ɛ - $,default,ɛ-nɛ (3sg)
+lote1237-1-44_husband-1,,lote1237-1,44_husband,ɛ-,ɛ-,ɛ +,"same form as ‘bottom’, ‘name’, ‘other’, and transitive suffix",Barlow2024,,,^ ɛ - $,default,"ɛ-k (1sg), ɛ-m (2sg), ɛ-nɛ (3sg)"
+lote1237-1-45_name-1,,lote1237-1,45_name,ɛ-,ɛ-,ɛ +,"same form as ‘bottom’, ‘husband’, ‘other’, and transitive suffix",Barlow2024,,,^ ɛ - $,default,"ɛ-k (1sg), ɛ-m (2sg), ɛ-nɛ (3sg)"
+lote1237-1-46_otheranotherone-1,,lote1237-1,46_otheranotherone,ɛ,ɛ,ɛ,"same form as ‘bottom’, ‘husband’, ‘name’, and transitive suffix",Barlow2024,,,^ ɛ $,default,
+lote1237-1-121_transitivesuffixtr-2,,lote1237-1,121_transitivesuffixtr,-ɛ,-ɛ,+ ɛ,"verbal suffix; also /-a/ and /-ia/; same form as ‘bottom’, ‘husband’, ‘name’, ‘other’",Barlow2024,,,^ - ɛ $,default,
+lote1237-1-48_bitter-1,,lote1237-1,48_bitter,ɛhɛx,ɛhɛx,ɛ h ɛ x,,Barlow2024,,,^ ɛ h ɛ x $,default,
+lote1237-1-49_blood-1,,lote1237-1,49_blood,ɛi-,ɛi-,ɛ i +,,Barlow2024,,,^ ɛ i - $,default,"ɛi-k (1sg), ɛi-m (2sg), ɛi-na (3sg)"
+lote1237-1-50_breath-1,,lote1237-1,50_breath,ɛiŋa-,ɛiŋa-,ɛ i ŋ a +,also [hɛiŋa-],Barlow2024,,,^ ɛ i ŋ a - $,default,"ɛiŋa-m (2sg), ɛiŋa-na (3sg)"
+lote1237-1-51_one1-1,,lote1237-1,51_one1,ɛllɛ,ɛllɛ,ɛ lː ɛ,,Barlow2024,,,^ ɛ ll ɛ $,default,
+lote1237-1-52_torub-1,,lote1237-1,52_torub,ɛmu,ɛmu,ɛ m u,"cf. /kira/ ‘to scrub, to brush, to wipe’",Barlow2024,,,^ ɛ m u $,default,ɛmu-ɛ
+lote1237-1-53_pandanus-1,,lote1237-1,53_pandanus,ɛrɛ,ɛrɛ,ɛ r ɛ,,Barlow2024,,,^ ɛ r ɛ $,default,
+lote1237-1-54_nonegativeresponsewordnotnegatorneg-1,,lote1237-1,54_nonegativeresponsewordnotnegatorneg,ɛro,ɛro,ɛ r o,,Barlow2024,,,^ ɛ r o $,default,
+lote1237-1-323_tolooktosee-1,,lote1237-1,323_tolooktosee,ɛs,ɛs,ɛ s,also /nau/,Barlow2024,,,^ ɛ s $,default,ɛs-ia
+lote1237-1-56_mother1sg-1,,lote1237-1,56_mother1sg,ɛta-,ɛta-,ɛ t a +,allomorph of /ta-/ ‘mother’ used for 1sg possessor,Barlow2024,,,^ ɛ t a - $,default,ɛta-k (1sg)
+lote1237-1-57_toknow-1,,lote1237-1,57_toknow,ɛtei,ɛtei,ɛ t e i,,Barlow2024,,,^ ɛ t e i $,default,ɛtei-a
+lote1237-1-58_daycountable-1,,lote1237-1,58_daycountable,ɛtuɛ,ɛtuɛ,ɛ t u ɛ,"cf. /sinaŋa/ ‘day, daytime’",Barlow2024,,,^ ɛ t u ɛ $,default,
+lote1237-1-59_waterriver-1,,lote1237-1,59_waterriver,ɛx,ɛx,ɛ x,,Barlow2024,,,^ ɛ x $,default,
+lote1237-1-60_lake-1,,lote1237-1,60_lake,ɛx mata-,ɛx mata-,ɛ x + m a t a +,‘water eye-POSS’,Barlow2024,,,^ ɛ x + m a t a - $,default,"ɛx mata-na (3sg), ɛx mata-ria (3pl)"
+lote1237-1-61_clam-1,,lote1237-1,61_clam,hae,hae,h a e,same form as ‘thigh’,Barlow2024,,,^ h a e $,default,
+lote1237-1-62_thigh-1,,lote1237-1,62_thigh,hae-,hae-,h a e +,same form as ‘clam’,Barlow2024,,,^ h a e - $,default,"hae-k (1sg), hae-m (2sg), hae-na (3sg)"
+lote1237-1-63_liver-1,,lote1237-1,63_liver,haha-,haha-,h a h a +,reduplication?,Barlow2024,,,^ h a h a - $,default,"haha-k (1sg), haha-m (2sg), haha-na (3sg)"
+lote1237-1-64_toblowofthewindtoclimbtoascendtogouptogrow-1,,lote1237-1,64_toblowofthewindtoclimbtoascendtogouptogrow,haka,haka,h a k a,"also [aka]; cf. /hɛkɛ/ ‘to blow (a fire); to raise (something)’, with which it likely has a relationship; /hurus/ ‘to blow’, /iu/ ‘to blow; to call (for someone), to shout’",Barlow2024,,,^ h a k a $,default,
+lote1237-1-65_mouth-1,,lote1237-1,65_mouth,hal-,hal-,h a l +,also [al-],Barlow2024,,,^ h a l - $,default,"hal-ik (1sg), hal-im (2sg), han-na (3sg)"
+lote1237-1-66_toyawn-1,,lote1237-1,66_toyawn,hal- paŋpaŋa,hal- paŋpaŋa,h a l + + p a ŋ p a ŋ a,‘mouth-POSS wide’,Barlow2024,,,^ h a l - + p a ŋ p a ŋ a $,default,"hal-im paŋpaŋa (2sg), han-na paŋpaŋa (3sg)"
+lote1237-1-67_lip-1,,lote1237-1,67_lip,hal- ulina,hal- ulina,h a l + + u l i n a,‘mouth-POSS skin-3SG’,Barlow2024,,,^ h a l - + u l i n a $,default,"hal-ik uli-na (1sg), hal-im uli-na (2sg), han-na uli-na (3sg), har-ria uli-na (3pl)"
+lote1237-1-68_muchmanyalot-1,,lote1237-1,68_muchmanyalot,halaŋ,halaŋ,h a l a ŋ,,Barlow2024,,,^ h a l a ŋ $,default,
+lote1237-1-69_sick-1,,lote1237-1,69_sick,haleles,haleles,h a l e l e s,,Barlow2024,,,^ h a l e l e s $,default,
+lote1237-1-70_callingyellingshouting-1,,lote1237-1,70_callingyellingshouting,halŋa-,halŋa-,h a l ŋ a +,< /hal-/ ‘mouth’?,Barlow2024,,,^ h a l ŋ a - $,default,"halŋa-m (2sg), halŋa-na (3sg)"
+lote1237-1-71_menplural-1,,lote1237-1,71_menplural,hana,hana,h a n a,,Barlow2024,,,^ h a n a $,default,
+lote1237-1-72_wetsmellystinky-1,,lote1237-1,72_wetsmellystinky,has,has,h a s,,Barlow2024,,,^ h a s $,default,
+lote1237-1-73_table-1,,lote1237-1,73_table,hataŋa,hataŋa,h a t a ŋ a,possibly a nominalized form of something,Barlow2024,,,^ h a t a ŋ a $,default,
+lote1237-1-74_thick-1,,lote1237-1,74_thick,hatat,hatat,h a t a t,,Barlow2024,,,^ h a t a t $,default,
+lote1237-1-75_spider-1,,lote1237-1,75_spider,hau,hau,h a u,possibly /hau/,Barlow2024,,,^ h a u $,default,
+lote1237-1-536_daughter-1,,lote1237-1,536_daughter,heɛ-,heɛ-,h e ɛ +,"also /tu- hɛiŋana/, /tu- neŋe hɛi/",Barlow2024,,,^ h e ɛ - $,default,"heɛ-k (1sg), he-ɛm (2sg), heɛ-nɛ (3sg)"
+lote1237-1-77_frog-1,,lote1237-1,77_frog,hehe,hehe,h e h e,reduplication?,Barlow2024,,,^ h e h e $,default,
+lote1237-1-78_grass-1,,lote1237-1,78_grass,heilil,heilil,h e i l i l,,Barlow2024,,,^ h e i l i l $,default,
+lote1237-1-79_flowerofabananaplant-1,,lote1237-1,79_flowerofabananaplant,heiŋa-,heiŋa-,h e i ŋ a +,,Barlow2024,,,^ h e i ŋ a - $,default,"heiŋa-na (3sg), heiŋa-ria (3pl)"
+lote1237-1-80_totalktospeaktosay-1,,lote1237-1,80_totalktospeaktosay,hele,hele,h e l e,,Barlow2024,,,^ h e l e $,default,"hele-ŋa (nominalization, ‘talk, speech’)"
+lote1237-1-81_talkspeechtptoktok-1,,lote1237-1,81_talkspeechtptoktok,heleŋa,heleŋa,h e l e ŋ a,‘talk-NMLZ’,Barlow2024,,,^ h e l e ŋ a $,default,
+lote1237-1-82_todance-1,,lote1237-1,82_todance,hes,hes,h e s,,Barlow2024,,,^ h e s $,default,
+lote1237-1-83_causativeprefixcaus-1,,lote1237-1,83_causativeprefixcaus,hɛ-,hɛ-,h ɛ +,verbal prefix,Barlow2024,,,^ h ɛ - $,default,
+lote1237-1-84_womenfemalesplural-1,,lote1237-1,84_womenfemalesplural,hɛhɛi,hɛhɛi,h ɛ h ɛ i,also [hɛiɛ]; reduplicative plural of /hɛi/ ‘woman’,Barlow2024,,,^ h ɛ h ɛ i $,default,
+lote1237-1-85_womanfemalewife-1,,lote1237-1,85_womanfemalewife,hɛi,hɛi,h ɛ i,,Barlow2024,,,^ h ɛ i $,default,"hɛi-ŋana (adjective); hɛ~hɛi (plural); lɛ-k hɛi (1sg, ‘my wife’), lɛ-m hɛi (2sg), nɛ hɛi (3sg), na hɛi (3sg)"
+lote1237-1-86_oldwoman-1,,lote1237-1,86_oldwoman,hɛi tuaunaŋana,hɛi tuaunaŋana,h ɛ i + t u a u n a ŋ a n a,‘woman old-ADJ’,Barlow2024,,,^ h ɛ i + t u a u n a ŋ a n a $,default,
+lote1237-1-87_toblowafiretoraisesomething-1,,lote1237-1,87_toblowafiretoraisesomething,hɛkɛ,hɛkɛ,h ɛ k ɛ,"cf. /haka/ ‘to blow (of the wind); to climb, to ascend, to go up; to grow’, with which it likely has a relationship; /hurus/ ‘to blow’, /iu/ ‘to blow; to call (for someone), to shout’",Barlow2024,,,^ h ɛ k ɛ $,default,
+lote1237-1-88_reciprocalsuffixrecpeachotheroneanother-1,,lote1237-1,88_reciprocalsuffixrecpeachotheroneanother,-hɛl,-hɛl,+ h ɛ l,"verbal suffix; same form as ‘some, few’",Barlow2024,,,^ - h ɛ l $,default,
+lote1237-1-89_somefew-1,,lote1237-1,89_somefew,hɛl,hɛl,h ɛ l,same form as reciprocal suffix,Barlow2024,,,^ h ɛ l $,default,
+lote1237-1-90_tobreakinpieces-1,,lote1237-1,90_tobreakinpieces,hɛlɛ,hɛlɛ,h ɛ l ɛ,"possibly /hɛl-ɛ/; cf. /hɛl/ ‘some, few’; cf. /xolo/ ‘to break (with the hand)’, /xax/ ‘to break, to rip’",Barlow2024,,,^ h ɛ l ɛ $,default,
+lote1237-1-91_toturn-1,,lote1237-1,91_toturn,hɛliliu,hɛliliu,h ɛ l i l i u,"possibly contains the causative prefix /hɛ-/; cf. /hul/ ‘to turn over, to capsize’",Barlow2024,,,^ h ɛ l i l i u $,default,hɛliliu-a
+lote1237-1-92_four4-1,,lote1237-1,92_four4,hɛnɛl,hɛnɛl,h ɛ n ɛ l,cf. /lɛisinɛ/ ~ /ana lɛisinɛ/ ‘four (counting in fours)’,Barlow2024,,,^ h ɛ n ɛ l $,default,
+lote1237-1-93_topointouttochoosetoselect-1,,lote1237-1,93_topointouttochoosetoselect,hɛnonou,hɛnonou,h ɛ n o n o u,"possibly contains the causative prefix /hɛ-/; possibly derives from reduplication/infixation of /no-/ (cf. /hɛnou/ ‘pointer finger’); cf. /hɛsilɛi/ ‘to choose, to pick’",Barlow2024,,,^ h ɛ n o n o u $,default,hɛnonou-a
+lote1237-1-94_pointerfingerindexfingerforefinger-1,,lote1237-1,94_pointerfingerindexfingerforefinger,hɛnou,hɛnou,h ɛ n o u,,Barlow2024,,,^ h ɛ n o u $,default,
+lote1237-1-95_mountaintempleofthehead-1,,lote1237-1,95_mountaintempleofthehead,hɛŋɛnɛ,hɛŋɛnɛ,h ɛ ŋ ɛ n ɛ,"cf. /it/ ‘highlands, mountain’",Barlow2024,,,^ h ɛ ŋ ɛ n ɛ $,default,
+lote1237-1-96_tongue-1,,lote1237-1,96_tongue,hɛŋɛtau,hɛŋɛtau,h ɛ ŋ ɛ t a u,also [ɛŋɛtau],Barlow2024,,,^ h ɛ ŋ ɛ t a u $,default,"a-k hɛŋɛtau (1sg), a-m hɛŋɛtau (2sg), a-na hɛŋɛtau (3sg)"
+lote1237-1-97_toplay-1,,lote1237-1,97_toplay,hɛsalaŋ,hɛsalaŋ,h ɛ s a l a ŋ,possibly contains the causative prefix /hɛ-/,Barlow2024,,,^ h ɛ s a l a ŋ $,default,
+lote1237-1-98_tochoosetopick-1,,lote1237-1,98_tochoosetopick,hɛsilɛi,hɛsilɛi,h ɛ s i l ɛ i,"possibly contains the causative prefix /hɛ-/; cf. /hɛnonou/ ‘to point out; to choose, to select’",Barlow2024,,,^ h ɛ s i l ɛ i $,default,
+lote1237-1-99_yearcustomarydance-1,,lote1237-1,99_yearcustomarydance,hɛsiŋa,hɛsiŋa,h ɛ s i ŋ a,possibly contains the causative prefix /hɛ-/; possibly related to /hes/ ‘to dance’,Barlow2024,,,^ h ɛ s i ŋ a $,default,
+lote1237-1-100_toshow-1,,lote1237-1,100_toshow,hɛteia,hɛteia,h ɛ t e i a,"possibly contains the causative prefix /hɛ-/; cf. /ɛtei/ ‘to know’ (i.e., ‘to make know’)",Barlow2024,,,^ h ɛ t e i a $,default,
+lote1237-1-101_todaynow-1,,lote1237-1,101_todaynow,hɛuɛu,hɛuɛu,h ɛ u ɛ u,reduplication?,Barlow2024,,,^ h ɛ u ɛ u $,default,
+lote1237-1-102_new-1,,lote1237-1,102_new,hɛuɛuŋana,hɛuɛuŋana,h ɛ u ɛ u ŋ a n a,‘now-ADJ’,Barlow2024,,,^ h ɛ u ɛ u ŋ a n a $,default,
+lote1237-1-103_howmany-1,,lote1237-1,103_howmany,hia,hia,h i a,also [ia],Barlow2024,,,^ h i a $,default,
+lote1237-1-104_toblocktotie-1,,lote1237-1,104_toblocktotie,hit,hit,h i t,"cf. /kale/ ‘to tie, to fasten’, /kale hit/ ‘to tie up’, /tom/ ‘to fix, to tie’, /tom hit/ ‘to tie up’",Barlow2024,,,^ h i t $,default,hit-ɛ
+lote1237-1-105_tail-1,,lote1237-1,105_tail,hoe-,hoe-,h o e +,also [oe-],Barlow2024,,,^ h o e - $,default,"hoe-na (3sg), hoe-ria (3pl)"
+lote1237-1-106_leftnotright-1,,lote1237-1,106_leftnotright,hoihoi,hoihoi,h o i h o i,reduplication?,Barlow2024,,,^ h o i h o i $,default,
+lote1237-1-107_outtogoouttotakeouttoremove-1,,lote1237-1,107_outtogoouttotakeouttoremove,hot,hot,h o t,,Barlow2024,,,^ h o t $,default,hot-ɛ
+lote1237-1-108_coldsickness-1,,lote1237-1,108_coldsickness,houhou,houhou,h o u h o u,also [ouou]; reduplication?,Barlow2024,,,^ h o u h o u $,default,
+lote1237-1-109_baseofatree-1,,lote1237-1,109_baseofatree,hu-,hu-,h u +,,Barlow2024,,,^ h u - $,default,hu-na (3sg)
+lote1237-1-110_toturnovertocapsize-1,,lote1237-1,110_toturnovertocapsize,hul,hul,h u l,cf. /hɛliliu/ ‘to turn’,Barlow2024,,,^ h u l $,default,hul-ia
+lote1237-1-111_bandicoot-1,,lote1237-1,111_bandicoot,huloŋ,huloŋ,h u l o ŋ,,Barlow2024,,,^ h u l o ŋ $,default,
+lote1237-1-112_tokilltobite-1,,lote1237-1,112_tokilltobite,hun,hun,h u n,,Barlow2024,,,^ h u n $,default,hun-ɛ
+lote1237-1-113_animalmeat-1,,lote1237-1,113_animalmeat,huros,huros,h u r o s,also [uros],Barlow2024,,,^ h u r o s $,default,
+lote1237-1-114_toblow-1,,lote1237-1,114_toblow,hurus,hurus,h u r u s,"cf. /hɛkɛ/ ‘to blow (a fire); to raise (something)’, /haka/ ‘to blow (of the wind); to climb, to ascend, to go up; to grow’, /iu/ ‘to blow; to call (for someone), to shout’",Barlow2024,,,^ h u r u s $,default,hurus-ia
+lote1237-1-115_white-1,,lote1237-1,115_white,husu,husu,h u s u,,Barlow2024,,,^ h u s u $,default,
+lote1237-1-116_3sgpronounhehimsheherit-1,,lote1237-1,116_3sgpronounhehimsheherit,i,i,i,"same form as ‘to walk’, ‘leaf; hair’, ‘nose’",Barlow2024,,,^ i $,default,
+lote1237-1-117_leafhairofthehead-1,,lote1237-1,117_leafhairofthehead,i-,i-,i +,"same form as ‘to walk’, ‘nose’, and the 3sg pronoun; possibly a metaphorical extension of /i-/ ‘nose’; cf. /pulpul-/ ‘hair (body hair); feather’",Barlow2024,,,^ i - $,default,"i-na (3sg), i-ria (3pl)"
+lote1237-1-118_nose-1,,lote1237-1,118_nose,i-,i-,i +,"same form as ‘to walk’, ‘leaf; hair’, and the 3sg pronoun",Barlow2024,,,^ i - $,default,"i-k (1sg), i-m (2sg), i-na (3sg)"
+lote1237-1-119_towalk-1,,lote1237-1,119_towalk,i,i,i,,Barlow2024,,,^ i $,default,
+lote1237-1-120_tocome-2,,lote1237-1,120_tocome,i at,i at,i + a t,‘walk come’,Barlow2024,,,^ i + a t $,default,
+lote1237-1-121_transitivesuffixtr-3,,lote1237-1,121_transitivesuffixtr,-ia,-ia,+ i a,verbal suffix; also /-a/ and /-ɛ/,Barlow2024,,,^ - i a $,default,
+lote1237-1-122_because-1,,lote1237-1,122_because,iaŋe,iaŋe,i a ŋ e,,Barlow2024,,,^ i a ŋ e $,default,
+lote1237-1-123_1sgpronounime-1,,lote1237-1,123_1sgpronounime,iau,iau,i a u,,Barlow2024,,,^ i a u $,default,
+lote1237-1-124_mansbrotherinlaw-1,,lote1237-1,124_mansbrotherinlaw,iɛ-,iɛ-,i ɛ +,,Barlow2024,,,^ i ɛ - $,default,"iɛ-k (1sg), iɛ-m (2sg), iɛ-nɛ (3sg)"
+lote1237-1-557_1sgpossessivesuffixmy1sgposs-1,,lote1237-1,557_1sgpossessivesuffixmy1sgposs,-ik,-ik,+ i k,allomorph of /-k/ for liquid-final stems,Barlow2024,,,^ - i k $,default,
+lote1237-1-126_snake-1,,lote1237-1,126_snake,ilimo,ilimo,i l i m o,,Barlow2024,,,^ i l i m o $,default,
+lote1237-1-127_bamboospwildbamboo-1,,lote1237-1,127_bamboospwildbamboo,ilipa,ilipa,i l i p a,"cf. /iu/, a different sp.",Barlow2024,,,^ i l i p a $,default,
+lote1237-1-564_2sgpossessivesuffixthyyour2sgposs-1,,lote1237-1,564_2sgpossessivesuffixthyyour2sgposs,-im,-im,+ i m,allomorph of /-m/ for liquid-final stems,Barlow2024,,,^ - i m $,default,
+lote1237-1-129_1plexclpronounweus-1,,lote1237-1,129_1plexclpronounweus,imɛm,imɛm,i m ɛ m,,Barlow2024,,,^ i m ɛ m $,default,
+lote1237-1-130_1trexclpronounwethreeusthree-1,,lote1237-1,130_1trexclpronounwethreeusthree,imɛm mol,imɛm mol,i m ɛ m + m o l,‘1pl.excl three’,Barlow2024,,,^ i m ɛ m + m o l $,default,
+lote1237-1-131_1duexclpronounwetwoustwo-1,,lote1237-1,131_1duexclpronounwetwoustwo,imɛm nai,imɛm nai,i m ɛ m + n a i,‘1pl.excl two’,Barlow2024,,,^ i m ɛ m + n a i $,default,
+lote1237-1-132_2plpronounyeyouyall-1,,lote1237-1,132_2plpronounyeyouyall,imo,imo,i m o,also used for 2sg taboo relations,Barlow2024,,,^ i m o $,default,
+lote1237-1-133_2trpronounyethreeyouthreeyallthree-1,,lote1237-1,133_2trpronounyethreeyouthreeyallthree,imo mol,imo mol,i m o + m o l,‘2pl three’,Barlow2024,,,^ i m o + m o l $,default,
+lote1237-1-134_2dupronounyetwoyoutwoyalltwo-1,,lote1237-1,134_2dupronounyetwoyoutwoyalltwo,imo nai,imo nai,i m o + n a i,‘2pl two’,Barlow2024,,,^ i m o + n a i $,default,
+lote1237-1-135_todrink-1,,lote1237-1,135_todrink,in,in,i n,,Barlow2024,,,^ i n $,default,in-ia
+lote1237-1-136_smellystinky-1,,lote1237-1,136_smellystinky,ina,ina,i n a,,Barlow2024,,,^ i n a $,default,ina-ŋana
+lote1237-1-137_painpainfultohurttobeinpain-1,,lote1237-1,137_painpainfultohurttobeinpain,inin,inin,i n i n,,Barlow2024,,,^ i n i n $,default,
+lote1237-1-138_speargeneric-1,,lote1237-1,138_speargeneric,io,io,i o,"cf. specific spear types /kaliŋo/, /pakpaka/, /raliŋ/",Barlow2024,,,^ i o $,default,
+lote1237-1-139_2sgpronounthoutheeyou-1,,lote1237-1,139_2sgpronounthoutheeyou,ioŋ,ioŋ,i o ŋ,,Barlow2024,,,^ i o ŋ $,default,
+lote1237-1-140_3plpronountheythem-1,,lote1237-1,140_3plpronountheythem,iri,iri,i r i,also used for 3sg taboo relations,Barlow2024,,,^ i r i $,default,
+lote1237-1-141_3trpronountheythreethemthree-1,,lote1237-1,141_3trpronountheythreethemthree,iri mol,iri mol,i r i + m o l,‘3pl three’,Barlow2024,,,^ i r i + m o l $,default,
+lote1237-1-142_3dupronountheytwothemtwo-1,,lote1237-1,142_3dupronountheytwothemtwo,iri nai,iri nai,i r i + n a i,‘3pl two’,Barlow2024,,,^ i r i + n a i $,default,
+lote1237-1-143_highlandsmountain-1,,lote1237-1,143_highlandsmountain,it,it,i t,cf. /hɛŋɛnɛ/ ‘mountain; temple (of the head)’,Barlow2024,,,^ i t $,default,
+lote1237-1-144_1plinclpronounweus-1,,lote1237-1,144_1plinclpronounweus,ita,ita,i t a,,Barlow2024,,,^ i t a $,default,
+lote1237-1-145_1trinclpronounwethreeusthree-1,,lote1237-1,145_1trinclpronounwethreeusthree,ita mol,ita mol,i t a + m o l,‘1pl.incl three’,Barlow2024,,,^ i t a + m o l $,default,
+lote1237-1-146_1duinclpronounwetwoustwo-1,,lote1237-1,146_1duinclpronounwetwoustwo,ita nai,ita nai,i t a + n a i,‘1pl.incl two’,Barlow2024,,,^ i t a + n a i $,default,
+lote1237-1-147_who-1,,lote1237-1,147_who,itei,itei,i t e i,,Barlow2024,,,^ i t e i $,default,
+lote1237-1-148_star-1,,lote1237-1,148_star,itox,itox,i t o x,,Barlow2024,,,^ i t o x $,default,
+lote1237-1-149_bamboosp-1,,lote1237-1,149_bamboosp,iu,iu,i u,"same form as ‘to blow; to call (for someone), to shout’; cf. /ilipa/, a different sp.",Barlow2024,,,^ i u $,default,
+lote1237-1-150_toblowtocallforsomeonetoshout-1,,lote1237-1,150_toblowtocallforsomeonetoshout,iu,iu,i u,"same form as ‘bamboo sp.’; cf. /hurus/ ‘to blow’, /hɛkɛ/ ‘to blow (a fire); to raise (something)’, /haka/ ‘to blow (of the wind); to climb, to ascend, to go up; to grow’",Barlow2024,,,^ i u $,default,iu-a
+lote1237-1-151_groundearthsoil-1,,lote1237-1,151_groundearthsoil,ix,ix,i x,,Barlow2024,,,^ i x $,default,
+lote1237-1-152_mainland-1,,lote1237-1,152_mainland,ix una,ix una,i x + u n a,‘ground full’,Barlow2024,,,^ i x + u n a $,default,
+lote1237-1-557_1sgpossessivesuffixmy1sgposs-2,,lote1237-1,557_1sgpossessivesuffixmy1sgposs,-k,-k,+ k,"allomorphs: /-ik/, /-uk/",Barlow2024,,,^ - k $,default,
+lote1237-1-154_heart-1,,lote1237-1,154_heart,kakaho-,kakaho-,k a k a h o +,,Barlow2024,,,^ k a k a h o - $,default,"kakaho-k (1sg), kakaho-m (2sg), kakaho-m (3sg)"
+lote1237-1-155_knife-1,,lote1237-1,155_knife,kakop,kakop,k a k o p,,Barlow2024,,,^ k a k o p $,default,
+lote1237-1-156_neck-1,,lote1237-1,156_neck,kal-,kal-,k a l +,,Barlow2024,,,^ k a l - $,default,"kal-ik (1sg), kal-im (2sg), kan-na (3sg)"
+lote1237-1-157_totietofasten-1,,lote1237-1,157_totietofasten,kale,kale,k a l e,"cf. /kale hit/ ‘to tie up’, /hit/ ‘to block, to tie’, /tom/ ‘to fix, to tie’, /tom hit/ ‘to tie up’",Barlow2024,,,^ k a l e $,default,
+lote1237-1-527_totieup-1,,lote1237-1,527_totieup,kale hit,kale hit,k a l e + h i t,"‘tie block’; cf. /kale/ ‘to tie, to fasten’, /hit/ ‘to block, to tie’, /tom/ ‘to fix, to tie’, /tom hit/ ‘to tie up’",Barlow2024,,,^ k a l e + h i t $,default,kale hit-ɛ
+lote1237-1-159_indiancoraltreetpbalbal-1,,lote1237-1,159_indiancoraltreetpbalbal,kaleo,kaleo,k a l e o,,Barlow2024,,,^ k a l e o $,default,
+lote1237-1-160_shield-1,,lote1237-1,160_shield,kaleu,kaleu,k a l e u,,Barlow2024,,,^ k a l e u $,default,
+lote1237-1-161_spearforshootingfishspearwithmultipleprongs-1,,lote1237-1,161_spearforshootingfishspearwithmultipleprongs,kaliŋo,kaliŋo,k a l i ŋ o,"cf. other types /pakpaka/, /raliŋ/, and generic /io/",Barlow2024,,,^ k a l i ŋ o $,default,
+lote1237-1-162_fardistant-1,,lote1237-1,162_fardistant,kaŋkaŋa,kaŋkaŋa,k a ŋ k a ŋ a,reduplication?,Barlow2024,,,^ k a ŋ k a ŋ a $,default,
+lote1237-1-201_theremedialdemonstrative-1,,lote1237-1,201_theremedialdemonstrative,kau,kau,k a u,"close to hearer; often has an interrogative function; cf. /la/, /lamam/",Barlow2024,,,^ k a u $,default,
+lote1237-1-164_dog-1,,lote1237-1,164_dog,kaune,kaune,k a u n e,possibly /kaone/,Barlow2024,,,^ k a u n e $,default,
+lote1237-1-165_prepositionprepthatcomplementizercomp-1,,lote1237-1,165_prepositionprepthatcomplementizercomp,ke,ke,k e,,Barlow2024,,,^ k e $,default,
+lote1237-1-166_tosteal-1,,lote1237-1,166_tosteal,kɛmɛ,kɛmɛ,k ɛ m ɛ,,Barlow2024,,,^ k ɛ m ɛ $,default,kɛmɛ-ia
+lote1237-1-167_hardnotsoft-1,,lote1237-1,167_hardnotsoft,kɛrkɛrɛŋ,kɛrkɛrɛŋ,k ɛ r k ɛ r ɛ ŋ,reduplication?,Barlow2024,,,^ k ɛ r k ɛ r ɛ ŋ $,default,
+lote1237-1-168_bone-1,,lote1237-1,168_bone,ki-,ki-,k i +,,Barlow2024,,,^ k i - $,default,"ki-k (1sg), ki-m (2sg), ki-na (3sg)"
+lote1237-1-169_pig-1,,lote1237-1,169_pig,kiɛ,kiɛ,k i ɛ,,Barlow2024,,,^ k i ɛ $,default,
+lote1237-1-170_plantsp-1,,lote1237-1,170_plantsp,kiki,kiki,k i k i,"reduplication?; same form as /kiki-/ ‘strength, muscle’",Barlow2024,,,^ k i k i $,default,
+lote1237-1-171_strengthmuscle-1,,lote1237-1,171_strengthmuscle,kiki,kiki,k i k i,reduplication?; same form as /kiki/ ‘plant sp.’,Barlow2024,,,^ k i k i $,default,kiki-na (3sg)
+lote1237-1-172_tosit-2,,lote1237-1,172_tosit,kila,kila,k i l a,possibly /kil-a/; also /are/,Barlow2024,,,^ k i l a $,default,
+lote1237-1-173_villageplace-1,,lote1237-1,173_villageplace,kileŋ,kileŋ,k i l e ŋ,possibly related to /kil/ ‘to sit’,Barlow2024,,,^ k i l e ŋ $,default,
+lote1237-1-174_tothunder-1,,lote1237-1,174_tothunder,kileŋ kuruŋ ŋa-,kileŋ kuruŋ ŋa-,k i l e ŋ + k u r u ŋ + ŋ a +,‘place thunder NMLZ?-POSS’,Barlow2024,,,^ k i l e ŋ + k u r u ŋ + ŋ a - $,default,"kileŋ kuruŋ ŋa-na (3sg), kileŋ kuruŋa-ria (3pl)"
+lote1237-1-175_tolightningtoflash-1,,lote1237-1,175_tolightningtoflash,kileŋ xalɛm ŋa-,kileŋ xalɛm ŋa-,k i l e ŋ + x a l ɛ m + ŋ a +,‘place lightning NMLZ?-POSS’,Barlow2024,,,^ k i l e ŋ + x a l ɛ m + ŋ a - $,default,"kileŋ xalɛm ŋa-na (3sg), kileŋ xalɛm ŋa-ria (3pl)"
+lote1237-1-176_smalllittleperson-1,,lote1237-1,176_smalllittleperson,kino,kino,k i n o,"cf. /tuna/ ‘small, little (thing)’, /sune/ ‘small, little; a little’",Barlow2024,,,^ k i n o $,default,
+lote1237-1-177_toscrubtobrushtowipe-1,,lote1237-1,177_toscrubtobrushtowipe,kira,kira,k i r a,"cf. /ɛmu/ ‘to rub’, /lomɛ/ ‘to wash, to clean, to wipe’",Barlow2024,,,^ k i r a $,default,kir-ɛ
+lote1237-1-178_breadfruit-1,,lote1237-1,178_breadfruit,koal,koal,k o a l,,Barlow2024,,,^ k o a l $,default,
+lote1237-1-179_hereproximaldemonstrativetobehere-1,,lote1237-1,179_hereproximaldemonstrativetobehere,koi,koi,k o i,"close to speaker; cf. /lai/, /lamai/",Barlow2024,,,^ k o i $,default,
+lote1237-1-180_yellow-1,,lote1237-1,180_yellow,koikoi,koikoi,k o i k o i,reduplication?,Barlow2024,,,^ k o i k o i $,default,
+lote1237-1-181_boy-1,,lote1237-1,181_boy,kol,kol,k o l,,Barlow2024,,,^ k o l $,default,
+lote1237-1-182_bag-1,,lote1237-1,182_bag,kole,kole,k o l e,,Barlow2024,,,^ k o l e $,default,
+lote1237-1-538_son-1,,lote1237-1,538_son,kolɛ-,kolɛ-,k o l ɛ +,"likely < /kol/ ‘boy’; also /tu- neŋe tamane/, /tu- tamaneŋana/",Barlow2024,,,^ k o l ɛ - $,default,"kolɛ-k (1sg), kolɛ-m (2sg), kolɛ-nɛ (3sg)"
+lote1237-1-184_sweetpotatotpkaukau-1,,lote1237-1,184_sweetpotatotpkaukau,kolompe,kolompe,k o l o m p e,[kolombe],Barlow2024,,,^ k o l o m p e $,default,
+lote1237-1-185_hiding-1,,lote1237-1,185_hiding,kome,kome,k o m e,,Barlow2024,,,^ k o m e $,default,
+lote1237-1-186_tohidesomething-1,,lote1237-1,186_tohidesomething,komɛ,komɛ,k o m ɛ,< /kome/ ‘hiding’,Barlow2024,,,^ k o m ɛ $,default,
+lote1237-1-202_thereyonderdistaldemonstrative-1,,lote1237-1,202_thereyonderdistaldemonstrative,kou,kou,k o u,far from both speaker and hearer; cf. /lamau/,Barlow2024,,,^ k o u $,default,
+lote1237-1-188_incorrectwrongfalse-1,,lote1237-1,188_incorrectwrongfalse,koukou,koukou,k o u k o u,reduplication?,Barlow2024,,,^ k o u k o u $,default,
+lote1237-1-189_pathroadtrail-1,,lote1237-1,189_pathroadtrail,kue,kue,k u e,,Barlow2024,,,^ k u e $,default,
+lote1237-1-190_digitfingertoe-1,,lote1237-1,190_digitfingertoe,kuka-,kuka-,k u k a +,,Barlow2024,,,^ k u k a - $,default,kuka-na (3sg)
+lote1237-1-191_walkingstick-1,,lote1237-1,191_walkingstick,kula,kula,k u l a,,Barlow2024,,,^ k u l a $,default,
+lote1237-1-192_limetpkambang-1,,lote1237-1,192_limetpkambang,kulum,kulum,k u l u m,,Barlow2024,,,^ k u l u m $,default,
+lote1237-1-193_crab-1,,lote1237-1,193_crab,kume,kume,k u m e,,Barlow2024,,,^ k u m e $,default,
+lote1237-1-194_stillyetincompletivemarkerincmpl-1,,lote1237-1,194_stillyetincompletivemarkerincmpl,kura,kura,k u r a,postverbal,Barlow2024,,,^ k u r a $,default,
+lote1237-1-195_thunder-1,,lote1237-1,195_thunder,kuruŋ,kuruŋ,k u r u ŋ,,Barlow2024,,,^ k u r u ŋ $,default,"kuruŋ ŋa-na (3sg), kuruŋ ŋa-ria (3pl) (with nominalizer as host for possessive marking?)"
+lote1237-1-196_therethithermedialdemonstrative-1,,lote1237-1,196_therethithermedialdemonstrative,la,la,l a,"close to hearer; same form as ‘to go’; cf. /lamam/, /kau/",Barlow2024,,,^ l a $,default,
+lote1237-1-197_togo-1,,lote1237-1,197_togo,la,la,l a,"same form as ‘there, thither’",Barlow2024,,,^ l a $,default,"la-ia (‘to bring’, transitive version of ‘to go’), la~la (reduplication)"
+lote1237-1-342_where-1,,lote1237-1,342_where,la ŋai,la ŋai,l a + ŋ a i,‘there where?’; also /ŋai/,Barlow2024,,,^ l a + ŋ a i $,default,
+lote1237-1-199_herehitherproximaldemonstrative-1,,lote1237-1,199_herehitherproximaldemonstrative,lai,lai,l a i,"close to speaker; cf. /lamai/, /koi/",Barlow2024,,,^ l a i $,default,
+lote1237-1-200_hereproximaldemonstrative-1,,lote1237-1,200_hereproximaldemonstrative,lamai,lamai,l a m a i,"close to speaker; cf. /lai/, /koi/",Barlow2024,,,^ l a m a i $,default,
+lote1237-1-201_theremedialdemonstrative-2,,lote1237-1,201_theremedialdemonstrative,lamam,lamam,l a m a m,"close to hearer; cf. /la/, /kau/",Barlow2024,,,^ l a m a m $,default,
+lote1237-1-202_thereyonderdistaldemonstrative-2,,lote1237-1,202_thereyonderdistaldemonstrative,lamau,lamau,l a m a u,far from both speaker and hearer; cf. /kou/,Barlow2024,,,^ l a m a u $,default,
+lote1237-1-203_flyhousefly-1,,lote1237-1,203_flyhousefly,laŋo,laŋo,l a ŋ o,,Barlow2024,,,^ l a ŋ o $,default,
+lote1237-1-204_marchflyblowfly-1,,lote1237-1,204_marchflyblowfly,laŋo xɛrxɛra,laŋo xɛrxɛra,l a ŋ o + x ɛ r x ɛ r a,‘fly blue/green’,Barlow2024,,,^ l a ŋ o + x ɛ r x ɛ r a $,default,
+lote1237-1-384_irrealismarkerirr-1,,lote1237-1,384_irrealismarkerirr,lape,lape,l a p e,preverbal; also /pe/,Barlow2024,,,^ l a p e $,default,
+lote1237-1-404_arecoidpalmsptplimbum-1,,lote1237-1,404_arecoidpalmsptplimbum,lapia,lapia,l a p i a,"cf. /pola/, a different species",Barlow2024,,,^ l a p i a $,default,
+lote1237-1-207_rotten-1,,lote1237-1,207_rotten,lapusa,lapusa,l a p u s a,,Barlow2024,,,^ l a p u s a $,default,
+lote1237-1-468_tocatch-1,,lote1237-1,468_tocatch,lau,lau,l a u,also /sihɛ/,Barlow2024,,,^ l a u $,default,lau-a
+lote1237-1-209_tobaketocookinanearthoventpmumuim-1,,lote1237-1,209_tobaketocookinanearthoventpmumuim,lel,lel,l e l,"cf. /mak/ ‘to burn (person as subject), to cook (with fire)’, /tun/ ‘to boil’",Barlow2024,,,^ l e l $,default,lel-ɛ
+lote1237-1-210_toflowofariver-1,,lote1237-1,210_toflowofariver,lele,lele,l e l e,reduplication?,Barlow2024,,,^ l e l e $,default,
+lote1237-1-458_smooth-1,,lote1237-1,458_smooth,lelemo,lelemo,l e l e m o,possibly related to /lele/ ‘to flow’; reduplication?; also /sasanix/,Barlow2024,,,^ l e l e m o $,default,
+lote1237-1-212_tobuild-1,,lote1237-1,212_tobuild,lelɛ,lelɛ,l e l ɛ,"possibly /lel-ɛ/; possibly the same form as /lel/ ‘to bake, to cook in an earth oven (TP: mumuim)’; cf. /umɛ/ ‘to work, to build’, /po/ ‘to do, to make’",Barlow2024,,,^ l e l ɛ $,default,
+lote1237-1-213_tocarve-1,,lote1237-1,213_tocarve,les,les,l e s,cf. /raluɛ/ ‘to carve (a canoe)’,Barlow2024,,,^ l e s $,default,les-ia
+lote1237-1-214_inside-1,,lote1237-1,214_inside,lete-,lete-,l e t e +,"cf. /teu/ ‘inside; to go in, to go inside, to enter’",Barlow2024,,,^ l e t e - $,default,"lete-m (2sg), lete-na (3sg)"
+lote1237-1-540_tothink-1,,lote1237-1,540_tothink,lete- matana,lete- matana,l e t e + + m a t a n a,"‘inside-POSS eye-3SG’; also /lete- tuanin/, /tuanin/",Barlow2024,,,^ l e t e - + m a t a n a $,default,lete-m mata-na (2sg)
+lote1237-1-540_tothink-2,,lote1237-1,540_tothink,lete- tuanin,lete- tuanin,l e t e + + t u a n i n,"‘inside-POSS think’; also /lete- matana/, /tuanin/",Barlow2024,,,^ l e t e - + t u a n i n $,default,lete-na tuanin (3sg)
+lote1237-1-217_generalpossessiveclassifierpossgen-1,,lote1237-1,217_generalpossessiveclassifierpossgen,lɛ-,lɛ-,l ɛ +,"used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used with possessions that are not food- or drink-related; allomorphs for 3sg possessors: /na/, /nena/",Barlow2024,,,^ l ɛ - $,default,"lɛ-k (1sg), lɛ-m (2sg), na (3sg), nɛ (3sg), nena (3sg)"
+lote1237-1-218_tofly-1,,lote1237-1,218_tofly,lɛhɛ,lɛhɛ,l ɛ h ɛ,,Barlow2024,,,^ l ɛ h ɛ $,default,lɛ~lɛhɛ (reduplication)
+lote1237-1-219_fourcountinginfoursonlyasanabsolutenumeralnotasanadnominalnumeral-1,,lote1237-1,219_fourcountinginfoursonlyasanabsolutenumeralnotasanadnominalnumeral,lɛisinɛ,lɛisinɛ,l ɛ i s i n ɛ,"used for counting coconuts, breadfruit, pieces of firewood, (not, e.g., stones, bananas, people); cf. /ana lɛisinɛ/, used as an adnominal numeral; /hɛnɛl/ ‘four’ (in general counting)",Barlow2024,,,^ l ɛ i s i n ɛ $,default,
+lote1237-1-221_sixteen16countinginfours-1,,lote1237-1,221_sixteen16countinginfours,lɛisinɛ hɛnɛl,lɛisinɛ hɛnɛl,l ɛ i s i n ɛ + h ɛ n ɛ l,‘group.of.four [times] four’; also /lɛisinɛ iri hɛnɛl/,Barlow2024,,,^ l ɛ i s i n ɛ + h ɛ n ɛ l $,default,
+lote1237-1-221_sixteen16countinginfours-2,,lote1237-1,221_sixteen16countinginfours,lɛisinɛ iri hɛnɛl,lɛisinɛ iri hɛnɛl,l ɛ i s i n ɛ + i r i + h ɛ n ɛ l,‘group.of.four 3PL four’; also /lɛisinɛ hɛnɛl/,Barlow2024,,,^ l ɛ i s i n ɛ + i r i + h ɛ n ɛ l $,default,
+lote1237-1-224_twelve12countinginfours-1,,lote1237-1,224_twelve12countinginfours,lɛisinɛ iri mol,lɛisinɛ iri mol,l ɛ i s i n ɛ + i r i + m o l,‘group.of.four 3PL three’; also /lɛisinɛ mol/,Barlow2024,,,^ l ɛ i s i n ɛ + i r i + m o l $,default,
+lote1237-1-225_eight8countinginfours-1,,lote1237-1,225_eight8countinginfours,lɛisinɛ iri nai,lɛisinɛ iri nai,l ɛ i s i n ɛ + i r i + n a i,‘group.of.four 3PL two’; also /lɛisinɛ nai/; cf. /ratɛle mol/ ‘eight’,Barlow2024,,,^ l ɛ i s i n ɛ + i r i + n a i $,default,
+lote1237-1-224_twelve12countinginfours-2,,lote1237-1,224_twelve12countinginfours,lɛisinɛ mol,lɛisinɛ mol,l ɛ i s i n ɛ + m o l,‘group.of.four [times] three’; also /lɛisinɛ iri mol/,Barlow2024,,,^ l ɛ i s i n ɛ + m o l $,default,
+lote1237-1-225_eight8countinginfours-2,,lote1237-1,225_eight8countinginfours,lɛisinɛ nai,lɛisinɛ nai,l ɛ i s i n ɛ + n a i,‘group.of.four [times] two’; also /lɛisinɛ iri nai/; cf. /ratɛle mol/ ‘eight’,Barlow2024,,,^ l ɛ i s i n ɛ + n a i $,default,
+lote1237-1-226_nine9countinginfours-1,,lote1237-1,226_nine9countinginfours,lɛisinɛ nai pe ɛllɛ,lɛisinɛ nai pe ɛllɛ,l ɛ i s i n ɛ + n a i + p e + ɛ lː ɛ,‘group.of.four [times] two and one’; cf. /ratɛle hɛnɛl/ ‘nine’,Barlow2024,,,^ l ɛ i s i n ɛ + n a i + p e + ɛ ll ɛ $,default,
+lote1237-1-227_eleven11countinginfours-1,,lote1237-1,227_eleven11countinginfours,lɛisinɛ nai pe mol,lɛisinɛ nai pe mol,l ɛ i s i n ɛ + n a i + p e + m o l,‘group.of.four [times] two and three’,Barlow2024,,,^ l ɛ i s i n ɛ + n a i + p e + m o l $,default,
+lote1237-1-228_ten10countinginfours-1,,lote1237-1,228_ten10countinginfours,lɛisinɛ nai pe nai,lɛisinɛ nai pe nai,l ɛ i s i n ɛ + n a i + p e + n a i,‘group.of.four [times] two and two’; cf. /analox/ ‘ten’,Barlow2024,,,^ l ɛ i s i n ɛ + n a i + p e + n a i $,default,
+lote1237-1-229_five5countinginfours-1,,lote1237-1,229_five5countinginfours,lɛisinɛ pe ɛllɛ,lɛisinɛ pe ɛllɛ,l ɛ i s i n ɛ + p e + ɛ lː ɛ,‘group.of.four and one’; cf. /limɛ/ ‘five’,Barlow2024,,,^ l ɛ i s i n ɛ + p e + ɛ ll ɛ $,default,
+lote1237-1-230_seven7countinginfours-1,,lote1237-1,230_seven7countinginfours,lɛisinɛ pe mol,lɛisinɛ pe mol,l ɛ i s i n ɛ + p e + m o l,‘group.of.four and three’; cf. /ratɛle nai/ ‘seven’,Barlow2024,,,^ l ɛ i s i n ɛ + p e + m o l $,default,
+lote1237-1-231_six6countinginfours-1,,lote1237-1,231_six6countinginfours,lɛisinɛ pe nai,lɛisinɛ pe nai,l ɛ i s i n ɛ + p e + n a i,‘group.of.four and two’; cf. /ratɛle ɛllɛ/ ‘six’,Barlow2024,,,^ l ɛ i s i n ɛ + p e + n a i $,default,
+lote1237-1-232_clean-1,,lote1237-1,232_clean,lɛmlɛm,lɛmlɛm,l ɛ m l ɛ m,reduplication?,Barlow2024,,,^ l ɛ m l ɛ m $,default,
+lote1237-1-233_tocuttohacktochop-1,,lote1237-1,233_tocuttohacktochop,lik,lik,l i k,"cf. /tel/ ‘to cut, to fell a tree’, /rir/ ‘to cut, to slice’, /tot/ ‘to cut, to slice’, /ut/ ‘to cut’",Barlow2024,,,^ l i k $,default,lik-ia
+lote1237-1-234_five5-1,,lote1237-1,234_five5,limɛ,limɛ,l i m ɛ,cf. /lɛisinɛ pe ɛllɛ/ ‘five (counting in fours)’,Barlow2024,,,^ l i m ɛ $,default,
+lote1237-1-235_oppositesexsiblingsisterofamanorbrotherofawoman-1,,lote1237-1,235_oppositesexsiblingsisterofamanorbrotherofawoman,liu-,liu-,l i u +,,Barlow2024,,,^ l i u - $,default,"liu-k (1sg), liu-m (2sg), liu-na (3sg)"
+lote1237-1-236_youngeroppositesexsibling-1,,lote1237-1,236_youngeroppositesexsibling,liu- neŋe kino,liu- neŋe kino,l i u + + n e ŋ e + k i n o,‘opposite-sex.sibling-POSS REL small’,Barlow2024,,,^ l i u - + n e ŋ e + k i n o $,default,liu-na neŋe kino (3sg)
+lote1237-1-237_olderoppositesexsibling-1,,lote1237-1,237_olderoppositesexsibling,liu- neŋe soke,liu- neŋe soke,l i u + + n e ŋ e + s o k e,‘opposite-sex.sibling-POSS REL big’,Barlow2024,,,^ l i u - + n e ŋ e + s o k e $,default,liu-na neŋe soke (3sg)
+lote1237-1-238_alreadycompletivemarkercmpl-1,,lote1237-1,238_alreadycompletivemarkercmpl,lo,lo,l o,postverbal,Barlow2024,,,^ l o $,default,
+lote1237-1-239_lastbornchild-1,,lote1237-1,239_lastbornchild,loena,loena,l o e n a,possibly related to /(h)oe-na/ ‘tail-3sg’,Barlow2024,,,^ l o e n a $,default,loena-ŋana (with adjectivizing suffix)
+lote1237-1-240_toopenadoor-1,,lote1237-1,240_toopenadoor,lohɛ,lohɛ,l o h ɛ,"also [loɛ]; possibly /lo-ɛ/; cf. /ulɛlɛ/ ‘to open (a basket), to uncover’",Barlow2024,,,^ l o h ɛ $,default,
+lote1237-1-241_taro-1,,lote1237-1,241_taro,loi,loi,l o i,,Barlow2024,,,^ l o i $,default,
+lote1237-1-242_gingertpkawawar-1,,lote1237-1,242_gingertpkawawar,loitana,loitana,l o i t a n a,cf. /ex/ ‘tall ginger’,Barlow2024,,,^ l o i t a n a $,default,
+lote1237-1-243_redanttpkarakum-1,,lote1237-1,243_redanttpkarakum,lolo,lolo,l o l o,reduplication?,Barlow2024,,,^ l o l o $,default,
+lote1237-1-244_coldcool-1,,lote1237-1,244_coldcool,lololo,lololo,l o l o l o,reduplication?,Barlow2024,,,^ l o l o l o $,default,
+lote1237-1-245_towashtocleantowipe-1,,lote1237-1,245_towashtocleantowipe,lomɛ,lomɛ,l o m ɛ,"possibly /lom-ɛ/; cf. /nun/ ‘to bathe’, /kira/ ‘to scrub, to brush, to wipe’",Barlow2024,,,^ l o m ɛ $,default,
+lote1237-1-350_yesterday-1,,lote1237-1,350_yesterday,lona,lona,l o n a,also /ŋe lona/,Barlow2024,,,^ l o n a $,default,
+lote1237-1-247_tolistentohear-1,,lote1237-1,247_tolistentohear,loŋo,loŋo,l o ŋ o,,Barlow2024,,,^ l o ŋ o $,default,loŋ-ɛ
+lote1237-1-248_tofalltofalldown-1,,lote1237-1,248_tofalltofalldown,losio,losio,l o s i o,likely related to /sio/ ‘to go down’; cf. /mol/ ‘to fall (of rain)’,Barlow2024,,,^ l o s i o $,default,
+lote1237-1-249_lotelanguage-1,,lote1237-1,249_lotelanguage,lote,lote,l o t e,,Barlow2024,,,^ l o t e $,default,
+lote1237-1-250_allwhole-1,,lote1237-1,250_allwhole,loxlox,loxlox,l o x l o x,reduplication?,Barlow2024,,,^ l o x l o x $,default,
+lote1237-1-251_ant-1,,lote1237-1,251_ant,lulue,lulue,l u l u e,,Barlow2024,,,^ l u l u e $,default,
+lote1237-1-252_withtogetherwithcomitative-1,,lote1237-1,252_withtogetherwithcomitative,lulux,lulux,l u l u x,usually followed by /ŋe/ ‘PREP.PN’,Barlow2024,,,^ l u l u x $,default,
+lote1237-1-253_uphigh-1,,lote1237-1,253_uphigh,lut,lut,l u t,,Barlow2024,,,^ l u t $,default,
+lote1237-1-564_2sgpossessivesuffixthyyour2sgposs-2,,lote1237-1,564_2sgpossessivesuffixthyyour2sgposs,-m,-m,+ m,"allomorphs: /-im/, /-um/",Barlow2024,,,^ - m $,default,
+lote1237-1-255_ordisjunctivecoordinator-1,,lote1237-1,255_ordisjunctivecoordinator,ma,ma,m a,"same form as ‘to lie, to sleep’",Barlow2024,,,^ m a $,default,
+lote1237-1-256_tolietoliedowntosleep-1,,lote1237-1,256_tolietoliedowntosleep,ma,ma,m a,same form as ‘or’; cf. /mamani/ ‘to sleep’,Barlow2024,,,^ m a $,default,
+lote1237-1-257_todream-1,,lote1237-1,257_todream,ma opɛ-,ma opɛ-,m a + o p ɛ +,‘sleep dream-POSS’,Barlow2024,,,^ m a + o p ɛ - $,default,"ma opɛ-m (2sg), ma opɛ-nɛ (3sg)"
+lote1237-1-258_rat-1,,lote1237-1,258_rat,mais,mais,m a i s,,Barlow2024,,,^ m a i s $,default,
+lote1237-1-259_toburnpersonassubjecttocookwithfire-1,,lote1237-1,259_toburnpersonassubjecttocookwithfire,mak,mak,m a k,"cf. /rau/ ‘to burn (intransitive), to be on fire’, /ŋau/ ‘to eat; to burn (fire as subject)’, /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /toŋo/ ‘to light a fire, to ignite’; cf. /lel/ ‘to bake, to cook in an earth oven (TP: mumuim)’, /tun/ ‘to boil’",Barlow2024,,,^ m a k $,default,mak-ia
+lote1237-1-260_gutsintestines-1,,lote1237-1,260_gutsintestines,makal-,makal-,m a k a l +,,Barlow2024,,,^ m a k a l - $,default,"makal-ik (1sg), makal-im (2sg), makan-na (3sg)"
+lote1237-1-261_soft-1,,lote1237-1,261_soft,makuk,makuk,m a k u k,,Barlow2024,,,^ m a k u k $,default,
+lote1237-1-262_cordylineplanttptanget-1,,lote1237-1,262_cordylineplanttptanget,male,male,m a l e,,Barlow2024,,,^ m a l e $,default,
+lote1237-1-263_clothtplaplap-1,,lote1237-1,263_clothtplaplap,maleŋa,maleŋa,m a l e ŋ a,likely < /male/ ‘cordyline plant’,Barlow2024,,,^ m a l e ŋ a $,default,
+lote1237-1-264_wildfowl-1,,lote1237-1,264_wildfowl,mali,mali,m a l i,,Barlow2024,,,^ m a l i $,default,
+lote1237-1-265_tosleep-1,,lote1237-1,265_tosleep,mamani,mamani,m a m a n i,likely < reduplication of /ma/ ‘to lie’,Barlow2024,,,^ m a m a n i $,default,
+lote1237-1-266_baby-1,,lote1237-1,266_baby,mamau,mamau,m a m a u,,Barlow2024,,,^ m a m a u $,default,
+lote1237-1-267_toweave-1,,lote1237-1,267_toweave,man,man,m a n,cf. /sima/ ‘to sew’,Barlow2024,,,^ m a n $,default,man-ia
+lote1237-1-268_onlyjust-1,,lote1237-1,268_onlyjust,mana,mana,m a n a,same form as ‘to float’,Barlow2024,,,^ m a n a $,default,
+lote1237-1-269_tofloattoswimofanimals-1,,lote1237-1,269_tofloattoswimofanimals,mana,mana,m a n a,"same form as ‘only, just’; cf. /pasu/ ‘to swim’",Barlow2024,,,^ m a n a $,default,man~mana (reduplication)
+lote1237-1-270_eel-1,,lote1237-1,270_eel,mania,mania,m a n i a,,Barlow2024,,,^ m a n i a $,default,
+lote1237-1-271_rightcorrecttrue-1,,lote1237-1,271_rightcorrecttrue,manmanna,manmanna,m a n m a nː a,reduplication?,Barlow2024,,,^ m a n m a nn a $,default,
+lote1237-1-272_crocodile-1,,lote1237-1,272_crocodile,marehit,marehit,m a r e h i t,,Barlow2024,,,^ m a r e h i t $,default,
+lote1237-1-273_dust-1,,lote1237-1,273_dust,maruxrue,maruxrue,m a r u x r u e,,Barlow2024,,,^ m a r u x r u e $,default,
+lote1237-1-274_eye-1,,lote1237-1,274_eye,mata-,mata-,m a t a +,,Barlow2024,,,^ m a t a - $,default,"mata-k (1sg), mata-m (2sg), mata-na (3sg)"
+lote1237-1-275_tearteardrop-1,,lote1237-1,275_tearteardrop,mata- ɛina,mata- ɛina,m a t a + + ɛ i n a,‘eye-POSS blood-3SG’,Barlow2024,,,^ m a t a - + ɛ i n a $,default,"mata-k ɛi-na (1sg), mata-m ɛi-na (2sg), mata-na ɛi-na (3sg)"
+lote1237-1-276_sharp-1,,lote1237-1,276_sharp,matana,matana,m a t a n a,‘eye-3SG’,Barlow2024,,,^ m a t a n a $,default,
+lote1237-1-277_dullblunt-1,,lote1237-1,277_dullblunt,matana ɛro,matana ɛro,m a t a n a + ɛ r o,‘eye-3SG NEG’,Barlow2024,,,^ m a t a n a + ɛ r o $,default,
+lote1237-1-278_tobeafraidtofear-1,,lote1237-1,278_tobeafraidtofear,matau,matau,m a t a u,,Barlow2024,,,^ m a t a u $,default,matau-a
+lote1237-1-279_tolivetobealive-1,,lote1237-1,279_tolivetobealive,maul,maul,m a u l,,Barlow2024,,,^ m a u l $,default,maul~ul (reduplication)
+lote1237-1-280_chest-1,,lote1237-1,280_chest,mautu-,mautu-,m a u t u +,,Barlow2024,,,^ m a u t u - $,default,"mautu-k (1sg), mautu-m (2sg), mautu-na (3sg)"
+lote1237-1-281_toshametobeashamedtofeelshamereflexive-1,,lote1237-1,281_toshametobeashamedtofeelshamereflexive,me,me,m e,,Barlow2024,,,^ m e $,default,"me-a, e-me-a iau (1sg), Ø-me-a i (3sg)"
+lote1237-1-282_someoneapersonhumanbeing-1,,lote1237-1,282_someoneapersonhumanbeing,melɛ,melɛ,m e l ɛ,,Barlow2024,,,^ m e l ɛ $,default,
+lote1237-1-283_skirtbarkloinclothformentpmalo-1,,lote1237-1,283_skirtbarkloinclothformentpmalo,melo,melo,m e l o,"cf. /ela/ ‘skirt, grass skirt for women’",Barlow2024,,,^ m e l o $,default,
+lote1237-1-284_tostand-1,,lote1237-1,284_tostand,mes,mes,m e s,,Barlow2024,,,^ m e s $,default,
+lote1237-1-285_heavy-1,,lote1237-1,285_heavy,mɛena,mɛena,m ɛ e n a,or /mɛe-na/ ‘heaviness-3SG’?,Barlow2024,,,^ m ɛ e n a $,default,
+lote1237-1-286_husbandssistersisterinlaw-1,,lote1237-1,286_husbandssistersisterinlaw,mɛlɛi,mɛlɛi,m ɛ l ɛ i,,Barlow2024,,,^ m ɛ l ɛ i $,default,"lɛ-k mɛlɛi (1sg), na mɛlɛi (3sg)"
+lote1237-1-287_tolaugh-1,,lote1237-1,287_tolaugh,mɛlmɛl,mɛlmɛl,m ɛ l m ɛ l,reduplication?,Barlow2024,,,^ m ɛ l m ɛ l $,default,
+lote1237-1-288_1plexclpossessivesuffixour1plexclposs-1,,lote1237-1,288_1plexclpossessivesuffixour1plexclposs,-mɛm,-mɛm,+ m ɛ m,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns),Barlow2024,,,^ - m ɛ m $,default,
+lote1237-1-289_totaketogettocarryinthehandtohold-1,,lote1237-1,289_totaketogettocarryinthehandtohold,mɛnɛ,mɛnɛ,m ɛ n ɛ,"possibly /mɛn-ɛ/; cf. /urɛ/ ‘to carry (on the head)’, /takis/ ‘to carry (on the shoulder)’, /raita/ ‘to hold’",Barlow2024,,,^ m ɛ n ɛ $,default,
+lote1237-1-290_tobring-1,,lote1237-1,290_tobring,mɛnɛ at,mɛnɛ at,m ɛ n ɛ + a t,‘take come’,Barlow2024,,,^ m ɛ n ɛ + a t $,default,
+lote1237-1-291_thin-1,,lote1237-1,291_thin,mɛnini,mɛnini,m ɛ n i n i,,Barlow2024,,,^ m ɛ n i n i $,default,
+lote1237-1-292_howwhy-1,,lote1237-1,292_howwhy,mɛre,mɛre,m ɛ r e,also /pomɛre/,Barlow2024,,,^ m ɛ r e $,default,
+lote1237-1-293_salt-1,,lote1237-1,293_salt,mɛsmɛs,mɛsmɛs,m ɛ s m ɛ s,reduplication?,Barlow2024,,,^ m ɛ s m ɛ s $,default,
+lote1237-1-294_todietobedead-1,,lote1237-1,294_todietobedead,mɛte,mɛte,m ɛ t e,,Barlow2024,,,^ m ɛ t e $,default,
+lote1237-1-295_tobehungry-1,,lote1237-1,295_tobehungry,mɛte a-,mɛte a-,m ɛ t e + a +,‘die POSS.ED-POSS’,Barlow2024,,,^ m ɛ t e + a - $,default,"e-mɛte a-k (1sg), Ø-mɛte a-na (3sg)"
+lote1237-1-296_toitchtoscratchastransitive-1,,lote1237-1,296_toitchtoscratchastransitive,mɛxsisil,mɛxsisil,m ɛ x s i s i l,a compound containing /sisil/ ‘urine’?,Barlow2024,,,^ m ɛ x s i s i l $,default,mɛxsisil-ia
+lote1237-1-297_hotwarm-1,,lote1237-1,297_hotwarm,milaŋ,milaŋ,m i l a ŋ,,Barlow2024,,,^ m i l a ŋ $,default,
+lote1237-1-298_night-1,,lote1237-1,298_night,miliko,miliko,m i l i k o,,Barlow2024,,,^ m i l i k o $,default,
+lote1237-1-299_clear-1,,lote1237-1,299_clear,miliŋliŋ,miliŋliŋ,m i l i ŋ l i ŋ,reduplication?,Barlow2024,,,^ m i l i ŋ l i ŋ $,default,
+lote1237-1-300_island-1,,lote1237-1,300_island,mimio,mimio,m i m i o,,Barlow2024,,,^ m i m i o $,default,
+lote1237-1-301_cassava-1,,lote1237-1,301_cassava,mioka,mioka,m i o k a,,Barlow2024,,,^ m i o k a $,default,
+lote1237-1-302_meatflesh-1,,lote1237-1,302_meatflesh,mira-,mira-,m i r a +,,Barlow2024,,,^ m i r a - $,default,"mira-k (1sg), mira-m (2sg), mira-na (3sg)"
+lote1237-1-303_1plexclsubjectprefix1plexcl-1,,lote1237-1,303_1plexclsubjectprefix1plexcl,mo-,mo-,m o +,verbal prefix; same form as the 2pl possessive suffix,Barlow2024,,,^ m o - $,default,
+lote1237-1-304_2plpossessivesuffixyouryalls2plposs-1,,lote1237-1,304_2plpossessivesuffixyouryalls2plposs,-mo,-mo,+ m o,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns); same form as the 1pl.excl subject prefix,Barlow2024,,,^ - m o $,default,
+lote1237-1-305_three3-1,,lote1237-1,305_three3,mol,mol,m o l,same form as ‘to fall (of rain)’,Barlow2024,,,^ m o l $,default,
+lote1237-1-306_tofallofrain-1,,lote1237-1,306_tofallofrain,mol,mol,m o l,same form as ‘three’; cf. /losio/ ‘to fall down’,Barlow2024,,,^ m o l $,default,
+lote1237-1-307_yam-1,,lote1237-1,307_yam,momo,momo,m o m o,,Barlow2024,,,^ m o m o $,default,
+lote1237-1-308_sweet-1,,lote1237-1,308_sweet,monmona,monmona,m o n m o n a,reduplication?,Barlow2024,,,^ m o n m o n a $,default,"monmona-ŋa- (nominalization, ‘fat, grease’)"
+lote1237-1-309_fatgrease-1,,lote1237-1,309_fatgrease,monmonaŋa-,monmonaŋa-,m o n m o n a ŋ a +,‘sweet-NMLZ-POSS’,Barlow2024,,,^ m o n m o n a ŋ a - $,default,"monmonaŋa-k (1sg), monmonaŋa-na (3sg)"
+lote1237-1-310_bagwovenbagmadeofwovenvines-1,,lote1237-1,310_bagwovenbagmadeofwovenvines,monri,monri,m o n r i,"[mondri]; the bag is hard, not considered to be a ‘bilum’ (TP for ‘net bag, string bag’)",Barlow2024,,,^ m o n r i $,default,
+lote1237-1-311_againtogobacktoreturnreflexivemarkerselfselvesrefl-1,,lote1237-1,311_againtogobacktoreturnreflexivemarkerselfselvesrefl,mulɛ,mulɛ,m u l ɛ,"as reflexive marker, follows main verb and precedes object (= subject)",Barlow2024,,,^ m u l ɛ $,default,
+lote1237-1-312_shadowshade-1,,lote1237-1,312_shadowshade,mulil,mulil,m u l i l,,Barlow2024,,,^ m u l i l $,default,
+lote1237-1-313_mucussnot-1,,lote1237-1,313_mucussnot,muluta,muluta,m u l u t a,cf. /ulut/ ‘spit’,Barlow2024,,,^ m u l u t a $,default,"lɛ-k muluta (1sg), lɛ-m muluta (2sg), na muluta (3sg)"
+lote1237-1-314_blackdirty-1,,lote1237-1,314_blackdirty,muna,muna,m u n a,,Barlow2024,,,^ m u n a $,default,
+lote1237-1-315_pluralmarkerpl-1,,lote1237-1,315_pluralmarkerpl,mur,mur,m u r,postnominal,Barlow2024,,,^ m u r $,default,
+lote1237-1-316_full-1,,lote1237-1,316_full,muta,muta,m u t a,,Barlow2024,,,^ m u t a $,default,
+lote1237-1-317_tovomit-1,,lote1237-1,317_tovomit,mutmuta,mutmuta,m u t m u t a,reduplication?,Barlow2024,,,^ m u t m u t a $,default,
+lote1237-1-318_fog-1,,lote1237-1,318_fog,muxmua,muxmua,m u x m u a,,Barlow2024,,,^ m u x m u a $,default,
+lote1237-1-328_3sgpossessivesuffixhisherits3sgposs-1,,lote1237-1,328_3sgpossessivesuffixhisherits3sgposs,-na,-na,+ n a,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns); same form as the 3sg general possessive classifier,Barlow2024,,,^ - n a $,default,
+lote1237-1-325_generalpossessiveclassifier3sgpossgen3sg-1,,lote1237-1,325_generalpossessiveclassifier3sgpossgen3sg,na,na,n a,allomorph of /lɛ-/ for 3sg possessors; used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used with possessions that are not food- or drink-related; same form as the 3sg possessive suffix; also /nena/,Barlow2024,,,^ n a $,default,
+lote1237-1-321_nitlouseegg-1,,lote1237-1,321_nitlouseegg,nai,nai,n a i,same form as ‘two’,Barlow2024,,,^ n a i $,default,nai nena (3sg)
+lote1237-1-322_two2-1,,lote1237-1,322_two2,nai,nai,n a i,same form as ‘nit’,Barlow2024,,,^ n a i $,default,
+lote1237-1-323_tolooktosee-2,,lote1237-1,323_tolooktosee,nau,nau,n a u,also /ɛs/,Barlow2024,,,^ n a u $,default,nau-ɛ
+lote1237-1-324_wallaby-1,,lote1237-1,324_wallaby,neko,neko,n e k o,,Barlow2024,,,^ n e k o $,default,
+lote1237-1-325_generalpossessiveclassifier3sgpossgen3sg-2,,lote1237-1,325_generalpossessiveclassifier3sgpossgen3sg,nena,nena,n e n a,allomorph of /lɛ-/ for 3sg possessors; used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used with possessions that are not food- or drink-related; also /na/,Barlow2024,,,^ n e n a $,default,
+lote1237-1-326_thatwhichrelativizerrel-1,,lote1237-1,326_thatwhichrelativizerrel,neŋe,neŋe,n e ŋ e,,Barlow2024,,,^ n e ŋ e $,default,
+lote1237-1-327_if-1,,lote1237-1,327_if,neŋe teke,neŋe teke,n e ŋ e + t e k e,‘REL want’; also /teke/,Barlow2024,,,^ n e ŋ e + t e k e $,default,
+lote1237-1-328_3sgpossessivesuffixhisherits3sgposs-2,,lote1237-1,328_3sgpossessivesuffixhisherits3sgposs,-nɛ,-nɛ,+ n ɛ,allomorph of /-na/ for /ɛ/-final stems; nominal suffix in direct possession constructions (for inalienably possessed nouns),Barlow2024,,,^ - n ɛ $,default,
+lote1237-1-329_thisproximaldemonstrativeclosetospeaker-1,,lote1237-1,329_thisproximaldemonstrativeclosetospeaker,nɛi,nɛi,n ɛ i,,Barlow2024,,,^ n ɛ i $,default,
+lote1237-1-330_thatmedialdemonstrativeclosetohearer-1,,lote1237-1,330_thatmedialdemonstrativeclosetohearer,nɛm,nɛm,n ɛ m,,Barlow2024,,,^ n ɛ m $,default,
+lote1237-1-331_thatthatyonderdistaldemonstrativefarfrombothspeakerandhearer-1,,lote1237-1,331_thatthatyonderdistaldemonstrativefarfrombothspeakerandhearer,nɛu,nɛu,n ɛ u,,Barlow2024,,,^ n ɛ u $,default,
+lote1237-1-332_bird-1,,lote1237-1,332_bird,niɛ,niɛ,n i ɛ,,Barlow2024,,,^ n i ɛ $,default,
+lote1237-1-333_before-1,,lote1237-1,333_before,nike,nike,n i k e,,Barlow2024,,,^ n i k e $,default,
+lote1237-1-334_oldthing-1,,lote1237-1,334_oldthing,nikeŋana,nikeŋana,n i k e ŋ a n a,‘before-ADJ’; cf. /tuauna/ ‘old (person)’,Barlow2024,,,^ n i k e ŋ a n a $,default,
+lote1237-1-335_man-1,,lote1237-1,335_man,non,non,n o n,,Barlow2024,,,^ n o n $,default,
+lote1237-1-336_oldman-1,,lote1237-1,336_oldman,non tuaunaŋana,non tuaunaŋana,n o n + t u a u n a ŋ a n a,‘man old-ADJ’,Barlow2024,,,^ n o n + t u a u n a ŋ a n a $,default,
+lote1237-1-337_tohitwithastick-1,,lote1237-1,337_tohitwithastick,nos,nos,n o s,"cf. /pal/ ‘to hit, to beat, to strike’, /tamal/ ‘to throw (a stone); to hit, to pelt (as transitive)’",Barlow2024,,,^ n o s $,default,nos-ia
+lote1237-1-338_tobathe-1,,lote1237-1,338_tobathe,nun,nun,n u n,"cf. /lomɛ/ ‘to wash, to clean, to wipe’",Barlow2024,,,^ n u n $,default,"hɛ-nun-ɛ (causative, ‘to make bathe, to bathe [someone]’)"
+lote1237-1-339_inatonlocativeprepositionwithinstrumentalprepositionprep-1,,lote1237-1,339_inatonlocativeprepositionwithinstrumentalprepositionprep,ŋa,ŋa,ŋ a,same form as ‘soul’ and the nominalizing suffix; cf. /ŋe/,Barlow2024,,,^ ŋ a $,default,
+lote1237-1-340_nominalizingsuffix-1,,lote1237-1,340_nominalizingsuffix,-ŋa,-ŋa,+ ŋ a,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns); same form as ‘soul’ and the general preposition,Barlow2024,,,^ - ŋ a $,default,
+lote1237-1-341_soul-1,,lote1237-1,341_soul,ŋa-,ŋa-,ŋ a +,same form as the general preposition and the nominalizing suffix,Barlow2024,,,^ ŋ a - $,default,"ŋa-k (1sg), ŋa-m (2sg), ŋa-na (3sg)"
+lote1237-1-342_where-2,,lote1237-1,342_where,ŋai,ŋai,ŋ a i,also /la ŋai/,Barlow2024,,,^ ŋ a i $,default,
+lote1237-1-343_conch-1,,lote1237-1,343_conch,ŋalum,ŋalum,ŋ a l u m,,Barlow2024,,,^ ŋ a l u m $,default,
+lote1237-1-344_adjectivizingsuffix-1,,lote1237-1,344_adjectivizingsuffix,-ŋana,-ŋana,+ ŋ a n a,"suffix for descriptive words, which follow head nouns; probably < /-ŋa/ ‘NMLZ’ + /-na/ ‘3SG.POSS’",Barlow2024,,,^ - ŋ a n a $,default,
+lote1237-1-345_fruitberry-1,,lote1237-1,345_fruitberry,ŋanaŋa-,ŋanaŋa-,ŋ a n a ŋ a +,reduplication?,Barlow2024,,,^ ŋ a n a ŋ a - $,default,ŋanaŋa-na (3sg)
+lote1237-1-346_toeattoburnfireassubject-1,,lote1237-1,346_toeattoburnfireassubject,ŋau,ŋau,ŋ a u,"often [ŋao]; cf. /mak/ ‘to burn (person as subject), to cook (with fire)’, /rau/ ‘to burn (intransitive), to be on fire’ /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /toŋo/ ‘to light a fire, to ignite’",Barlow2024,,,^ ŋ a u $,default,"ŋau-a, ŋau~ŋau (reduplication); ŋau-ŋa (nominalization, ‘food’)"
+lote1237-1-347_food-1,,lote1237-1,347_food,ŋauŋa,ŋauŋa,ŋ a u ŋ a,‘eat-NMLZ’,Barlow2024,,,^ ŋ a u ŋ a $,default,
+lote1237-1-348_vinesplarge-1,,lote1237-1,348_vinesplarge,ŋautou,ŋautou,ŋ a u t o u,possibly /ŋaotou/,Barlow2024,,,^ ŋ a u t o u $,default,
+lote1237-1-349_inatonpersonalnameprepositionpreppnthancomparative-1,,lote1237-1,349_inatonpersonalnameprepositionpreppnthancomparative,ŋe,ŋe,ŋ e,a locative preposition used with personal names; a temporal preposition used with all kinds of objects; cf. /ŋa/,Barlow2024,,,^ ŋ e $,default,
+lote1237-1-350_yesterday-2,,lote1237-1,350_yesterday,ŋe lona,ŋe lona,ŋ e + l o n a,‘PREP yesterday’,Barlow2024,,,^ ŋ e + l o n a $,default,
+lote1237-1-355_when-1,,lote1237-1,355_when,ŋe ŋiŋiɛ,ŋe ŋiŋiɛ,ŋ e + ŋ i ŋ i ɛ,‘PREP when?’; also /ŋiŋiɛ/,Barlow2024,,,^ ŋ e + ŋ i ŋ i ɛ $,default,
+lote1237-1-444_tomorrow-1,,lote1237-1,444_tomorrow,ŋe rou,ŋe rou,ŋ e + r o u,‘PREP tomorrow’,Barlow2024,,,^ ŋ e + r o u $,default,
+lote1237-1-353_tosuckandchewsugarcane-1,,lote1237-1,353_tosuckandchewsugarcane,ŋɛs,ŋɛs,ŋ ɛ s,cf. /rira/ ‘to chew’,Barlow2024,,,^ ŋ ɛ s $,default,ŋɛs-ia
+lote1237-1-354_tooth-1,,lote1237-1,354_tooth,ŋiŋi-,ŋiŋi-,ŋ i ŋ i +,reduplication?,Barlow2024,,,^ ŋ i ŋ i - $,default,"ŋiŋi-k (1sg), ŋiŋi-m (2sg), ŋiŋi-na (3sg)"
+lote1237-1-355_when-2,,lote1237-1,355_when,ŋiŋiɛ,ŋiŋiɛ,ŋ i ŋ i ɛ,also /ŋe ŋiŋiɛ/,Barlow2024,,,^ ŋ i ŋ i ɛ $,default,
+lote1237-1-356_2sgsubjectprefix2sg-1,,lote1237-1,356_2sgsubjectprefix2sg,o-,o-,o +,verbal prefix; same form as ‘top’,Barlow2024,,,^ o - $,default,
+lote1237-1-357_topabove-1,,lote1237-1,357_topabove,o-,o-,o +,same form as the 2sg subject prefix; postnominal and with possessive marking can function with the meaning ‘above’,Barlow2024,,,^ o - $,default,o-na (3sg)
+lote1237-1-358_yes-1,,lote1237-1,358_yes,oe,oe,o e,,Barlow2024,,,^ o e $,default,
+lote1237-1-359_betelnutarecanuttpbuai-1,,lote1237-1,359_betelnutarecanuttpbuai,oio,oio,o i o,,Barlow2024,,,^ o i o $,default,
+lote1237-1-360_nowemphaticmarkeremph-1,,lote1237-1,360_nowemphaticmarkeremph,ol,ol,o l,same form as ‘to buy’,Barlow2024,,,^ o l $,default,
+lote1237-1-361_tobuy-1,,lote1237-1,361_tobuy,ol,ol,o l,same form as ‘now’,Barlow2024,,,^ o l $,default,ol-ia
+lote1237-1-362_lizard-1,,lote1237-1,362_lizard,ole,ole,o l e,,Barlow2024,,,^ o l e $,default,
+lote1237-1-363_tosqueezewetclothes-1,,lote1237-1,363_tosqueezewetclothes,olɛ,olɛ,o l ɛ,"possibly /ol-ɛ/; cf. /pip/ ‘to mash, to smash, to pound (banana), to squeeze (grated coconut)’",Barlow2024,,,^ o l ɛ $,default,
+lote1237-1-364_spiritdream-1,,lote1237-1,364_spiritdream,opɛ-,opɛ-,o p ɛ +,,Barlow2024,,,^ o p ɛ - $,default,"opɛ-m (2sg), opɛ-nɛ (3sg)"
+lote1237-1-365_paddle-1,,lote1237-1,365_paddle,oteŋa,oteŋa,o t e ŋ a,,Barlow2024,,,^ o t e ŋ a $,default,
+lote1237-1-366_mansmothersbrotherschildcrosscousin-1,,lote1237-1,366_mansmothersbrotherschildcrosscousin,paɛn,paɛn,p a ɛ n,,Barlow2024,,,^ p a ɛ n $,default,"lɛ-k paɛn (1sg), lɛ-m paɛn (2sg), na paɛn (3sg), nena paɛn (3sg)"
+lote1237-1-367_shellegofcoconutbetelnut-1,,lote1237-1,367_shellegofcoconutbetelnut,pai-,pai-,p a i +,,Barlow2024,,,^ p a i - $,default,"pai-na (3sg), pai-ria (3pl)"
+lote1237-1-368_mosquito-1,,lote1237-1,368_mosquito,painin,painin,p a i n i n,possibly related to /inin/ ‘pain’,Barlow2024,,,^ p a i n i n $,default,
+lote1237-1-369_coconut-1,,lote1237-1,369_coconut,paita,paita,p a i t a,possibly related to /pai-/ ‘shell’,Barlow2024,,,^ p a i t a $,default,
+lote1237-1-370_needlemadefromthebonesofflyingfoxes-1,,lote1237-1,370_needlemadefromthebonesofflyingfoxes,pakeka,pakeka,p a k e k a,,Barlow2024,,,^ p a k e k a $,default,
+lote1237-1-371_speartype-1,,lote1237-1,371_speartype,pakpaka,pakpaka,p a k p a k a,"cf. other types /kaliŋo/, /raliŋ/, and generic /io/",Barlow2024,,,^ p a k p a k a $,default,
+lote1237-1-372_tohittobeattostrike-1,,lote1237-1,372_tohittobeattostrike,pal,pal,p a l,"cf. /nos/ ‘to hit (with a stick)’, /tamal/ ‘to throw (a stone); to hit, to pelt (as transitive)’",Barlow2024,,,^ p a l $,default,pal-ia
+lote1237-1-373_knee-1,,lote1237-1,373_knee,pala-,pala-,p a l a +,,Barlow2024,,,^ p a l a - $,default,"pala-k (1sg), pala-m (2sg) pala-na (3sg)"
+lote1237-1-481_big-1,,lote1237-1,481_big,palau,palau,p a l a u,also /soke/,Barlow2024,,,^ p a l a u $,default,palau-ŋana
+lote1237-1-375_tofight-1,,lote1237-1,375_tofight,palhɛl,palhɛl,p a l h ɛ l,reciprocal form of /pal/ ‘to hit’,Barlow2024,,,^ p a l h ɛ l $,default,
+lote1237-1-376_head-1,,lote1237-1,376_head,palpal-,palpal-,p a l p a l +,,Barlow2024,,,^ p a l p a l - $,default,"palpal-uk (1sg), palpal-um (2sg), palpan-na (3sg)"
+lote1237-1-377_hairofthehead-1,,lote1237-1,377_hairofthehead,palpal- ina,palpal- ina,p a l p a l + + i n a,‘head-POSS leaf-3SG’,Barlow2024,,,^ p a l p a l - + i n a $,default,"palpal-uk i-na (1sg), palpal-um i-na (2sg), palpan-na i-na (3sg)"
+lote1237-1-378_wideopentoopen-1,,lote1237-1,378_wideopentoopen,paŋpaŋa,paŋpaŋa,p a ŋ p a ŋ a,possibly /paŋpaŋ-a/; reduplication?,Barlow2024,,,^ p a ŋ p a ŋ a $,default,
+lote1237-1-379_chicken-1,,lote1237-1,379_chicken,pareo,pareo,p a r e o,,Barlow2024,,,^ p a r e o $,default,
+lote1237-1-380_toswim-1,,lote1237-1,380_toswim,pasu,pasu,p a s u,cf. /mana/ ‘to float; to swim (of animals)’,Barlow2024,,,^ p a s u $,default,
+lote1237-1-381_backofthebody-1,,lote1237-1,381_backofthebody,pataŋa-,pataŋa-,p a t a ŋ a +,,Barlow2024,,,^ p a t a ŋ a - $,default,"pataŋa-k (1sg), pataŋa-m (2sg), pataŋa-na (3sg)"
+lote1237-1-382_vegetablesptpaibika-1,,lote1237-1,382_vegetablesptpaibika,pau,pau,p a u,,Barlow2024,,,^ p a u $,default,
+lote1237-1-383_andcoordinatingconjunctionwhensimultaneousactionconj-1,,lote1237-1,383_andcoordinatingconjunctionwhensimultaneousactionconj,pe,pe,p e,same form as the abbreviated irrealis marker,Barlow2024,,,^ p e $,default,
+lote1237-1-384_irrealismarkerirr-2,,lote1237-1,384_irrealismarkerirr,pe,pe,p e,preverbal; abbreviated form of /lape/; same form as ‘and’,Barlow2024,,,^ p e $,default,
+lote1237-1-385_sandbeach-1,,lote1237-1,385_sandbeach,peipei,peipei,p e i p e i,reduplication?,Barlow2024,,,^ p e i p e i $,default,
+lote1237-1-386_house-1,,lote1237-1,386_house,pɛle,pɛle,p ɛ l e,,Barlow2024,,,^ p ɛ l e $,default,
+lote1237-1-387_floor-1,,lote1237-1,387_floor,pɛle lete-,pɛle lete-,p ɛ l e + l e t e +,‘house inside-POSS’,Barlow2024,,,^ p ɛ l e + l e t e - $,default,pɛle lete-na (3sg)
+lote1237-1-388_roof-1,,lote1237-1,388_roof,pɛle o-,pɛle o-,p ɛ l e + o +,‘house top-POSS’,Barlow2024,,,^ p ɛ l e + o - $,default,"pɛle o-na (3sg), pɛle o-ria (3pl)"
+lote1237-1-389_elbowofthearm-1,,lote1237-1,389_elbowofthearm,pɛn- ana poŋe,pɛn- ana poŋe,p ɛ n + + a n a + p o ŋ e,‘arm-POSS POSS.ED?-3SG elbow’,Barlow2024,,,^ p ɛ n - + a n a + p o ŋ e $,default,pɛn-na ana poŋe (3sg)
+lote1237-1-390_straight-1,,lote1237-1,390_straight,pɛŋpɛŋ,pɛŋpɛŋ,p ɛ ŋ p ɛ ŋ,reduplication?,Barlow2024,,,^ p ɛ ŋ p ɛ ŋ $,default,
+lote1237-1-391_armhandbranch-1,,lote1237-1,391_armhandbranch,pɛr-,pɛr-,p ɛ r +,,Barlow2024,,,^ p ɛ r - $,default,"pɛr-ik (1sg), pɛr-im (2sg), pɛn-na (3sg); pɛr~pɛr-na (plural, 3sg)"
+lote1237-1-392_finger-1,,lote1237-1,392_finger,pɛr- kukana,pɛr- kukana,p ɛ r + + k u k a n a,‘hand-POSS digit-3SG’,Barlow2024,,,^ p ɛ r - + k u k a n a $,default,"pɛr-ik kuka-na (1sg), pɛr-im kuka-na (2sg), pɛn-na kuka-na (3sg)"
+lote1237-1-393_fingernail-1,,lote1237-1,393_fingernail,pɛr- tuaulina,pɛr- tuaulina,p ɛ r + + t u a u l i n a,‘hand-POSS nail-3SG’,Barlow2024,,,^ p ɛ r - + t u a u l i n a $,default,"pɛr-ik tuauli-na (1sg), pɛr-im tuauli-na (2sg), pɛn-na tuauli-na (3sg)"
+lote1237-1-394_branchesplural-1,,lote1237-1,394_branchesplural,pɛrpɛr-,pɛrpɛr-,p ɛ r p ɛ r +,"reduplicative plural of /pɛr-/ ‘arm, hand; branch’",Barlow2024,,,^ p ɛ r p ɛ r - $,default,pɛrpɛr-na (3sg)
+lote1237-1-395_tosing-1,,lote1237-1,395_tosing,pɛu,pɛu,p ɛ u,,Barlow2024,,,^ p ɛ u $,default,
+lote1237-1-396_flyingfoxbat-1,,lote1237-1,396_flyingfoxbat,piaŋa,piaŋa,p i a ŋ a,,Barlow2024,,,^ p i a ŋ a $,default,
+lote1237-1-397_fernsp-1,,lote1237-1,397_fernsp,pilɛm,pilɛm,p i l ɛ m,,Barlow2024,,,^ p i l ɛ m $,default,
+lote1237-1-398_tomashtosmashtopoundbananatosqueezegratedcoconut-1,,lote1237-1,398_tomashtosmashtopoundbananatosqueezegratedcoconut,pip,pip,p i p,cf. /olɛ/ ‘to squeeze (wet clothes)’,Barlow2024,,,^ p i p $,default,pip-ia
+lote1237-1-399_rain-1,,lote1237-1,399_rain,pitte,pitte,p i tː e,,Barlow2024,,,^ p i tt e $,default,
+lote1237-1-401_toclose-1,,lote1237-1,401_toclose,piu,piu,p i u,also /piu hɛlɛ/,Barlow2024,,,^ p i u $,default,"piu-ŋa (nominalization, ‘door’)"
+lote1237-1-401_toclose-2,,lote1237-1,401_toclose,piu hɛlɛ,piu hɛlɛ,p i u + h ɛ l ɛ,possibly ‘close break.in.pieces’,Barlow2024,,,^ p i u + h ɛ l ɛ $,default,
+lote1237-1-402_door-1,,lote1237-1,402_door,piuŋa,piuŋa,p i u ŋ a,‘close-NMLZ’,Barlow2024,,,^ p i u ŋ a $,default,
+lote1237-1-403_todotomake-1,,lote1237-1,403_todotomake,po,po,p o,"cf. /lelɛ/ ‘to build’, /umɛ/ ‘to work, to build’",Barlow2024,,,^ p o $,default,
+lote1237-1-404_arecoidpalmsptplimbum-2,,lote1237-1,404_arecoidpalmsptplimbum,pola,pola,p o l a,"cf. /lapia/, a different species",Barlow2024,,,^ p o l a $,default,
+lote1237-1-405_hole-1,,lote1237-1,405_hole,polo,polo,p o l o,,Barlow2024,,,^ p o l o $,default,
+lote1237-1-406_lightnotheavy-1,,lote1237-1,406_lightnotheavy,polpoleŋa,polpoleŋa,p o l p o l e ŋ a,reduplication?,Barlow2024,,,^ p o l p o l e ŋ a $,default,
+lote1237-1-484_empty-1,,lote1237-1,484_empty,polpolo,polpolo,p o l p o l o,reduplicated form of /polo/ ‘hole’?; also /soso/,Barlow2024,,,^ p o l p o l o $,default,
+lote1237-1-292_howwhy-2,,lote1237-1,292_howwhy,pomɛre,pomɛre,p o m ɛ r e,also /mɛre/,Barlow2024,,,^ p o m ɛ r e $,default,
+lote1237-1-409_elbow-1,,lote1237-1,409_elbow,poŋe,poŋe,p o ŋ e,,Barlow2024,,,^ p o ŋ e $,default,
+lote1237-1-410_butterfly-1,,lote1237-1,410_butterfly,popo,popo,p o p o,reduplication?; same form as ‘papaya’,Barlow2024,,,^ p o p o $,default,
+lote1237-1-411_papaya-1,,lote1237-1,411_papaya,popo,popo,p o p o,borrowed from Tok Pisin; same form as ‘butterfly’,Barlow2024,,,^ p o p o $,default,
+lote1237-1-412_bad-1,,lote1237-1,412_bad,poreke,poreke,p o r e k e,,Barlow2024,,,^ p o r e k e $,default,
+lote1237-1-413_tobacco-1,,lote1237-1,413_tobacco,pos,pos,p o s,,Barlow2024,,,^ p o s $,default,
+lote1237-1-414_todowhatwhy-1,,lote1237-1,414_todowhatwhy,potar,potar,p o t a r,< /po/ ‘to do’ + /utar/ ‘what?’,Barlow2024,,,^ p o t a r $,default,po-ta~tar (reduplication for emphasis or durative marking?)
+lote1237-1-415_topush-1,,lote1237-1,415_topush,puɛ,puɛ,p u ɛ,,Barlow2024,,,^ p u ɛ $,default,
+lote1237-1-416_alsotoo-1,,lote1237-1,416_alsotoo,pule,pule,p u l e,,Barlow2024,,,^ p u l e $,default,
+lote1237-1-417_hairbodyhairfeather-1,,lote1237-1,417_hairbodyhairfeather,pulpul-,pulpul-,p u l p u l +,cf. /in-/ ‘leaf; hair (of the head)’,Barlow2024,,,^ p u l p u l - $,default,"pulpun-na (3sg), pulpur-ria (3pl)"
+lote1237-1-418_smoke-1,,lote1237-1,418_smoke,puluŋa-,puluŋa-,p u l u ŋ a +,,Barlow2024,,,^ p u l u ŋ a - $,default,"puluŋa-na (3sg), puluŋa-ria (3pl)"
+lote1237-1-419_toswell-1,,lote1237-1,419_toswell,puna,puna,p u n a,,Barlow2024,,,^ p u n a $,default,
+lote1237-1-420_ripe-1,,lote1237-1,420_ripe,punpun,punpun,p u n p u n,,Barlow2024,,,^ p u n p u n $,default,
+lote1237-1-421_1plinclpossessivesuffixour1plinclposs-1,,lote1237-1,421_1plinclpossessivesuffixour1plinclposs,-ra,-ra,+ r a,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns),Barlow2024,,,^ - r a $,default,
+lote1237-1-422_tohold-1,,lote1237-1,422_tohold,raita,raita,r a i t a,"cf. /mɛnɛ/ ‘to take, to get, to carry (in the hand), to hold’",Barlow2024,,,^ r a i t a $,default,rait-ɛ
+lote1237-1-423_rattancanetpkanda-1,,lote1237-1,423_rattancanetpkanda,rale,rale,r a l e,,Barlow2024,,,^ r a l e $,default,
+lote1237-1-424_spearusedinfestivalstraditionaldances-1,,lote1237-1,424_spearusedinfestivalstraditionaldances,raliŋ,raliŋ,r a l i ŋ,"cf. other types /kaliŋo/, /pakpaka/, and generic /io/",Barlow2024,,,^ r a l i ŋ $,default,
+lote1237-1-425_tocarveacanoe-1,,lote1237-1,425_tocarveacanoe,raluɛ,raluɛ,r a l u ɛ,possibly /ralu-ɛ/; cf. /les/ ‘to carve’,Barlow2024,,,^ r a l u ɛ $,default,
+lote1237-1-426_foreheadface-1,,lote1237-1,426_foreheadface,rama-,rama-,r a m a +,,Barlow2024,,,^ r a m a - $,default,"rama-l (1sg), rama-m (2sg), rama-na (3sg)"
+lote1237-1-427_green-1,,lote1237-1,427_green,raŋraŋ,raŋraŋ,r a ŋ r a ŋ,reduplication?,Barlow2024,,,^ r a ŋ r a ŋ $,default,
+lote1237-1-428_aroundabout-1,,lote1237-1,428_aroundabout,rara,rara,r a r a,reduplication?,Barlow2024,,,^ r a r a $,default,
+lote1237-1-429_plususedwiththemorphemesonetwothreeandfourintheformationofsixseveneightandnine-1,,lote1237-1,429_plususedwiththemorphemesonetwothreeandfourintheformationofsixseveneightandnine,ratɛle,ratɛle,r a t ɛ l e,"used with the morphemes ‘one’, ‘two’, ‘three’, and ‘four’ in the formation of ‘six’, ‘seven’, ‘eight’, and ‘nine’",Barlow2024,,,^ r a t ɛ l e $,default,
+lote1237-1-430_six6-1,,lote1237-1,430_six6,ratɛle ɛllɛ,ratɛle ɛllɛ,r a t ɛ l e + ɛ lː ɛ,‘[five] plus one’; cf. /lɛisinɛ pe nai/ ‘six (counting in fours)’,Barlow2024,,,^ r a t ɛ l e + ɛ ll ɛ $,default,
+lote1237-1-431_nine9-1,,lote1237-1,431_nine9,ratɛle hɛnɛl,ratɛle hɛnɛl,r a t ɛ l e + h ɛ n ɛ l,‘[five] plus four’; cf. /lɛisinɛ nai pe ɛllɛ/ ‘nine (counting in fours)’,Barlow2024,,,^ r a t ɛ l e + h ɛ n ɛ l $,default,
+lote1237-1-432_eight8-1,,lote1237-1,432_eight8,ratɛle mol,ratɛle mol,r a t ɛ l e + m o l,‘[five] plus three’; cf. /lɛisinɛ nai/ ~ /lɛisinɛ iri nai/ ‘eight (counting in fours)’,Barlow2024,,,^ r a t ɛ l e + m o l $,default,
+lote1237-1-433_seven7-1,,lote1237-1,433_seven7,ratɛle nai,ratɛle nai,r a t ɛ l e + n a i,‘[five] plus two’; cf. /lɛisinɛ pe mol/ ‘seven (counting in fours)’,Barlow2024,,,^ r a t ɛ l e + n a i $,default,
+lote1237-1-434_toburnintransitivetobeonfire-1,,lote1237-1,434_toburnintransitivetobeonfire,rau,rau,r a u,"cf. /mak/ ‘to burn (person as subject), to cook (with fire)’, /ŋau/ ‘to eat; to burn (fire as subject)’, /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /toŋo/ ‘to light a fire, to ignite’",Barlow2024,,,^ r a u $,default,
+lote1237-1-435_crayfish-1,,lote1237-1,435_crayfish,rerɛ,rerɛ,r e r ɛ,,Barlow2024,,,^ r e r ɛ $,default,
+lote1237-1-436_tosplit-1,,lote1237-1,436_tosplit,rex,rex,r e x,,Barlow2024,,,^ r e x $,default,rex-ia
+lote1237-1-437_tolightoffiretoburntoignite-1,,lote1237-1,437_tolightoffiretoburntoignite,rɛmɛn,rɛmɛn,r ɛ m ɛ n,"cf. /toŋo/ ‘to light a fire, to ignite’, /mak/ ‘to burn (person as subject), to cook (with fire)’, /rau/ ‘to burn (intransitive), to be on fire’, /ŋau/ ‘to eat; to burn (fire as subject)’",Barlow2024,,,^ r ɛ m ɛ n $,default,
+lote1237-1-438_red-1,,lote1237-1,438_red,rɛmɛnmɛn,rɛmɛnmɛn,r ɛ m ɛ n m ɛ n,reduplication?,Barlow2024,,,^ r ɛ m ɛ n m ɛ n $,default,
+lote1237-1-439_3plpossessivesuffixtheir3plposs-1,,lote1237-1,439_3plpossessivesuffixtheir3plposs,-ria,-ria,+ r i a,nominal suffix in direct possession constructions (for inalienably possessed nouns); follows possessive classifiers in indirect possession constructions (for alienably possessed nouns),Barlow2024,,,^ - r i a $,default,
+lote1237-1-529_tocuttoslice-1,,lote1237-1,529_tocuttoslice,rir,rir,r i r,"cf. /tot/ ‘to cut, to slice’, /lik/ ‘to cut, to hack, to chop’, /tel/ ‘to cut, to fell a tree’, /ut/ ‘to cut’",Barlow2024,,,^ r i r $,default,rir-ia
+lote1237-1-441_tochew-1,,lote1237-1,441_tochew,rira,rira,r i r a,cf. /ŋɛs/ ‘to suck and chew (sugarcane)’,Barlow2024,,,^ r i r a $,default,rir-ɛ
+lote1237-1-442_sky-1,,lote1237-1,442_sky,ririua,ririua,r i r i u a,,Barlow2024,,,^ r i r i u a $,default,
+lote1237-1-443_solidhard-1,,lote1237-1,443_solidhard,rol,rol,r o l,,Barlow2024,,,^ r o l $,default,
+lote1237-1-444_tomorrow-2,,lote1237-1,444_tomorrow,rou,rou,r o u,also /ŋe rou/,Barlow2024,,,^ r o u $,default,
+lote1237-1-445_nearclose-1,,lote1237-1,445_nearclose,roxroi,roxroi,r o x r o i,,Barlow2024,,,^ r o x r o i $,default,
+lote1237-1-446_seaocean-1,,lote1237-1,446_seaocean,ruax,ruax,r u a x,,Barlow2024,,,^ r u a x $,default,
+lote1237-1-447_rough-1,,lote1237-1,447_rough,rukrɛk,rukrɛk,r u k r ɛ k,,Barlow2024,,,^ r u k r ɛ k $,default,
+lote1237-1-448_fish-1,,lote1237-1,448_fish,ruo,ruo,r u o,,Barlow2024,,,^ r u o $,default,
+lote1237-1-449_ropevinespsmall-1,,lote1237-1,449_ropevinespsmall,rur,rur,r u r,,Barlow2024,,,^ r u r $,default,
+lote1237-1-450_tohunt-1,,lote1237-1,450_tohunt,rurum,rurum,r u r u m,reduplication?,Barlow2024,,,^ r u r u m $,default,
+lote1237-1-451_bellystomach-1,,lote1237-1,451_bellystomach,sa-,sa-,s a +,,Barlow2024,,,^ s a - $,default,"sa-k (1sg), sa-m (2sg), sa-na (3sg)"
+lote1237-1-452_wing-1,,lote1237-1,452_wing,saha-,saha-,s a h a +,,Barlow2024,,,^ s a h a - $,default,"saha-na (3sg), saha-ria (3pl)"
+lote1237-1-453_swamp-1,,lote1237-1,453_swamp,saka,saka,s a k a,same form as ‘to smell’,Barlow2024,,,^ s a k a $,default,
+lote1237-1-454_tosmellintransitivetobesmellytobestinky-1,,lote1237-1,454_tosmellintransitivetobesmellytobestinky,saka,saka,s a k a,"same form as ‘swamp’; cf. /sɛkɛ/ ‘to smell, to sniff (transitive)’, with which it likely has a relationship",Barlow2024,,,^ s a k a $,default,
+lote1237-1-455_oyster-1,,lote1237-1,455_oyster,sakɛn,sakɛn,s a k ɛ n,,Barlow2024,,,^ s a k ɛ n $,default,
+lote1237-1-456_hornspikesonalizard-1,,lote1237-1,456_hornspikesonalizard,saŋkar,saŋkar,s a ŋ k a r,[saŋgar],Barlow2024,,,^ s a ŋ k a r $,default,
+lote1237-1-457_togratecoconut-1,,lote1237-1,457_togratecoconut,sasal,sasal,s a s a l,reduplication?,Barlow2024,,,^ s a s a l $,default,sasal-ia
+lote1237-1-458_smooth-2,,lote1237-1,458_smooth,sasanix,sasanix,s a s a n i x,reduplication?; also /lelemo/,Barlow2024,,,^ s a s a n i x $,default,
+lote1237-1-459_long-1,,lote1237-1,459_long,sase,sase,s a s e,,Barlow2024,,,^ s a s e $,default,
+lote1237-1-460_tothrow-1,,lote1237-1,460_tothrow,sau,sau,s a u,"cf. /tamal/ ‘to throw (a stone); to hit, to pelt (as transitive)’",Barlow2024,,,^ s a u $,default,sau-a
+lote1237-1-461_slipperyoily-1,,lote1237-1,461_slipperyoily,sesereŋa,sesereŋa,s e s e r e ŋ a,reduplication?,Barlow2024,,,^ s e s e r e ŋ a $,default,
+lote1237-1-462_tosmelltransitivetosniff-1,,lote1237-1,462_tosmelltransitivetosniff,sɛkɛ,sɛkɛ,s ɛ k ɛ,"possibly /sɛk-ɛ/; cf. /saka/ ‘to smell (intransitive), to be smelly, to be stinky’, with which it likely has a relationship",Barlow2024,,,^ s ɛ k ɛ $,default,
+lote1237-1-463_todig-1,,lote1237-1,463_todig,sɛl,sɛl,s ɛ l,,Barlow2024,,,^ s ɛ l $,default,sɛl-ia
+lote1237-1-464_axe-1,,lote1237-1,464_axe,sɛlɛmpo,sɛlɛmpo,s ɛ l ɛ m p o,[sɛlɛmbo],Barlow2024,,,^ s ɛ l ɛ m p o $,default,
+lote1237-1-465_sling-1,,lote1237-1,465_sling,sɛpɛ,sɛpɛ,s ɛ p ɛ,,Barlow2024,,,^ s ɛ p ɛ $,default,
+lote1237-1-466_toshootwithasling-1,,lote1237-1,466_toshootwithasling,sɛpɛia,sɛpɛia,s ɛ p ɛ i a,"transitive verbal form of /sɛpɛ/ ‘sling’; cf. /tu/ ‘to shoot, to stab, to pierce, to stick’",Barlow2024,,,^ s ɛ p ɛ i a $,default,
+lote1237-1-467_narrow-1,,lote1237-1,467_narrow,sɛrir,sɛrir,s ɛ r i r,,Barlow2024,,,^ s ɛ r i r $,default,
+lote1237-1-468_tocatch-2,,lote1237-1,468_tocatch,sihɛ,sihɛ,s i h ɛ,possibly /sih-ɛ/; also /lau/,Barlow2024,,,^ s i h ɛ $,default,
+lote1237-1-469_mirror-1,,lote1237-1,469_mirror,siloŋa,siloŋa,s i l o ŋ a,possibly a nominalized form of something,Barlow2024,,,^ s i l o ŋ a $,default,
+lote1237-1-470_possum-1,,lote1237-1,470_possum,silox,silox,s i l o x,,Barlow2024,,,^ s i l o x $,default,
+lote1237-1-471_tosew-1,,lote1237-1,471_tosew,sima,sima,s i m a,cf. /man/ ‘to weave’,Barlow2024,,,^ s i m a $,default,sim-ɛ
+lote1237-1-472_daydaytime-1,,lote1237-1,472_daydaytime,sinaŋa,sinaŋa,s i n a ŋ a,possibly a nominalized form of something; cf. /ɛtuɛ/ ‘day (countable)’,Barlow2024,,,^ s i n a ŋ a $,default,
+lote1237-1-473_skinbody-1,,lote1237-1,473_skinbody,siŋi-,siŋi-,s i ŋ i +,also /uli-/ ‘skin’,Barlow2024,,,^ s i ŋ i - $,default,"siŋi-k (1sg), siŋi-na (3sg), siŋi-ria (3pl)"
+lote1237-1-474_downlowtogodowntodescendtofall-1,,lote1237-1,474_downlowtogodowntodescendtofall,sio,sio,s i o,cf. /losio/ ‘to fall down’,Barlow2024,,,^ s i o $,default,
+lote1237-1-475_betelpeppertpdaka-1,,lote1237-1,475_betelpeppertpdaka,sipe,sipe,s i p e,,Barlow2024,,,^ s i p e $,default,
+lote1237-1-476_womansmothersbrotherunclemanssistersdaughterniece-1,,lote1237-1,476_womansmothersbrotherunclemanssistersdaughterniece,sipu-,sipu-,s i p u +,,Barlow2024,,,^ s i p u - $,default,"sipu-k (1sg), sipu-m (2sg), sipu-na (3sg)"
+lote1237-1-477_tocount-1,,lote1237-1,477_tocount,sisɛlɛ,sisɛlɛ,s i s ɛ l ɛ,possibly /sisɛl-ɛ/,Barlow2024,,,^ s i s ɛ l ɛ $,default,
+lote1237-1-478_urine-1,,lote1237-1,478_urine,sisil,sisil,s i s i l,reduplication?,Barlow2024,,,^ s i s i l $,default,"sisil ŋa-k (1sg), sisil ŋa-m (2sg), sisil ŋa-na (3sg)"
+lote1237-1-479_breastbreasts-1,,lote1237-1,479_breastbreasts,siu-,siu-,s i u +,same form as ‘to suckle’,Barlow2024,,,^ s i u - $,default,"siu-k (1sg), siu-m (2sg), siu-na (3sg)"
+lote1237-1-480_tosucktosuckleabreasttonurse-1,,lote1237-1,480_tosucktosuckleabreasttonurse,siu,siu,s i u,same form as ‘breast’ (zero derivation from the noun),Barlow2024,,,^ s i u $,default,"hɛ-siu-a (causative, ‘to make suckle; to nurse [a child]’)"
+lote1237-1-481_big-2,,lote1237-1,481_big,soke,soke,s o k e,also /palau/,Barlow2024,,,^ s o k e $,default,
+lote1237-1-482_year-1,,lote1237-1,482_year,soksoko,soksoko,s o k s o k o,reduplication?,Barlow2024,,,^ s o k s o k o $,default,
+lote1237-1-483_torun-1,,lote1237-1,483_torun,soŋ,soŋ,s o ŋ,,Barlow2024,,,^ s o ŋ $,default,
+lote1237-1-484_empty-2,,lote1237-1,484_empty,soso,soso,s o s o,reduplication?; also /polpolo/,Barlow2024,,,^ s o s o $,default,
+lote1237-1-485_topeel-1,,lote1237-1,485_topeel,sox,sox,s o x,,Barlow2024,,,^ s o x $,default,sox-ia
+lote1237-1-486_smalllittlealittle-1,,lote1237-1,486_smalllittlealittle,sune,sune,s u n e,"cf. /unne/ ‘a little’, /tuna/, ‘small, little (thing)’, /kino/ ‘small, little (person)’",Barlow2024,,,^ s u n e $,default,
+lote1237-1-487_1plinclsubjectprefix1plincl-1,,lote1237-1,487_1plinclsubjectprefix1plincl,ta-,ta-,t a +,verbal prefix; same form as ‘mother’,Barlow2024,,,^ t a - $,default,
+lote1237-1-488_motherparentssisterauntmothersbrotherswifeaunt-1,,lote1237-1,488_motherparentssisterauntmothersbrotherswifeaunt,ta-,ta-,t a +,same form as the 1pl.incl subject prefix,Barlow2024,,,^ t a - $,default,"ɛ-ta-k (1sg), ta-m (2sg), ta-na (3sg)"
+lote1237-1-489_parentsyoungersisteraunt-1,,lote1237-1,489_parentsyoungersisteraunt,ta- kino,ta- kino,t a + + k i n o,‘mother-POSS small’,Barlow2024,,,^ t a - + k i n o $,default,ɛ-ta-k kino (1sg)
+lote1237-1-490_parentsoldersisteraunt-1,,lote1237-1,490_parentsoldersisteraunt,ta- palau,ta- palau,t a + + p a l a u,‘mother-POSS big’,Barlow2024,,,^ t a - + p a l a u $,default,ɛ-ta-k palau (1sg)
+lote1237-1-491_chin-1,,lote1237-1,491_chin,tae-,tae-,t a e +,,Barlow2024,,,^ t a e - $,default,"tae-k (1sg), tae-m (2sg), tae-na (3sg)"
+lote1237-1-496_topull-1,,lote1237-1,496_topull,tak,tak,t a k,also /takuɛ/,Barlow2024,,,^ t a k $,default,
+lote1237-1-493_tobreathe-1,,lote1237-1,493_tobreathe,tak ɛiŋa-,tak ɛiŋa-,t a k + ɛ i ŋ a +,‘pull breath-POSS’,Barlow2024,,,^ t a k + ɛ i ŋ a - $,default,"tak ɛiŋa-m (2sg), tak ɛiŋa-na (3sg)"
+lote1237-1-494_tocarryontheshoulder-1,,lote1237-1,494_tocarryontheshoulder,takis,takis,t a k i s,"cf. /urɛ/ ‘to carry (on the head)’, /mɛnɛ/ ‘to take, to get, to carry (in the hand), to hold’",Barlow2024,,,^ t a k i s $,default,takis-ia
+lote1237-1-495_thatch-1,,lote1237-1,495_thatch,tako,tako,t a k o,,Barlow2024,,,^ t a k o $,default,
+lote1237-1-496_topull-2,,lote1237-1,496_topull,takuɛ,takuɛ,t a k u ɛ,possibly /taku-ɛ/; compound of /tak/ ‘to pull’ + /u/ ‘?’,Barlow2024,,,^ t a k u ɛ $,default,
+lote1237-1-497_toput-1,,lote1237-1,497_toput,tal,tal,t a l,,Barlow2024,,,^ t a l $,default,
+lote1237-1-498_tohide-1,,lote1237-1,498_tohide,tal kome,tal kome,t a l + k o m e,‘put hiding’,Barlow2024,,,^ t a l + k o m e $,default,tal kom-ɛ (transitive)
+lote1237-1-499_ear-1,,lote1237-1,499_ear,talŋa-,talŋa-,t a l ŋ a +,,Barlow2024,,,^ t a l ŋ a - $,default,"talŋa-k (1sg), talŋa-m (2sg), talŋa-na (3sg)"
+lote1237-1-500_tothrowastonetohittopeltastransitive-1,,lote1237-1,500_tothrowastonetohittopeltastransitive,tamal,tamal,t a m a l,"cf. /sau/ ‘to throw’; cf. /pal/ ‘to hit, to beat, to strike’, /nos/ ‘to hit (with a stick)’",Barlow2024,,,^ t a m a l $,default,tamal-ia
+lote1237-1-501_rightnotleft-1,,lote1237-1,501_rightnotleft,tamalmal,tamalmal,t a m a l m a l,reduplication of /tamal/ ‘to throw’,Barlow2024,,,^ t a m a l m a l $,default,
+lote1237-1-502_male-1,,lote1237-1,502_male,tamane,tamane,t a m a n e,,Barlow2024,,,^ t a m a n e $,default,
+lote1237-1-503_tocrytoweep-1,,lote1237-1,503_tocrytoweep,taŋ,taŋ,t a ŋ,,Barlow2024,,,^ t a ŋ $,default,taŋ-ia
+lote1237-1-504_tosearchfortoseek-1,,lote1237-1,504_tosearchfortoseek,taŋo,taŋo,t a ŋ o,,Barlow2024,,,^ t a ŋ o $,default,
+lote1237-1-505_cassowarytpmuruk-1,,lote1237-1,505_cassowarytpmuruk,tapo,tapo,t a p o,,Barlow2024,,,^ t a p o $,default,
+lote1237-1-577_what-1,,lote1237-1,577_what,tar,tar,t a r,abbreviated form of /utar/,Barlow2024,,,^ t a r $,default,
+lote1237-1-507_3plsubjectprefix3pl-1,,lote1237-1,507_3plsubjectprefix3pl,te-,te-,t e +,verbal prefix; also used for 3sg taboo relations,Barlow2024,,,^ t e - $,default,
+lote1237-1-508_towantvolitiveverbifconjunction-1,,lote1237-1,508_towantvolitiveverbifconjunction,teke,teke,t e k e,also /neŋe teke/ ‘if’,Barlow2024,,,^ t e k e $,default,
+lote1237-1-509_tocuttofellatree-1,,lote1237-1,509_tocuttofellatree,tel,tel,t e l,"cf. /lik/ ‘to cut, to hack, to chop’, /rir/ ‘to cut, to slice’, /tot/ ‘to cut, to slice’, /ut/ ‘to cut’",Barlow2024,,,^ t e l $,default,tel-ɛ
+lote1237-1-510_insidetogointogoinsidetoenter-1,,lote1237-1,510_insidetogointogoinsidetoenter,teu,teu,t e u,cf. /lete-/ ‘inside’,Barlow2024,,,^ t e u $,default,teu-a
+lote1237-1-511_grandparentgrandchildhusbandsparentmotherinlawfatherinlaworgrandparentwifesgrandparentsonswifedaughterinlawmanssisterssonswife-1,,lote1237-1,511_grandparentgrandchildhusbandsparentmotherinlawfatherinlaworgrandparentwifesgrandparentsonswifedaughterinlawmanssisterssonswife,tɛ,tɛ,t ɛ,,Barlow2024,,,^ t ɛ $,default,"lɛ-k tɛ (1sg), lɛ-m tɛ (2sg), nɛ tɛ (3sg)"
+lote1237-1-512_grandmothergranddaughter-1,,lote1237-1,512_grandmothergranddaughter,tɛ neŋe hɛi,tɛ neŋe hɛi,t ɛ + n e ŋ e + h ɛ i,‘grandparent/child-POSS REL female’,Barlow2024,,,^ t ɛ + n e ŋ e + h ɛ i $,default,tɛ-k neŋe hɛi (1sg)
+lote1237-1-513_grandfathergrandson-1,,lote1237-1,513_grandfathergrandson,tɛ neŋe tamane,tɛ neŋe tamane,t ɛ + n e ŋ e + t a m a n e,‘grandparent/child-POSS REL male’,Barlow2024,,,^ t ɛ + n e ŋ e + t a m a n e $,default,tɛ-k neŋe tamane (1sg)
+lote1237-1-514_greatgrandparentandthoseofoldergenerations-1,,lote1237-1,514_greatgrandparentandthoseofoldergenerations,tɛ palau,tɛ palau,t ɛ + p a l a u,‘grandparent big’,Barlow2024,,,^ t ɛ + p a l a u $,default,"lɛ-k tɛ palau (1sg), lɛ-k tɛ palau-ŋana (1sg)"
+lote1237-1-515_excrementfecesrefuseofbetelnut-1,,lote1237-1,515_excrementfecesrefuseofbetelnut,tɛe-,tɛe-,t ɛ e +,,Barlow2024,,,^ t ɛ e - $,default,"tɛe-k (1sg), tɛe-m (2sg), tɛe-na (3sg)"
+lote1237-1-516_moonmonth-1,,lote1237-1,516_moonmonth,tɛio,tɛio,t ɛ i o,,Barlow2024,,,^ t ɛ i o $,default,
+lote1237-1-517_tostraighten-1,,lote1237-1,517_tostraighten,tɛkɛ,tɛkɛ,t ɛ k ɛ,possibly /tɛk-ɛ/,Barlow2024,,,^ t ɛ k ɛ $,default,
+lote1237-1-518_tolietoliedowntoreclinetorest-1,,lote1237-1,518_tolietoliedowntoreclinetorest,tɛkɛ ki-,tɛkɛ ki-,t ɛ k ɛ + k i +,‘straighten bone-POSS’,Barlow2024,,,^ t ɛ k ɛ + k i - $,default,tɛkɛ ki-na (3sg)
+lote1237-1-519_father-1,,lote1237-1,519_father,tɛmɛ-,tɛmɛ-,t ɛ m ɛ +,,Barlow2024,,,^ t ɛ m ɛ - $,default,"tɛmɛ-k (1sg), tɛmɛ-m (2sg), tɛmɛ-nɛ (3sg)"
+lote1237-1-520_firstbornchild-1,,lote1237-1,520_firstbornchild,tɛŋɛnɛ,tɛŋɛnɛ,t ɛ ŋ ɛ n ɛ,possibly related to /hɛŋɛnɛ/ ‘mountain; temple (of the head)’,Barlow2024,,,^ t ɛ ŋ ɛ n ɛ $,default,tɛŋɛnɛ-ana (with topic marker?)
+lote1237-1-521_flat-1,,lote1237-1,521_flat,tɛptɛpeŋ,tɛptɛpeŋ,t ɛ p t ɛ p e ŋ,,Barlow2024,,,^ t ɛ p t ɛ p e ŋ $,default,
+lote1237-1-522_samesexsiblingbrotherofamanorsisterofawoman-1,,lote1237-1,522_samesexsiblingbrotherofamanorsisterofawoman,ti-,ti-,t i +,,Barlow2024,,,^ t i - $,default,"ti-k (1sg), ti-m (2sg), ti-na (3sg)"
+lote1237-1-523_youngersamesexsibling-1,,lote1237-1,523_youngersamesexsibling,ti- neŋe kino,ti- neŋe kino,t i + + n e ŋ e + k i n o,‘same.sex.sibling-POSS REL small’,Barlow2024,,,^ t i - + n e ŋ e + k i n o $,default,ti-na neŋe kino (3sg)
+lote1237-1-525_oldersamesexsibling-1,,lote1237-1,525_oldersamesexsibling,ti- neŋe palau,ti- neŋe palau,t i + + n e ŋ e + p a l a u,‘same.sex.sibling-POSS REL big’,Barlow2024,,,^ t i - + n e ŋ e + p a l a u $,default,ti-na neŋe palau (3sg)
+lote1237-1-525_oldersamesexsibling-2,,lote1237-1,525_oldersamesexsibling,ti- neŋe soke,ti- neŋe soke,t i + + n e ŋ e + s o k e,‘same.sex.sibling-POSS REL big’,Barlow2024,,,^ t i - + n e ŋ e + s o k e $,default,ti-na neŋe soke (3sg)
+lote1237-1-526_tofixtotie-1,,lote1237-1,526_tofixtotie,tom,tom,t o m,"cf. /tom hit/ ‘to tie up’, /hit/ ‘to block, to tie’, /kale/ ‘to tie, to fasten’, /kale hit/ ‘to tie up’",Barlow2024,,,^ t o m $,default,
+lote1237-1-527_totieup-2,,lote1237-1,527_totieup,tom hit,tom hit,t o m + h i t,"‘tie fix’; cf. /tom/ ‘to fix, to tie’; /hit/ ‘to block, to tie’, /kale/ ‘to tie, to fasten’, /kale hit/ ‘to tie up’",Barlow2024,,,^ t o m + h i t $,default,tom hit-ɛ
+lote1237-1-528_tolightafiretoignite-1,,lote1237-1,528_tolightafiretoignite,toŋo,toŋo,t o ŋ o,"cf. /rɛmɛn/ ‘to light (of fire), to burn, to ignite’, /mak/ ‘to burn (person as subject), to cook (with fire)’, /rau/ ‘to burn (intransitive), to be on fire’, /ŋau/ ‘to eat; to burn (fire as subject)’",Barlow2024,,,^ t o ŋ o $,default,
+lote1237-1-529_tocuttoslice-2,,lote1237-1,529_tocuttoslice,tot,tot,t o t,"cf. /rir/ ‘to cut, to slice’, /lik/ ‘to cut, to hack, to chop’, /tel/ ‘to cut, to fell a tree’, /ut/ ‘to cut’",Barlow2024,,,^ t o t $,default,tot-ɛ
+lote1237-1-530_veryextremely-1,,lote1237-1,530_veryextremely,toto,toto,t o t o,reduplication?,Barlow2024,,,^ t o t o $,default,
+lote1237-1-531_sugarcanesugar-1,,lote1237-1,531_sugarcanesugar,tou,tou,t o u,,Barlow2024,,,^ t o u $,default,
+lote1237-1-532_childmansbrotherschildnephewniece-1,,lote1237-1,532_childmansbrotherschildnephewniece,tu-,tu-,t u +,"same form as ‘to be, to stay’, ‘to shoot, to stab, to pierce, to stick’",Barlow2024,,,^ t u - $,default,"tu-k (3sg), tu-m (3sg), tu-na (3sg); tu~tu-na (plural, 3sg)"
+lote1237-1-533_tobelocatedattostaytoreside-1,,lote1237-1,533_tobelocatedattostaytoreside,tu,tu,t u,"same form as ‘to shoot, to stab, to pierce, to stick’, ‘child’",Barlow2024,,,^ t u $,default,
+lote1237-1-534_toshoottostabtopiercetostick-1,,lote1237-1,534_toshoottostabtopiercetostick,tu,tu,t u,"same form as ‘to be, to stay’, ‘child’; cf. /sɛpɛia/ ‘to shoot (with a sling)’",Barlow2024,,,^ t u $,default,tu-ɛ
+lote1237-1-536_daughter-2,,lote1237-1,536_daughter,tu- hɛiŋana,tu- hɛiŋana,t u + + h ɛ i ŋ a n a,"also /tu- neŋe hɛi/, /heɛ-/",Barlow2024,,,^ t u - + h ɛ i ŋ a n a $,default,tu-na hɛi-ŋana
+lote1237-1-536_daughter-3,,lote1237-1,536_daughter,tu- neŋe hɛi,tu- neŋe hɛi,t u + + n e ŋ e + h ɛ i,"also /tu- hɛiŋana/, /heɛ-/",Barlow2024,,,^ t u - + n e ŋ e + h ɛ i $,default,tu-na neŋe hɛi
+lote1237-1-538_son-2,,lote1237-1,538_son,tu- neŋe tamane,tu- neŋe tamane,t u + + n e ŋ e + t a m a n e,"‘child-POSS REL male’; also /tu- tamaneŋana/, /kolɛ-/",Barlow2024,,,^ t u - + n e ŋ e + t a m a n e $,default,"tu-k neŋe tamane (1sg), tu-na neŋe tamane (3sg)"
+lote1237-1-538_son-3,,lote1237-1,538_son,tu- tamaneŋana,tu- tamaneŋana,t u + + t a m a n e ŋ a n a,"‘child-POSS male-ADJ’; also /tu- neŋe tamane/, /kolɛ-/",Barlow2024,,,^ t u - + t a m a n e ŋ a n a $,default,tu-na tamane-ŋana (3sg)
+lote1237-1-539_toplantegcropsinthegarden-1,,lote1237-1,539_toplantegcropsinthegarden,tua,tua,t u a,,Barlow2024,,,^ t u a $,default,tu-ɛ
+lote1237-1-540_tothink-3,,lote1237-1,540_tothink,tuanin,tuanin,t u a n i n,"also /lete- tuanin/, /lete- matana/",Barlow2024,,,^ t u a n i n $,default,
+lote1237-1-541_nailclaw-1,,lote1237-1,541_nailclaw,tuauli-,tuauli-,t u a u l i +,,Barlow2024,,,^ t u a u l i - $,default,tuauli-na (3sg)
+lote1237-1-542_oldperson-1,,lote1237-1,542_oldperson,tuauna,tuauna,t u a u n a,cf. /nikeŋana/ ‘old (thing)’,Barlow2024,,,^ t u a u n a $,default,tuauna-ŋana
+lote1237-1-543_menshousespirithousetphausboihaustambaran-1,,lote1237-1,543_menshousespirithousetphausboihaustambaran,tuɛlɛ,tuɛlɛ,t u ɛ l ɛ,,Barlow2024,,,^ t u ɛ l ɛ $,default,
+lote1237-1-544_toboil-1,,lote1237-1,544_toboil,tun,tun,t u n,"cf. /lel/ ‘to bake, to cook in an earth oven (TP: mumuim)’, /mak/ ‘to burn (person as subject), to cook (with fire)’",Barlow2024,,,^ t u n $,default,tun-a
+lote1237-1-545_smalllittlething-1,,lote1237-1,545_smalllittlething,tuna,tuna,t u n a,"same form as ‘child-3SG’; cf. /kino/ ‘small, little (person)’, /sune/ ‘small, little; a little’",Barlow2024,,,^ t u n a $,default,
+lote1237-1-546_togive-1,,lote1237-1,546_togive,tuŋ,tuŋ,t u ŋ,,Barlow2024,,,^ t u ŋ $,default,tuŋ-ɛ
+lote1237-1-547_tocrushnutsegwithastonetogrind-1,,lote1237-1,547_tocrushnutsegwithastonetogrind,tutɛ,tutɛ,t u t ɛ,possibly /tut-ɛ/,Barlow2024,,,^ t u t ɛ $,default,
+lote1237-1-548_wind-1,,lote1237-1,548_wind,tuttula,tuttula,t u tː u l a,,Barlow2024,,,^ t u tt u l a $,default,
+lote1237-1-549_childrenplural-2,,lote1237-1,549_childrenplural,tutu-,tutu-,t u t u +,"reduplicative plural of /tu-/ ‘child’; same form as ‘egg; seed’, with which it likely has a relationship; also /aina/",Barlow2024,,,^ t u t u - $,default,tutu-na (3sg)
+lote1237-1-550_eggseed-1,,lote1237-1,550_eggseed,tutu-,tutu-,t u t u +,"same form as ‘children (plural)’, with which it likely has a relationship",Barlow2024,,,^ t u t u - $,default,"tutu-na (3sg), tutu-ria (3pl)"
+lote1237-1-551_fire-1,,lote1237-1,551_fire,uan,uan,u a n,,Barlow2024,,,^ u a n $,default,
+lote1237-1-552_smokeofthefire-1,,lote1237-1,552_smokeofthefire,uan puluŋa-,uan puluŋa-,u a n + p u l u ŋ a +,‘fire smoke-POSS’,Barlow2024,,,^ u a n + p u l u ŋ a - $,default,"uan puluŋa-na (3sg), uan puluŋa-ria (3pl)"
+lote1237-1-553_morning-1,,lote1237-1,553_morning,uax,uax,u a x,,Barlow2024,,,^ u a x $,default,
+lote1237-1-554_wifesparentdaughtershusband-1,,lote1237-1,554_wifesparentdaughtershusband,uɛ-,uɛ-,u ɛ +,,Barlow2024,,,^ u ɛ - $,default,"uɛ-k, (1sg), uɛ-m (3sg), uɛ-nɛ (3sg)"
+lote1237-1-555_wifesmother-1,,lote1237-1,555_wifesmother,uɛ- neŋe hɛi,uɛ- neŋe hɛi,u ɛ + + n e ŋ e + h ɛ i,‘wifes.parent-POSS REL female’,Barlow2024,,,^ u ɛ - + n e ŋ e + h ɛ i $,default,uɛ-k neŋe hɛi (1sg)
+lote1237-1-556_wifesfather-1,,lote1237-1,556_wifesfather,uɛ- neŋe tamane,uɛ- neŋe tamane,u ɛ + + n e ŋ e + t a m a n e,‘wifes.parent-POSS REL male’,Barlow2024,,,^ u ɛ - + n e ŋ e + t a m a n e $,default,uɛ-k neŋe tamane (1sg)
+lote1237-1-557_1sgpossessivesuffixmy1sgposs-3,,lote1237-1,557_1sgpossessivesuffixmy1sgposs,-uk,-uk,+ u k,"allomorph of /-k/, only attested with /palpal-/ ‘head’",Barlow2024,,,^ - u k $,default,
+lote1237-1-558_root-1,,lote1237-1,558_root,ula-,ula-,u l a +,,Barlow2024,,,^ u l a - $,default,"ula-na (3sg), ula-ria (3pl)"
+lote1237-1-559_afternoon-1,,lote1237-1,559_afternoon,ulei,ulei,u l e i,,Barlow2024,,,^ u l e i $,default,
+lote1237-1-560_toopenabaskettouncover-1,,lote1237-1,560_toopenabaskettouncover,ulɛlɛ,ulɛlɛ,u l ɛ l ɛ,reduplication?; possibly /ulɛl-ɛ/; cf. /loɛ/ ‘to open (a door)’,Barlow2024,,,^ u l ɛ l ɛ $,default,
+lote1237-1-561_skinhide-1,,lote1237-1,561_skinhide,uli-,uli-,u l i +,"also /siŋi-/ ‘skin, body’",Barlow2024,,,^ u l i - $,default,"uli-k (1sg), uli-m (2sg), uli-na (3sg)"
+lote1237-1-562_cloud-1,,lote1237-1,562_cloud,ulu,ulu,u l u,,Barlow2024,,,^ u l u $,default,
+lote1237-1-563_tospit-1,,lote1237-1,563_tospit,ulut,ulut,u l u t,"cf. /muluta/ ‘mucus, snot’",Barlow2024,,,^ u l u t $,default,ulut-ɛ (‘to spit something [out]’)
+lote1237-1-564_2sgpossessivesuffixthyyour2sgposs-3,,lote1237-1,564_2sgpossessivesuffixthyyour2sgposs,-um,-um,+ u m,"allomorph of /-m/, only attested with /palpal-/ ‘head’",Barlow2024,,,^ - u m $,default,
+lote1237-1-565_stonerock-1,,lote1237-1,565_stonerock,um,um,u m,same form as an allomorph of the 2sg.possessive suffix,Barlow2024,,,^ u m $,default,
+lote1237-1-566_toworktobuild-1,,lote1237-1,566_toworktobuild,umɛ,umɛ,u m ɛ,"cf. /lelɛ/ ‘to build’, /po/ ‘to do, to make’",Barlow2024,,,^ u m ɛ $,default,umɛ-a
+lote1237-1-567_fullsated-1,,lote1237-1,567_fullsated,una,una,u n a,,Barlow2024,,,^ u n a $,default,
+lote1237-1-568_alittle-1,,lote1237-1,568_alittle,unne,unne,u nː e,"cf. /sune/ ‘small, little; a little’",Barlow2024,,,^ u nn e $,default,
+lote1237-1-569_manssistersdaughtershusbandhusbandofonessipu-1,,lote1237-1,569_manssistersdaughtershusbandhusbandofonessipu,uol,uol,u o l,,Barlow2024,,,^ u o l $,default,lɛ-k uol (1sg)
+lote1237-1-570_banana-1,,lote1237-1,570_banana,ur,ur,u r,also [hur],Barlow2024,,,^ u r $,default,
+lote1237-1-571_bananaflower-1,,lote1237-1,571_bananaflower,ur heiŋa-,ur heiŋa-,u r + h e i ŋ a +,‘banana flower-POSS’,Barlow2024,,,^ u r + h e i ŋ a - $,default,"ur heiŋa-na (3sg), ur heiŋa-ria (3pl)"
+lote1237-1-572_good-1,,lote1237-1,572_good,urana,urana,u r a n a,,Barlow2024,,,^ u r a n a $,default,
+lote1237-1-573_forestwoods-1,,lote1237-1,573_forestwoods,uraurau,uraurau,u r a u r a u,possibly /uraorao/,Barlow2024,,,^ u r a u r a u $,default,
+lote1237-1-574_tocarryonthehead-1,,lote1237-1,574_tocarryonthehead,urɛ,urɛ,u r ɛ,"possibly /ur-ɛ/; cf. /takis/ ‘to carry (on the shoulder)’, /mɛnɛ/ ‘to take, to get, to carry (in the hand), to hold’",Barlow2024,,,^ u r ɛ $,default,
+lote1237-1-575_louse-1,,lote1237-1,575_louse,ut,ut,u t,same form as ‘to cut’,Barlow2024,,,^ u t $,default,
+lote1237-1-576_tocut-1,,lote1237-1,576_tocut,ut,ut,u t,"same form as ‘louse’; cf. /rir/ ‘to cut, to slice’, /tot/ ‘to cut, to slice’, /lik/ ‘to cut, to hack, to chop’, /tel/ ‘to cut, to fell a tree’",Barlow2024,,,^ u t $,default,ut-ɛ
+lote1237-1-577_what-2,,lote1237-1,577_what,utar,utar,u t a r,cf. /utɛ/ ‘something’; also /tar/,Barlow2024,,,^ u t a r $,default,
+lote1237-1-578_something-1,,lote1237-1,578_something,utɛ,utɛ,u t ɛ,cf. /utar/ ‘what?’,Barlow2024,,,^ u t ɛ $,default,
+lote1237-1-579_navelbellybutton-1,,lote1237-1,579_navelbellybutton,uto-,uto-,u t o +,,Barlow2024,,,^ u t o - $,default,"uto-k (1sg), uto-m (2sg), uto-na (3sg)"
+lote1237-1-580_sun-1,,lote1237-1,580_sun,xaia,xaia,x a i a,,Barlow2024,,,^ x a i a $,default,
+lote1237-1-581_lightning-1,,lote1237-1,581_lightning,xalɛm,xalɛm,x a l ɛ m,,Barlow2024,,,^ x a l ɛ m $,default,"xalɛm-ŋa-na (3sg), xalɛm-ŋa-ria (3pl) (with ‘NMLZ’?) (with nominalizer as host for possessive marking?)"
+lote1237-1-582_basketmadeofcoconutleaves-1,,lote1237-1,582_basketmadeofcoconutleaves,xasaŋ,xasaŋ,x a s a ŋ,,Barlow2024,,,^ x a s a ŋ $,default,
+lote1237-1-583_tobreaktorip-1,,lote1237-1,583_tobreaktorip,xax,xax,x a x,"cf. /xolo/ ‘to break (with the hand)’, /hɛlɛ/ ‘to break in pieces’",Barlow2024,,,^ x a x $,default,xax-ia
+lote1237-1-584_ashashesblackashcharcoal-1,,lote1237-1,584_ashashesblackashcharcoal,xaxasoŋo,xaxasoŋo,x a x a s o ŋ o,reduplication?; cf. /apou/ ‘white ashes’,Barlow2024,,,^ x a x a s o ŋ o $,default,
+lote1237-1-585_crooked-1,,lote1237-1,585_crooked,xaxau,xaxau,x a x a u,reduplication?,Barlow2024,,,^ x a x a u $,default,
+lote1237-1-586_bluegreen-1,,lote1237-1,586_bluegreen,xɛrxɛra,xɛrxɛra,x ɛ r x ɛ r a,reduplication?,Barlow2024,,,^ x ɛ r x ɛ r a $,default,
+lote1237-1-587_tobreakwiththehand-1,,lote1237-1,587_tobreakwiththehand,xolo,xolo,x o l o,"cf. /hɛlɛ/ ‘to break in pieces’, /xax/ ‘to break, to rip’",Barlow2024,,,^ x o l o $,default,xolo-a
+lote1237-1-588_piece-1,,lote1237-1,588_piece,xor-,xor-,x o r +,,Barlow2024,,,^ x o r - $,default,"xon-na (3sg), xorxor-na (plural, 3sg)"
+lote1237-1-589_short-1,,lote1237-1,589_short,xoro,xoro,x o r o,,Barlow2024,,,^ x o r o $,default,
+lote1237-1-590_piecesplural-1,,lote1237-1,590_piecesplural,xorxor-,xorxor-,x o r x o r +,reduplicative plural of /xor-/ ‘piece’,Barlow2024,,,^ x o r x o r - $,default,xorxor-na (3sg)
+lote1237-1-591_tocough-1,,lote1237-1,591_tocough,xoso,xoso,x o s o,also /i at/,Barlow2024,,,^ x o s o $,default,

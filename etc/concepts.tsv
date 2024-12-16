@@ -45,7 +45,6 @@ Barlow-2024-43	43	bottom; below	690	BOTTOM
 Barlow-2024-44	44	husband	1200	HUSBAND
 Barlow-2024-45	45	name	1405	NAME
 Barlow-2024-46	46	other, another; one	197	OTHER
-Barlow-2024-47	47	transitive suffix (TR)		
 Barlow-2024-48	48	bitter	887	BITTER
 Barlow-2024-49	49	blood	946	BLOOD
 Barlow-2024-50	50	breath	870	BREATH
@@ -53,7 +52,6 @@ Barlow-2024-51	51	one (1)	1493	ONE
 Barlow-2024-52	52	to rub	1449	RUB
 Barlow-2024-53	53	pandanus	469	PANDANUS
 Barlow-2024-54	54	no (negative response word); not (negator) (NEG)	2279	NO OR NOT
-Barlow-2024-55	55	to look, to see	1819	LOOK
 Barlow-2024-56	56	mother (1sg)	1216	MOTHER
 Barlow-2024-57	57	to know	3626	KNOW
 Barlow-2024-58	58	day (countable)	1260	DAY (24 HOURS)
@@ -74,7 +72,6 @@ Barlow-2024-72	72	wet; smelly, stinky	1726	WET
 Barlow-2024-73	73	table	1775	TABLE
 Barlow-2024-74	74	thick	1244	THICK
 Barlow-2024-75	75	spider	843	SPIDER
-Barlow-2024-76	76	daughter	1357	DAUGHTER
 Barlow-2024-77	77	frog	503	FROG
 Barlow-2024-78	78	grass	606	GRASS
 Barlow-2024-79	79	flower (of a banana plant)	239	FLOWER
@@ -118,15 +115,11 @@ Barlow-2024-116	116	3sg pronoun (he, him, she, her, it)	262	HE OR SHE OR IT
 Barlow-2024-117	117	leaf; hair (of the head)	628	LEAF
 Barlow-2024-118	118	nose	1221	NOSE
 Barlow-2024-119	119	to walk	1443	WALK
-Barlow-2024-120	120	to come	1446	COME
-Barlow-2024-121	121	transitive suffix (TR)		
 Barlow-2024-122	122	because	1157	BECAUSE
 Barlow-2024-123	123	1sg pronoun (I, me)	1209	I
 Barlow-2024-124	124	man’s brother-in-law	2314	BROTHER-IN-LAW
-Barlow-2024-125	125	1sg possessive suffix (my) (1SG.POSS)	2090	MY
 Barlow-2024-126	126	snake	730	SNAKE
 Barlow-2024-127	127	bamboo sp. (wild bamboo)	1927	BAMBOO
-Barlow-2024-128	128	2sg possessive suffix (thy, your) (2SG.POSS)	732	YOUR (SINGULAR)
 Barlow-2024-129	129	1pl.excl pronoun (we, us)	1212	WE
 Barlow-2024-130	130	1tr.excl pronoun (we three, us three)		
 Barlow-2024-131	131	1du.excl pronoun (we two, us two)	2636	WE TWO (EXCLUSIVE)
@@ -156,12 +149,10 @@ Barlow-2024-154	154	heart	1223	HEART
 Barlow-2024-155	155	knife	1352	KNIFE
 Barlow-2024-156	156	neck	1333	NECK
 Barlow-2024-157	157	to tie, to fasten	1917	TIE
-Barlow-2024-158	158	to tie up	2891	TIE UP (TETHER)
 Barlow-2024-159	159	Indian coral tree (TP: balbal)		
 Barlow-2024-160	160	shield	1064	SHIELD
 Barlow-2024-161	161	spear for shooting fish, spear with multiple prongs	841	FISHING SPEAR
 Barlow-2024-162	162	far, distant	1406	FAR
-Barlow-2024-163	163	there (medial demonstrative)	1937	THERE
 Barlow-2024-164	164	dog	2009	DOG
 Barlow-2024-165	165	preposition (PREP); that (complementizer) (COMP)		
 Barlow-2024-166	166	to steal	713	STEAL
@@ -170,7 +161,6 @@ Barlow-2024-168	168	bone	1394	BONE
 Barlow-2024-169	169	pig	1337	PIG
 Barlow-2024-170	170	plant sp.		
 Barlow-2024-171	171	strength, muscle	202	STRENGTH
-Barlow-2024-172	172	to sit	1416	SIT
 Barlow-2024-173	173	village, place	930	VILLAGE
 Barlow-2024-174	174	to thunder	2378	THUNDER (VERB)
 Barlow-2024-175	175	to lightning, to flash	2377	FLASH (VERB)
@@ -185,7 +175,6 @@ Barlow-2024-183	183	son	1620	SON
 Barlow-2024-184	184	sweet potato (TP: kaukau)	159	SWEET POTATO
 Barlow-2024-185	185	hiding	2486	HIDE
 Barlow-2024-186	186	to hide (something)	602	HIDE (CONCEAL)
-Barlow-2024-187	187	there, yonder (distal demonstrative)	3411	OVER THERE
 Barlow-2024-188	188	incorrect, wrong, false	1390	WRONG
 Barlow-2024-189	189	path, road, trail	2457	PATH OR ROAD
 Barlow-2024-190	190	digit, finger, toe	2120	FINGER OR TOE
@@ -214,14 +203,10 @@ Barlow-2024-212	212	to build	1840	BUILD
 Barlow-2024-213	213	to carve	228	CARVE
 Barlow-2024-214	214	inside	1606	INSIDE
 Barlow-2024-215	215	to think	2271	THINK
-Barlow-2024-216	216	to think	2271	THINK
 Barlow-2024-217	217	general possessive classifier (POSS.GEN)		
 Barlow-2024-218	218	to fly	1441	FLY (MOVE THROUGH AIR)
 Barlow-2024-219	219	four (counting in fours; only as an absolute numeral, not as an adnominal numeral)	1500	FOUR
 Barlow-2024-220	220	sixteen (16) (counting in fours)	2454	SIXTEEN
-Barlow-2024-221	221	sixteen (16) (counting in fours)	2454	SIXTEEN
-Barlow-2024-222	222	twelve (12) (counting in fours)	1707	TWELVE
-Barlow-2024-223	223	eight (8) (counting in fours)	1705	EIGHT
 Barlow-2024-224	224	twelve (12) (counting in fours)	1707	TWELVE
 Barlow-2024-225	225	eight (8) (counting in fours)	1705	EIGHT
 Barlow-2024-226	226	nine (9) (counting in fours)	1483	NINE
@@ -317,16 +302,12 @@ Barlow-2024-315	315	plural marker (PL)
 Barlow-2024-316	316	full	1429	FULL
 Barlow-2024-317	317	to vomit	1278	VOMIT
 Barlow-2024-318	318	fog	249	FOG
-Barlow-2024-319	319	3sg possessive suffix (his, her, its) (3SG.POSS)	2092	HIS OR HER
-Barlow-2024-320	320	general possessive classifier (3sg) (POSS.GEN.3SG)		
 Barlow-2024-321	321	nit, louse egg	267	NIT
 Barlow-2024-322	322	two (2)	1498	TWO
 Barlow-2024-323	323	to look, to see	1819	LOOK
 Barlow-2024-324	324	wallaby	165	WALLABY
-Barlow-2024-325	325	general possessive classifier (3sg) (POSS.GEN.3SG)		
 Barlow-2024-326	326	that, which (relativizer) (REL)	727	WHICH
 Barlow-2024-327	327	if	1459	IF
-Barlow-2024-328	328	3sg possessive suffix (his, her, its) (3SG.POSS)	2092	HIS OR HER
 Barlow-2024-329	329	this (proximal demonstrative) (close to speaker)	1214	THIS
 Barlow-2024-330	330	that (medial demonstrative) (close to hearer)	78	THAT
 Barlow-2024-331	331	that, that yonder (distal demonstrative) (far from both speaker and hearer)	78	THAT
@@ -340,7 +321,6 @@ Barlow-2024-338	338	to bathe	138	BATHE
 Barlow-2024-339	339	in, at, on (locative preposition), with (instrumental preposition) (PREP)		
 Barlow-2024-340	340	nominalizing suffix		
 Barlow-2024-341	341	soul	811	SOUL
-Barlow-2024-342	342	where?	1237	WHERE
 Barlow-2024-343	343	conch		
 Barlow-2024-344	344	adjectivizing suffix		
 Barlow-2024-345	345	fruit, berry	1507	FRUIT
@@ -348,12 +328,9 @@ Barlow-2024-346	346	to eat; to burn (fire as subject)	1336	EAT
 Barlow-2024-347	347	food	256	FOOD
 Barlow-2024-348	348	vine sp. (large)	343	VINE
 Barlow-2024-349	349	in, at, on (personal name preposition) (PREP.PN); than (comparative)		
-Barlow-2024-350	350	yesterday	1174	YESTERDAY
-Barlow-2024-351	351	when?	1238	WHEN
 Barlow-2024-352	352	tomorrow	1329	TOMORROW
 Barlow-2024-353	353	to suck and chew (sugarcane)		
 Barlow-2024-354	354	tooth	1380	TOOTH
-Barlow-2024-355	355	when?	1238	WHEN
 Barlow-2024-356	356	2sg subject prefix (2SG)	1215	THOU
 Barlow-2024-357	357	top; above	1753	TOP
 Barlow-2024-358	358	yes	1268	YES
@@ -382,7 +359,6 @@ Barlow-2024-380	380	to swim	1439	SWIM
 Barlow-2024-381	381	back (of the body)	1291	BACK
 Barlow-2024-382	382	vegetable sp. (TP: aibika)		
 Barlow-2024-383	383	and (coordinating conjunction); when (simultaneous action) (CONJ)	1577	AND
-Barlow-2024-384	384	irrealis marker (IRR)		
 Barlow-2024-385	385	sand; beach	671	SAND
 Barlow-2024-386	386	house	1252	HOUSE
 Barlow-2024-387	387	floor	1632	FLOOR
@@ -399,13 +375,10 @@ Barlow-2024-397	397	fern sp.	3802	FERN
 Barlow-2024-398	398	to mash, to smash, to pound (banana), to squeeze (grated coconut)		
 Barlow-2024-399	399	rain	658	RAIN (PRECIPITATION)
 Barlow-2024-400	400	to close	1046	SHUT
-Barlow-2024-401	401	to close	1046	SHUT
 Barlow-2024-402	402	door	1567	DOOR
 Barlow-2024-403	403	to do, to make	2575	DO OR MAKE
-Barlow-2024-404	404	arecoid palm sp. (TP: limbum)		
 Barlow-2024-405	405	hole	1667	HOLE
 Barlow-2024-406	406	light (not heavy)	1052	LIGHT (WEIGHT)
-Barlow-2024-407	407	empty	1624	EMPTY
 Barlow-2024-408	408	how?	1239	HOW
 Barlow-2024-409	409	elbow	981	ELBOW
 Barlow-2024-410	410	butterfly	1791	BUTTERFLY
@@ -442,7 +415,6 @@ Barlow-2024-440	440	to cut, to slice	2156	CUT (WITH KNIFE)
 Barlow-2024-441	441	to chew	321	CHEW
 Barlow-2024-442	442	sky	1732	SKY
 Barlow-2024-443	443	solid, hard	3003	SOLID
-Barlow-2024-444	444	tomorrow	1329	TOMORROW
 Barlow-2024-445	445	near, close	1942	NEAR
 Barlow-2024-446	446	sea, ocean	1474	SEA
 Barlow-2024-447	447	rough	1923	ROUGH
@@ -456,7 +428,6 @@ Barlow-2024-454	454	to smell (intransitive), to be smelly, to be stinky	1587	SME
 Barlow-2024-455	455	oyster	2830	OYSTERS
 Barlow-2024-456	456	horn (spines on a lizard)	1393	HORN (ANATOMY)
 Barlow-2024-457	457	to grate (coconut)	3114	GRATE (SOMETHING)
-Barlow-2024-458	458	smooth	1234	SMOOTH
 Barlow-2024-459	459	long	1203	LONG
 Barlow-2024-460	460	to throw	1456	THROW
 Barlow-2024-461	461	slippery, oily	3702	SLIPPERY
@@ -466,7 +437,6 @@ Barlow-2024-464	464	axe	677	AXE
 Barlow-2024-465	465	sling	387	SLING
 Barlow-2024-466	466	to shoot (with a sling)	3180	SHOOT (WITH SLINGSHOT)
 Barlow-2024-467	467	narrow	1267	NARROW
-Barlow-2024-468	468	to catch	702	CATCH
 Barlow-2024-469	469	mirror	1171	MIRROR
 Barlow-2024-470	470	possum	470	POSSUM
 Barlow-2024-471	471	to sew	1457	SEW
@@ -479,7 +449,6 @@ Barlow-2024-477	477	to count	1420	COUNT
 Barlow-2024-478	478	urine	1142	URINE
 Barlow-2024-479	479	breast, breasts	1402	BREAST
 Barlow-2024-480	480	to suck, to suckle (a breast), to nurse	2472	SUCKLE (BREASTFEED, NURSE)
-Barlow-2024-481	481	big	1202	BIG
 Barlow-2024-482	482	year	1226	YEAR
 Barlow-2024-483	483	to run	1519	RUN
 Barlow-2024-484	484	empty	1624	EMPTY
@@ -490,11 +459,9 @@ Barlow-2024-488	488	mother, parent’s sister (aunt), mother’s brother’s wif
 Barlow-2024-489	489	parent’s younger sister (aunt)		
 Barlow-2024-490	490	parent’s older sister (aunt)		
 Barlow-2024-491	491	chin	1510	CHIN
-Barlow-2024-492	492	to pull	1455	PULL
 Barlow-2024-493	493	to breathe	1407	BREATHE
 Barlow-2024-494	494	to carry (on the shoulder)	465	CARRY ON BACK
 Barlow-2024-495	495	thatch	279	THATCH
-Barlow-2024-496	496	to pull	1455	PULL
 Barlow-2024-497	497	to put	998	PUT
 Barlow-2024-498	498	to hide	2486	HIDE
 Barlow-2024-499	499	ear	1247	EAR
@@ -523,22 +490,16 @@ Barlow-2024-521	521	flat	1633	FLAT
 Barlow-2024-522	522	same-sex sibling (brother of a man or sister of a woman)		
 Barlow-2024-523	523	younger same-sex sibling	3038	SAME-SEX YOUNGER SIBLING
 Barlow-2024-524	524	older same-sex sibling	3037	SAME-SEX OLDER SIBLING
-Barlow-2024-525	525	older same-sex sibling	3037	SAME-SEX OLDER SIBLING
 Barlow-2024-526	526	to fix, to tie	3074	FIX
 Barlow-2024-527	527	to tie up	2891	TIE UP (TETHER)
 Barlow-2024-528	528	to light a fire, to ignite	737	LIGHT (IGNITE)
-Barlow-2024-529	529	to cut, to slice	2156	CUT (WITH KNIFE)
 Barlow-2024-530	530	very, extremely	1311	VERY
 Barlow-2024-531	531	sugarcane, sugar	146	SUGAR CANE
 Barlow-2024-532	532	child; man’s brother’s child (nephew, niece)	2099	CHILD
 Barlow-2024-533	533	to be (located at), to stay, to reside		
 Barlow-2024-534	534	to shoot, to stab, to pierce, to stick	1172	SHOOT
 Barlow-2024-535	535	daughter	1357	DAUGHTER
-Barlow-2024-536	536	daughter	1357	DAUGHTER
-Barlow-2024-537	537	son	1620	SON
-Barlow-2024-538	538	son	1620	SON
 Barlow-2024-539	539	to plant (e.g., crops in the garden)	1486	PLANT (SOMETHING)
-Barlow-2024-540	540	to think	2271	THINK
 Barlow-2024-541	541	nail, claw	2128	CLAW OR NAIL
 Barlow-2024-542	542	old (person)	2112	OLD (AGED)
 Barlow-2024-543	543	men’s house, spirit house (TP: haus boi, haus tambaran)	408	MEN'S HOUSE
@@ -547,7 +508,6 @@ Barlow-2024-545	545	small, little (thing)	1246	SMALL
 Barlow-2024-546	546	to give	1447	GIVE
 Barlow-2024-547	547	to crush (nuts, e.g., with a stone); to grind	1520	CRUSH
 Barlow-2024-548	548	wind	960	WIND
-Barlow-2024-549	549	children (plural)	2099	CHILD
 Barlow-2024-550	550	egg; seed	744	EGG
 Barlow-2024-551	551	fire	221	FIRE
 Barlow-2024-552	552	smoke of the fire	778	SMOKE (EXHAUST)
@@ -555,14 +515,12 @@ Barlow-2024-553	553	morning	1339	MORNING
 Barlow-2024-554	554	wife’s parent, daughter’s husband		
 Barlow-2024-555	555	wife’s mother	2257	MOTHER-IN-LAW (OF MAN)
 Barlow-2024-556	556	wife’s father	2255	FATHER-IN-LAW (OF MAN)
-Barlow-2024-557	557	1sg possessive suffix (my) (1SG.POSS)	2090	MY
 Barlow-2024-558	558	root	670	ROOT
 Barlow-2024-559	559	afternoon	1807	AFTERNOON
 Barlow-2024-560	560	to open (a basket), to uncover	1156	OPEN
 Barlow-2024-561	561	skin, hide	763	SKIN
 Barlow-2024-562	562	cloud	1489	CLOUD
 Barlow-2024-563	563	to spit	1440	SPIT
-Barlow-2024-564	564	2sg possessive suffix (thy, your) (2SG.POSS)	732	YOUR (SINGULAR)
 Barlow-2024-565	565	stone, rock	857	STONE
 Barlow-2024-566	566	to work, to build	1086	WORK (ACTIVITY)
 Barlow-2024-567	567	full, sated	106	SATIATED
@@ -575,7 +533,6 @@ Barlow-2024-573	573	forest, woods	420	FOREST
 Barlow-2024-574	574	to carry (on the head)	414	CARRY ON HEAD
 Barlow-2024-575	575	louse	1392	LOUSE
 Barlow-2024-576	576	to cut	1432	CUT
-Barlow-2024-577	577	what?	1236	WHAT
 Barlow-2024-578	578	something		
 Barlow-2024-579	579	navel, belly button	1838	NAVEL
 Barlow-2024-580	580	sun	1343	SUN

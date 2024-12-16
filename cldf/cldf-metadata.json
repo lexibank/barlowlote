@@ -1,18 +1,19 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Barlow, Russell. 2024. Lote wordlist: Based on elicitation sessions with Leo Lang from Uvol village, recorded in Kokopo, East New Britain, November 2022. https://doi.org/TODOZENODO",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Barlow Lote",
+    "dc:title": "CLDF dataset derived from Barlow's \"Lote Wordlist\" from 2023",
     "dcat:accessURL": "https://github.com/lexibank/barlowlote",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/barlowlote",
             "rdf:type": "prov:Entity",
-            "dc:created": "a648771",
+            "dc:created": "631cb94",
             "dc:title": "Repository"
         },
         {

@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/barlowlote",
             "rdf:type": "prov:Entity",
-            "dc:created": "5c8ca4c",
+            "dc:created": "685d5bc",
             "dc:title": "Repository"
         },
         {
@@ -126,7 +126,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "InflectedForms"
+                        "name": "Inflected_Forms"
                     }
                 ],
                 "foreignKeys": [
@@ -227,7 +227,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 591,
+            "dc:extent": 551,
             "tableSchema": {
                 "columns": [
                     {

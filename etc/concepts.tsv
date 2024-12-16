@@ -34,7 +34,7 @@ Barlow-2024-32	32	drum type (hand drum; TP: kundu)	908	DRUM
 Barlow-2024-33	33	to come	1446	COME
 Barlow-2024-34	34	wrong, crazy, drunken	1899	MAD
 Barlow-2024-35	35	round	1395	ROUND
-Barlow-2024-36	36	mother’s brother (uncle), sister’s son (nephew) (TP: kandere)	2692	MATERNAL UNCLE (MOTHER'S BROTHER)
+Barlow-2024-36	36	man’s mother’s brother (uncle), man’s sister’s son (nephew) (TP: kandere)	2692	MATERNAL UNCLE (MOTHER'S BROTHER)
 Barlow-2024-37	37	1sg subject prefix (1SG)	1209	I
 Barlow-2024-38	38	girl	1646	GIRL
 Barlow-2024-39	39	shoulder	1482	SHOULDER
@@ -130,7 +130,7 @@ Barlow-2024-128	128	2sg possessive suffix (thy, your) (2SG.POSS)	732	YOUR (SINGU
 Barlow-2024-129	129	1pl.excl pronoun (we, us)	1212	WE
 Barlow-2024-130	130	1tr.excl pronoun (we three, us three)		
 Barlow-2024-131	131	1du.excl pronoun (we two, us two)	2636	WE TWO (EXCLUSIVE)
-Barlow-2024-132	132	2pl pronoun (you, y’all)	1213	YOU
+Barlow-2024-132	132	2pl pronoun (ye, you, y’all)	1213	YOU
 Barlow-2024-133	133	2tr pronoun (ye three, you three, y’all three)		
 Barlow-2024-134	134	2du pronoun (ye two, you two, y’all two)	2111	YOU TWO
 Barlow-2024-135	135	to drink	1401	DRINK
@@ -474,7 +474,7 @@ Barlow-2024-472	472	day, daytime	1225	DAY (NOT NIGHT)
 Barlow-2024-473	473	skin; body	763	SKIN
 Barlow-2024-474	474	down, low; to go down, to descend, to fall	1326	DOWN
 Barlow-2024-475	475	betel pepper (TP: daka)	177	BETEL PEPPER VINE
-Barlow-2024-476	476	man’s mother’s brother (uncle), man’s sister’s son (nephew) (TP: kandere)		
+Barlow-2024-476	476	woman’s mother’s brother (uncle), man’s sister’s daughter (niece)		
 Barlow-2024-477	477	to count	1420	COUNT
 Barlow-2024-478	478	urine	1142	URINE
 Barlow-2024-479	479	breast, breasts	1402	BREAST

@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Barlow, Russell. 2024. Lote wordlist: Based on elicitation sessions with Leo Lang from Uvol village, recorded in Kokopo, East New Britain, November 2022. https://doi.org/TODOZENODO
+  > Barlow, Russell. 2024. Lote wordlist: Based on elicitation sessions with Leo Lang from Uvol village, recorded in Kokopo, East New Britain, November 2022. https://doi.org/10.5281/zenodo.14505729.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description

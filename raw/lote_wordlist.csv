@@ -18,13 +18,13 @@ lote1237-1-016,lote1237-1,"thoroughly, completely",ala,,,Barlow2024
 lote1237-1-017,lote1237-1,"worm, earthworm",alete,,,Barlow2024
 lote1237-1-018,lote1237-1,"sucker (e.g., of a banana plant)",alo-,"alo-na (3sg), alo-ria (3pl)",,Barlow2024
 lote1237-1-019,lote1237-1,topic marker (TOP),ana,,,Barlow2024
-lote1237-1-020,lote1237-1,four (counting in fours; used as an adnominal numeral),ana lɛisinɛ,,‘TOP group.of.four’; cf. /lɛisinɛ/ (used as an absolute numeral); /hɛnɛl/ ‘four’ (in general counting),Barlow2024
+lote1237-1-020,lote1237-1,four (4) (counting in fours; used as an adnominal numeral),ana lɛisinɛ,,‘TOP group.of.four’; cf. /lɛisinɛ/ (used as an absolute numeral); /hɛnɛl/ ‘four’ (in general counting),Barlow2024
 lote1237-1-021,lote1237-1,twenty (20),ana non kina ɛllɛ,,‘TOP man bone-3SG [times] one’,Barlow2024
 lote1237-1-022,lote1237-1,two hundred (200),ana non kina iri analox,,‘TOP man bone-3SG [times] 3PL ten’,Barlow2024
 lote1237-1-023,lote1237-1,"hundred, one hundred (100)",ana non kina limɛ,,‘TOP man bone-3SG [times] five’,Barlow2024
 lote1237-1-024,lote1237-1,forty (40),ana non kina nai,,‘TOP man bone-3SG [times] two’,Barlow2024
 lote1237-1-025,lote1237-1,fifty (50),ana non kina nai pe analox,,‘TOP man bone-3SG [times] two and ten’,Barlow2024
-lote1237-1-026,lote1237-1,ten (10),analox,,possibly < TOP + /loxlox/ ‘all’; cf. /lɛisinɛ nai pe nai/ ‘ten (counting in fours)’,Barlow2024
+lote1237-1-026,lote1237-1,ten (10),analox,,possibly < /ana/ TOP + /loxlox/ ‘all’; cf. /lɛisinɛ nai pe nai/ ‘ten (counting in fours)’,Barlow2024
 lote1237-1-027,lote1237-1,"leg, foot",ape-,"ape-k (1sg), ape-m (2sg), ape-na (3sg)",,Barlow2024
 lote1237-1-028,lote1237-1,foot,ape- hahana,"ape-k haha-na (1sg), ape-m haha-na (2sg), ape-na haha-na (3sg)",‘foot-POSS liver-3SG’,Barlow2024
 lote1237-1-029,lote1237-1,"ash, ashes (white ash)",apou,,cf. /xaxasoŋo/ ‘black ashes’,Barlow2024
@@ -118,7 +118,7 @@ lote1237-1-116,lote1237-1,"3sg pronoun (he, him, she, her, it)",i,,"same form as
 lote1237-1-117,lote1237-1,leaf; hair (of the head),i-,"i-na (3sg), i-ria (3pl)","same form as ‘to walk’, ‘nose’, and the 3sg pronoun; possibly a metaphorical extension of /i-/ ‘nose’; cf. /pulpul-/ ‘hair (body hair); feather’",Barlow2024
 lote1237-1-118,lote1237-1,nose,i-,"i-k (1sg), i-m (2sg), i-na (3sg)","same form as ‘to walk’, ‘leaf; hair’, and the 3sg pronoun",Barlow2024
 lote1237-1-119,lote1237-1,to walk,i,,,Barlow2024
-lote1237-1-120,lote1237-1,to come,i at,,‘walk come’,Barlow2024
+lote1237-1-120,lote1237-1,to come (by foot),i at,,‘walk come’,Barlow2024
 lote1237-1-121,lote1237-1,transitive suffix (TR),-ia,,verbal suffix; also /-a/ and /-ɛ/,Barlow2024
 lote1237-1-122,lote1237-1,because,iaŋe,,,Barlow2024
 lote1237-1-123,lote1237-1,"1sg pronoun (I, me)",iau,,,Barlow2024
@@ -203,7 +203,7 @@ lote1237-1-201,lote1237-1,there (medial demonstrative),lamam,,"close to hearer; 
 lote1237-1-202,lote1237-1,"there, yonder (distal demonstrative)",lamau,,far from both speaker and hearer; cf. /kou/,Barlow2024
 lote1237-1-203,lote1237-1,"fly, housefly",laŋo,,,Barlow2024
 lote1237-1-204,lote1237-1,"march fly, blowfly",laŋo xɛrxɛra,,‘fly blue/green’,Barlow2024
-lote1237-1-205,lote1237-1,irrealis marker (IRR),lape,,preverbal; also /pe/,Barlow2024
+lote1237-1-205,lote1237-1,irrealis marker (IRR),lape,,preverbal; < /la/ ‘go’ + /pe/ ‘and/IRR’?; also /pe/,Barlow2024
 lote1237-1-206,lote1237-1,arecoid palm sp. (TP: limbum),lapia,,"cf. /pola/, a different species",Barlow2024
 lote1237-1-207,lote1237-1,rotten,lapusa,,,Barlow2024
 lote1237-1-208,lote1237-1,to catch,lau,lau-a,also /sihɛ/,Barlow2024
@@ -213,15 +213,15 @@ lote1237-1-211,lote1237-1,smooth,lelemo,,possibly related to /lele/ ‘to flow�
 lote1237-1-212,lote1237-1,to build,lelɛ,,"possibly /lel-ɛ/; possibly the same form as /lel/ ‘to bake, to cook in an earth oven (TP: mumuim)’; cf. /umɛ/ ‘to work, to build’, /po/ ‘to do, to make’",Barlow2024
 lote1237-1-213,lote1237-1,to carve,les,les-ia,cf. /raluɛ/ ‘to carve (a canoe)’,Barlow2024
 lote1237-1-214,lote1237-1,inside,lete-,"lete-m (2sg), lete-na (3sg)","cf. /teu/ ‘inside; to go in, to go inside, to enter’",Barlow2024
-lote1237-1-215,lote1237-1,to think,lete- matana,lete-m mata-na (2sg),"‘inside-POSS eye-3SG’; also /lete- tuanin/, /tuanin/",Barlow2024
+lote1237-1-215,lote1237-1,to think,lete- matana,lete-m mata-na (2sg),"‘inside-POSS sharp’; also /lete- tuanin/, /tuanin/",Barlow2024
 lote1237-1-216,lote1237-1,to think,lete- tuanin,lete-na tuanin (3sg),"‘inside-POSS think’; also /lete- matana/, /tuanin/",Barlow2024
 lote1237-1-217,lote1237-1,general possessive classifier (POSS.GEN),lɛ-,"lɛ-k (1sg), lɛ-m (2sg), na (3sg), nɛ (3sg), nena (3sg)","used in indirect possession constructions; follows the possessor (genitive) and precedes the possessum (possessed); takes a possessive suffix indexing the person/number of the possessor; used with possessions that are not food- or drink-related; allomorphs for 3sg possessors: /na/, /nena/",Barlow2024
 lote1237-1-218,lote1237-1,to fly,lɛhɛ,lɛ~lɛhɛ (reduplication),,Barlow2024
-lote1237-1-219,lote1237-1,"four (counting in fours; only as an absolute numeral, not as an adnominal numeral)",lɛisinɛ,,"used for counting coconuts, breadfruit, pieces of firewood, (not, e.g., stones, bananas, people); cf. /ana lɛisinɛ/, used as an adnominal numeral; /hɛnɛl/ ‘four’ (in general counting)",Barlow2024
+lote1237-1-219,lote1237-1,"four (4) (counting in fours; only as an absolute numeral, not as an adnominal numeral)",lɛisinɛ,,"used for counting coconuts, breadfruit, pieces of firewood (not, e.g., stones, bananas, people); cf. /ana lɛisinɛ/ (used as an adnominal numeral); /hɛnɛl/ ‘four’ (in general counting)",Barlow2024
 lote1237-1-220,lote1237-1,sixteen (16) (counting in fours),lɛisinɛ hɛnɛl,,‘group.of.four [times] four’; also /lɛisinɛ iri hɛnɛl/,Barlow2024
-lote1237-1-221,lote1237-1,sixteen (16) (counting in fours),lɛisinɛ iri hɛnɛl,,‘group.of.four 3PL four’; also /lɛisinɛ hɛnɛl/,Barlow2024
-lote1237-1-222,lote1237-1,twelve (12) (counting in fours),lɛisinɛ iri mol,,‘group.of.four 3PL three’; also /lɛisinɛ mol/,Barlow2024
-lote1237-1-223,lote1237-1,eight (8) (counting in fours),lɛisinɛ iri nai,,‘group.of.four 3PL two’; also /lɛisinɛ nai/; cf. /ratɛle mol/ ‘eight’,Barlow2024
+lote1237-1-221,lote1237-1,sixteen (16) (counting in fours),lɛisinɛ iri hɛnɛl,,‘group.of.four [times] 3PL four’; also /lɛisinɛ hɛnɛl/,Barlow2024
+lote1237-1-222,lote1237-1,twelve (12) (counting in fours),lɛisinɛ iri mol,,‘group.of.four [times] 3PL three’; also /lɛisinɛ mol/,Barlow2024
+lote1237-1-223,lote1237-1,eight (8) (counting in fours),lɛisinɛ iri nai,,‘group.of.four [times] 3PL two’; also /lɛisinɛ nai/; cf. /ratɛle mol/ ‘eight’,Barlow2024
 lote1237-1-224,lote1237-1,twelve (12) (counting in fours),lɛisinɛ mol,,‘group.of.four [times] three’; also /lɛisinɛ iri mol/,Barlow2024
 lote1237-1-225,lote1237-1,eight (8) (counting in fours),lɛisinɛ nai,,‘group.of.four [times] two’; also /lɛisinɛ iri nai/; cf. /ratɛle mol/ ‘eight’,Barlow2024
 lote1237-1-226,lote1237-1,nine (9) (counting in fours),lɛisinɛ nai pe ɛllɛ,,‘group.of.four [times] two and one’; cf. /ratɛle hɛnɛl/ ‘nine’,Barlow2024
@@ -274,8 +274,8 @@ lote1237-1-272,lote1237-1,crocodile,marehit,,,Barlow2024
 lote1237-1-273,lote1237-1,dust,maruxrue,,,Barlow2024
 lote1237-1-274,lote1237-1,eye,mata-,"mata-k (1sg), mata-m (2sg), mata-na (3sg)",,Barlow2024
 lote1237-1-275,lote1237-1,"tear, teardrop",mata- ɛina,"mata-k ɛi-na (1sg), mata-m ɛi-na (2sg), mata-na ɛi-na (3sg)",‘eye-POSS blood-3SG’,Barlow2024
-lote1237-1-276,lote1237-1,sharp,matana,,‘eye-3SG’,Barlow2024
-lote1237-1-277,lote1237-1,"dull, blunt",matana ɛro,,‘eye-3SG NEG’,Barlow2024
+lote1237-1-276,lote1237-1,sharp,matana,,,Barlow2024
+lote1237-1-277,lote1237-1,"dull, blunt",matana ɛro,,‘sharp NEG’,Barlow2024
 lote1237-1-278,lote1237-1,"to be afraid, to fear",matau,matau-a,,Barlow2024
 lote1237-1-279,lote1237-1,"to live, to be alive",maul,maul~ul (reduplication),,Barlow2024
 lote1237-1-280,lote1237-1,chest,mautu-,"mautu-k (1sg), mautu-m (2sg), mautu-na (3sg)",,Barlow2024
@@ -382,7 +382,7 @@ lote1237-1-380,lote1237-1,to swim,pasu,,cf. /mana/ ‘to float; to swim (of anim
 lote1237-1-381,lote1237-1,back (of the body),pataŋa-,"pataŋa-k (1sg), pataŋa-m (2sg), pataŋa-na (3sg)",,Barlow2024
 lote1237-1-382,lote1237-1,vegetable sp. (TP: aibika),pau,,,Barlow2024
 lote1237-1-383,lote1237-1,and (coordinating conjunction); when (simultaneous action) (CONJ),pe,,same form as the abbreviated irrealis marker,Barlow2024
-lote1237-1-384,lote1237-1,irrealis marker (IRR),pe,,preverbal; abbreviated form of /lape/; same form as ‘and’,Barlow2024
+lote1237-1-384,lote1237-1,irrealis marker (IRR),pe,,"preverbal; same form as ‘and’, with which it may be related; also longer form /lape/",Barlow2024
 lote1237-1-385,lote1237-1,sand; beach,peipei,,reduplication?,Barlow2024
 lote1237-1-386,lote1237-1,house,pɛle,,,Barlow2024
 lote1237-1-387,lote1237-1,floor,pɛle lete-,pɛle lete-na (3sg),‘house inside-POSS’,Barlow2024

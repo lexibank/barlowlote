@@ -25,7 +25,7 @@ This dataset is licensed under a CC-BY-4.0 license
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 1 (linked to 1 different Glottocodes)
-- **Concepts:** 551 (linked to 443 different Concepticon concept sets)
+- **Concepts:** 552 (linked to 444 different Concepticon concept sets)
 - **Lexemes:** 591
 - **Sources:** 1
 - **Synonymy:** 1.07

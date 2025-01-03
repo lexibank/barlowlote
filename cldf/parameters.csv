@@ -18,7 +18,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 17_wormearthworm,"worm, earthworm",1219,WORM
 18_suckeregofabananaplant,"sucker (e.g., of a banana plant)",546,SUCKER
 19_topicmarkertop,topic marker (TOP),,
-20_fourcountinginfoursusedasanadnominalnumeral,four (counting in fours; used as an adnominal numeral),1500,FOUR
+20_four4countinginfoursusedasanadnominalnumeral,four (4) (counting in fours; used as an adnominal numeral),1500,FOUR
 21_twenty20,twenty (20),1710,TWENTY
 22_twohundred200,two hundred (200),2676,TWO HUNDRED
 23_hundredonehundred100,"hundred, one hundred (100)",1634,HUNDRED
@@ -170,7 +170,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 169_hereproximaldemonstrativetobehere,here (proximal demonstrative); to be here,136,HERE
 170_yellow,yellow,1424,YELLOW
 171_boy,boy,1366,BOY
-172_bag,bag,2468,BAG
+172_netbagstringbagtpbilum,"net bag, string bag (TP: bilum)",293,NETBAG
 173_son,son,1620,SON
 174_sweetpotatotpkaukau,sweet potato (TP: kaukau),159,SWEET POTATO
 175_hiding,hiding,2486,HIDE
@@ -205,7 +205,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 204_tothink,to think,2271,THINK
 205_generalpossessiveclassifierpossgen,general possessive classifier (POSS.GEN),,
 206_tofly,to fly,1441,FLY (MOVE THROUGH AIR)
-207_fourcountinginfoursonlyasanabsolutenumeralnotasanadnominalnumeral,"four (counting in fours; only as an absolute numeral, not as an adnominal numeral)",1500,FOUR
+207_four4countinginfoursonlyasanabsolutenumeralnotasanadnominalnumeral,"four (4) (counting in fours; only as an absolute numeral, not as an adnominal numeral)",1500,FOUR
 208_sixteen16countinginfours,sixteen (16) (counting in fours),2454,SIXTEEN
 209_twelve12countinginfours,twelve (12) (counting in fours),1707,TWELVE
 210_eight8countinginfours,eight (8) (counting in fours),1705,EIGHT
@@ -293,7 +293,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 292_yam,yam,410,YAM
 293_sweet,sweet,717,SWEET
 294_fatgrease,"fat, grease",323,FAT (ORGANIC SUBSTANCE)
-295_bagwovenbagmadeofwovenvines,"bag, woven bag made of woven vines",2468,BAG
+295_bagmadeofwovenvines,bag (made of woven vines),2468,BAG
 296_againtogobacktoreturnreflexivemarkerselfselvesrefl,"again; to go back, to return; reflexive marker (-self, -selves) (REFL)",204,AGAIN
 297_shadowshade,"shadow, shade",1388,SHADE
 298_mucussnot,"mucus, snot",208,NASAL MUCUS (SNOT)
@@ -357,7 +357,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 356_chicken,chicken,1318,CHICKEN
 357_toswim,to swim,1439,SWIM
 358_backofthebody,back (of the body),1291,BACK
-359_vegetablesptpaibika,vegetable sp. (TP: aibika),,
+359_vegetablespabelmoschusmanihottpaibika,vegetable sp. (Abelmoschus manihot; TP: aibika),,
 360_andcoordinatingconjunctionwhensimultaneousactionconj,and (coordinating conjunction); when (simultaneous action) (CONJ),1577,AND
 361_sandbeach,sand; beach,671,SAND
 362_house,house,1252,HOUSE
@@ -550,3 +550,4 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 550_generalpossessiveclassifier3sgpossgen3sg,general possessive classifier (3sg) (POSS.GEN.3SG),,
 551_when,when?,1238,WHEN
 552_topull,to pull,1455,PULL
+553_tocomebyfoot,to come (by foot),,

@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/barlowlote",
             "rdf:type": "prov:Entity",
-            "dc:created": "61febce",
+            "dc:created": "v1.0-12-gedcee2a",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.7"
+            "dc:description": "3.13.1"
         },
         {
             "dc:title": "python-packages",
@@ -227,7 +227,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 551,
+            "dc:extent": 552,
             "tableSchema": {
                 "columns": [
                     {
